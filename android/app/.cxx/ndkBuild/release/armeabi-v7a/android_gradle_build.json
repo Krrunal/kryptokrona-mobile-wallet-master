@@ -1,0 +1,54 @@
+{
+  "buildFiles": [
+    "/Users/techdodles/Desktop/Bhavya/Project/kryptokrona-mobile-wallet-master/android/app/src/main/jni/Android.mk",
+    "/Users/techdodles/Desktop/Bhavya/Project/kryptokrona-mobile-wallet-master/android/app/src/main/jni/Application.mk"
+  ],
+  "cleanCommands": [
+    "/Users/techdodles/Library/Android/sdk/ndk-bundle/ndk-build NDK_PROJECT_PATH\u003dnull APP_BUILD_SCRIPT\u003d/Users/techdodles/Desktop/Bhavya/Project/kryptokrona-mobile-wallet-master/android/app/src/main/jni/Android.mk NDK_APPLICATION_MK\u003d/Users/techdodles/Desktop/Bhavya/Project/kryptokrona-mobile-wallet-master/android/app/src/main/jni/Application.mk APP_ABI\u003darmeabi-v7a NDK_ALL_ABIS\u003darmeabi-v7a NDK_DEBUG\u003d0 APP_PLATFORM\u003dandroid-16 NDK_OUT\u003d/Users/techdodles/Desktop/Bhavya/Project/kryptokrona-mobile-wallet-master/android/app/build/intermediates/ndkBuild/release/obj NDK_LIBS_OUT\u003d/Users/techdodles/Desktop/Bhavya/Project/kryptokrona-mobile-wallet-master/android/app/build/intermediates/ndkBuild/release/lib clean"
+  ],
+  "buildTargetsCommand": "/Users/techdodles/Library/Android/sdk/ndk-bundle/ndk-build NDK_PROJECT_PATH\u003dnull APP_BUILD_SCRIPT\u003d/Users/techdodles/Desktop/Bhavya/Project/kryptokrona-mobile-wallet-master/android/app/src/main/jni/Android.mk NDK_APPLICATION_MK\u003d/Users/techdodles/Desktop/Bhavya/Project/kryptokrona-mobile-wallet-master/android/app/src/main/jni/Application.mk APP_ABI\u003darmeabi-v7a NDK_ALL_ABIS\u003darmeabi-v7a NDK_DEBUG\u003d0 APP_PLATFORM\u003dandroid-16 NDK_OUT\u003d/Users/techdodles/Desktop/Bhavya/Project/kryptokrona-mobile-wallet-master/android/app/build/intermediates/ndkBuild/release/obj NDK_LIBS_OUT\u003d/Users/techdodles/Desktop/Bhavya/Project/kryptokrona-mobile-wallet-master/android/app/build/intermediates/ndkBuild/release/lib {LIST_OF_TARGETS_TO_BUILD}",
+  "libraries": {
+    "TurtleCoin_jni-release-armeabi-v7a": {
+      "buildCommand": "/Users/techdodles/Library/Android/sdk/ndk-bundle/ndk-build NDK_PROJECT_PATH\u003dnull APP_BUILD_SCRIPT\u003d/Users/techdodles/Desktop/Bhavya/Project/kryptokrona-mobile-wallet-master/android/app/src/main/jni/Android.mk NDK_APPLICATION_MK\u003d/Users/techdodles/Desktop/Bhavya/Project/kryptokrona-mobile-wallet-master/android/app/src/main/jni/Application.mk APP_ABI\u003darmeabi-v7a NDK_ALL_ABIS\u003darmeabi-v7a NDK_DEBUG\u003d0 APP_PLATFORM\u003dandroid-16 NDK_OUT\u003d/Users/techdodles/Desktop/Bhavya/Project/kryptokrona-mobile-wallet-master/android/app/build/intermediates/ndkBuild/release/obj NDK_LIBS_OUT\u003d/Users/techdodles/Desktop/Bhavya/Project/kryptokrona-mobile-wallet-master/android/app/build/intermediates/ndkBuild/release/lib /Users/techdodles/Desktop/Bhavya/Project/kryptokrona-mobile-wallet-master/android/app/build/intermediates/ndkBuild/release/obj/local/armeabi-v7a/libTurtleCoin_jni.so",
+      "toolchain": "toolchain-armeabi-v7a",
+      "abi": "armeabi-v7a",
+      "artifactName": "TurtleCoin_jni",
+      "files": [
+        {
+          "src": "/Users/techdodles/Desktop/Bhavya/Project/kryptokrona-mobile-wallet-master/android/app/src/main/jni/TurtleCoin.cpp",
+          "flags": "-target armv7-none-linux-androideabi16 -fdata-sections -ffunction-sections -fstack-protector-strong -funwind-tables -no-canonical-prefixes --sysroot /Users/techdodles/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64/sysroot -g -Wno-invalid-command-line-argument -Wno-unused-command-line-argument -D_FORTIFY_SOURCE\u003d2 -fno-exceptions -fno-rtti -fpic -march\u003darmv7-a -mthumb -Oz -DNDEBUG -I/Users/techdodles/Library/Android/sdk/ndk-bundle/sources/cxx-stl/llvm-libc++/include -I/Users/techdodles/Library/Android/sdk/ndk-bundle/sources/cxx-stl/llvm-libc++abi/include -I/Users/techdodles/Desktop/Bhavya/Project/kryptokrona-mobile-wallet-master/android/app/src/main/jni -O3 -O3 -std\u003dc++17 -DANDROID -nostdinc++ -Wformat -Werror\u003dformat-security -fno-strict-aliasing"
+        },
+        {
+          "src": "/Users/techdodles/Desktop/Bhavya/Project/kryptokrona-mobile-wallet-master/android/app/src/main/jni/crypto-ops-data.cpp",
+          "flags": "-target armv7-none-linux-androideabi16 -fdata-sections -ffunction-sections -fstack-protector-strong -funwind-tables -no-canonical-prefixes --sysroot /Users/techdodles/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64/sysroot -g -Wno-invalid-command-line-argument -Wno-unused-command-line-argument -D_FORTIFY_SOURCE\u003d2 -fno-exceptions -fno-rtti -fpic -march\u003darmv7-a -mthumb -Oz -DNDEBUG -I/Users/techdodles/Library/Android/sdk/ndk-bundle/sources/cxx-stl/llvm-libc++/include -I/Users/techdodles/Library/Android/sdk/ndk-bundle/sources/cxx-stl/llvm-libc++abi/include -I/Users/techdodles/Desktop/Bhavya/Project/kryptokrona-mobile-wallet-master/android/app/src/main/jni -O3 -O3 -std\u003dc++17 -DANDROID -nostdinc++ -Wformat -Werror\u003dformat-security -fno-strict-aliasing"
+        },
+        {
+          "src": "/Users/techdodles/Desktop/Bhavya/Project/kryptokrona-mobile-wallet-master/android/app/src/main/jni/crypto-ops.cpp",
+          "flags": "-target armv7-none-linux-androideabi16 -fdata-sections -ffunction-sections -fstack-protector-strong -funwind-tables -no-canonical-prefixes --sysroot /Users/techdodles/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64/sysroot -g -Wno-invalid-command-line-argument -Wno-unused-command-line-argument -D_FORTIFY_SOURCE\u003d2 -fno-exceptions -fno-rtti -fpic -march\u003darmv7-a -mthumb -Oz -DNDEBUG -I/Users/techdodles/Library/Android/sdk/ndk-bundle/sources/cxx-stl/llvm-libc++/include -I/Users/techdodles/Library/Android/sdk/ndk-bundle/sources/cxx-stl/llvm-libc++abi/include -I/Users/techdodles/Desktop/Bhavya/Project/kryptokrona-mobile-wallet-master/android/app/src/main/jni -O3 -O3 -std\u003dc++17 -DANDROID -nostdinc++ -Wformat -Werror\u003dformat-security -fno-strict-aliasing"
+        },
+        {
+          "src": "/Users/techdodles/Desktop/Bhavya/Project/kryptokrona-mobile-wallet-master/android/app/src/main/jni/crypto.cpp",
+          "flags": "-target armv7-none-linux-androideabi16 -fdata-sections -ffunction-sections -fstack-protector-strong -funwind-tables -no-canonical-prefixes --sysroot /Users/techdodles/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64/sysroot -g -Wno-invalid-command-line-argument -Wno-unused-command-line-argument -D_FORTIFY_SOURCE\u003d2 -fno-exceptions -fno-rtti -fpic -march\u003darmv7-a -mthumb -Oz -DNDEBUG -I/Users/techdodles/Library/Android/sdk/ndk-bundle/sources/cxx-stl/llvm-libc++/include -I/Users/techdodles/Library/Android/sdk/ndk-bundle/sources/cxx-stl/llvm-libc++abi/include -I/Users/techdodles/Desktop/Bhavya/Project/kryptokrona-mobile-wallet-master/android/app/src/main/jni -O3 -O3 -std\u003dc++17 -DANDROID -nostdinc++ -Wformat -Werror\u003dformat-security -fno-strict-aliasing"
+        },
+        {
+          "src": "/Users/techdodles/Desktop/Bhavya/Project/kryptokrona-mobile-wallet-master/android/app/src/main/jni/hash.cpp",
+          "flags": "-target armv7-none-linux-androideabi16 -fdata-sections -ffunction-sections -fstack-protector-strong -funwind-tables -no-canonical-prefixes --sysroot /Users/techdodles/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64/sysroot -g -Wno-invalid-command-line-argument -Wno-unused-command-line-argument -D_FORTIFY_SOURCE\u003d2 -fno-exceptions -fno-rtti -fpic -march\u003darmv7-a -mthumb -Oz -DNDEBUG -I/Users/techdodles/Library/Android/sdk/ndk-bundle/sources/cxx-stl/llvm-libc++/include -I/Users/techdodles/Library/Android/sdk/ndk-bundle/sources/cxx-stl/llvm-libc++abi/include -I/Users/techdodles/Desktop/Bhavya/Project/kryptokrona-mobile-wallet-master/android/app/src/main/jni -O3 -O3 -std\u003dc++17 -DANDROID -nostdinc++ -Wformat -Werror\u003dformat-security -fno-strict-aliasing"
+        },
+        {
+          "src": "/Users/techdodles/Desktop/Bhavya/Project/kryptokrona-mobile-wallet-master/android/app/src/main/jni/keccak.cpp",
+          "flags": "-target armv7-none-linux-androideabi16 -fdata-sections -ffunction-sections -fstack-protector-strong -funwind-tables -no-canonical-prefixes --sysroot /Users/techdodles/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64/sysroot -g -Wno-invalid-command-line-argument -Wno-unused-command-line-argument -D_FORTIFY_SOURCE\u003d2 -fno-exceptions -fno-rtti -fpic -march\u003darmv7-a -mthumb -Oz -DNDEBUG -I/Users/techdodles/Library/Android/sdk/ndk-bundle/sources/cxx-stl/llvm-libc++/include -I/Users/techdodles/Library/Android/sdk/ndk-bundle/sources/cxx-stl/llvm-libc++abi/include -I/Users/techdodles/Desktop/Bhavya/Project/kryptokrona-mobile-wallet-master/android/app/src/main/jni -O3 -O3 -std\u003dc++17 -DANDROID -nostdinc++ -Wformat -Werror\u003dformat-security -fno-strict-aliasing"
+        }
+      ],
+      "output": "/Users/techdodles/Desktop/Bhavya/Project/kryptokrona-mobile-wallet-master/android/app/build/intermediates/ndkBuild/release/obj/local/armeabi-v7a/libTurtleCoin_jni.so"
+    }
+  },
+  "toolchains": {
+    "toolchain-armeabi-v7a": {
+      "cppCompilerExecutable": "/Users/techdodles/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++"
+    }
+  },
+  "cFileExtensions": [],
+  "cppFileExtensions": [
+    "cpp"
+  ]
+}

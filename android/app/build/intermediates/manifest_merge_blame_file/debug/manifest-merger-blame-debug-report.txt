@@ -1,0 +1,402 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.xkr"
+4    android:versionCode="102"
+5    android:versionName="v1.0.2" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="16"
+9        android:targetSdkVersion="29" />
+10
+11    <uses-permission android:name="android.permission.SYSTEM_ALERT_WINDOW" />
+11-->/Users/techdodles/Desktop/Bhavya/Project/kryptokrona-mobile-wallet-master/android/app/src/debug/AndroidManifest.xml:5:5-77
+11-->/Users/techdodles/Desktop/Bhavya/Project/kryptokrona-mobile-wallet-master/android/app/src/debug/AndroidManifest.xml:5:22-75
+12    <uses-permission android:name="android.permission.INTERNET" />
+12-->/Users/techdodles/Desktop/Bhavya/Project/kryptokrona-mobile-wallet-master/android/app/src/main/AndroidManifest.xml:4:5-67
+12-->/Users/techdodles/Desktop/Bhavya/Project/kryptokrona-mobile-wallet-master/android/app/src/main/AndroidManifest.xml:4:22-64
+13    <uses-permission android:name="android.permission.CAMERA" />
+13-->/Users/techdodles/Desktop/Bhavya/Project/kryptokrona-mobile-wallet-master/android/app/src/main/AndroidManifest.xml:5:5-65
+13-->/Users/techdodles/Desktop/Bhavya/Project/kryptokrona-mobile-wallet-master/android/app/src/main/AndroidManifest.xml:5:22-62
+14    <uses-permission android:name="android.permission.VIBRATE" />
+14-->/Users/techdodles/Desktop/Bhavya/Project/kryptokrona-mobile-wallet-master/android/app/src/main/AndroidManifest.xml:6:5-65
+14-->/Users/techdodles/Desktop/Bhavya/Project/kryptokrona-mobile-wallet-master/android/app/src/main/AndroidManifest.xml:6:22-63
+15    <uses-permission android:name="android.permission.USE_FINGERPRINT" />
+15-->/Users/techdodles/Desktop/Bhavya/Project/kryptokrona-mobile-wallet-master/android/app/src/main/AndroidManifest.xml:7:5-74
+15-->/Users/techdodles/Desktop/Bhavya/Project/kryptokrona-mobile-wallet-master/android/app/src/main/AndroidManifest.xml:7:22-71
+16    <uses-permission android:name="com.fingerprints.service.ACCESS_FINGERPRINT_MANAGER" />
+16-->[:react-native-fingerprint-scanner] /Users/techdodles/Desktop/Bhavya/Project/kryptokrona-mobile-wallet-master/node_modules/react-native-fingerprint-scanner/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:12:5-91
+16-->[:react-native-fingerprint-scanner] /Users/techdodles/Desktop/Bhavya/Project/kryptokrona-mobile-wallet-master/node_modules/react-native-fingerprint-scanner/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:12:22-88
+17    <uses-permission android:name="com.samsung.android.providers.context.permission.WRITE_USE_APP_FEATURE_SURVEY" />
+17-->[:react-native-fingerprint-scanner] /Users/techdodles/Desktop/Bhavya/Project/kryptokrona-mobile-wallet-master/node_modules/react-native-fingerprint-scanner/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:13:5-117
+17-->[:react-native-fingerprint-scanner] /Users/techdodles/Desktop/Bhavya/Project/kryptokrona-mobile-wallet-master/node_modules/react-native-fingerprint-scanner/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:13:22-114
+18    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+18-->[:@react-native-community_netinfo] /Users/techdodles/Desktop/Bhavya/Project/kryptokrona-mobile-wallet-master/node_modules/@react-native-community/netinfo/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:9:5-79
+18-->[:@react-native-community_netinfo] /Users/techdodles/Desktop/Bhavya/Project/kryptokrona-mobile-wallet-master/node_modules/@react-native-community/netinfo/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:9:22-76
+19
+20    <uses-feature
+20-->[:react-native-camera] /Users/techdodles/Desktop/Bhavya/Project/kryptokrona-mobile-wallet-master/node_modules/react-native-camera/android/build/intermediates/library_manifest/generalDebug/AndroidManifest.xml:11:5-13:36
+21        android:name="android.hardware.camera"
+21-->[:react-native-camera] /Users/techdodles/Desktop/Bhavya/Project/kryptokrona-mobile-wallet-master/node_modules/react-native-camera/android/build/intermediates/library_manifest/generalDebug/AndroidManifest.xml:12:9-47
+22        android:required="false" />
+22-->[:react-native-camera] /Users/techdodles/Desktop/Bhavya/Project/kryptokrona-mobile-wallet-master/node_modules/react-native-camera/android/build/intermediates/library_manifest/generalDebug/AndroidManifest.xml:13:9-33
+23    <uses-feature
+23-->[:react-native-camera] /Users/techdodles/Desktop/Bhavya/Project/kryptokrona-mobile-wallet-master/node_modules/react-native-camera/android/build/intermediates/library_manifest/generalDebug/AndroidManifest.xml:14:5-16:36
+24        android:name="android.hardware.camera.autofocus"
+24-->[:react-native-camera] /Users/techdodles/Desktop/Bhavya/Project/kryptokrona-mobile-wallet-master/node_modules/react-native-camera/android/build/intermediates/library_manifest/generalDebug/AndroidManifest.xml:15:9-57
+25        android:required="false" />
+25-->[:react-native-camera] /Users/techdodles/Desktop/Bhavya/Project/kryptokrona-mobile-wallet-master/node_modules/react-native-camera/android/build/intermediates/library_manifest/generalDebug/AndroidManifest.xml:16:9-33
+26
+27    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+27-->[:react-native-udp] /Users/techdodles/Desktop/Bhavya/Project/kryptokrona-mobile-wallet-master/node_modules/react-native-udp/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:13:5-76
+27-->[:react-native-udp] /Users/techdodles/Desktop/Bhavya/Project/kryptokrona-mobile-wallet-master/node_modules/react-native-udp/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:13:22-73
+28    <uses-permission android:name="android.permission.CHANGE_WIFI_MULTICAST_STATE" />
+28-->[:react-native-udp] /Users/techdodles/Desktop/Bhavya/Project/kryptokrona-mobile-wallet-master/node_modules/react-native-udp/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:14:5-86
+28-->[:react-native-udp] /Users/techdodles/Desktop/Bhavya/Project/kryptokrona-mobile-wallet-master/node_modules/react-native-udp/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:14:22-83
+29    <uses-permission android:name="android.permission.RECEIVE_BOOT_COMPLETED" />
+29-->[com.transistorsoft:tsbackgroundfetch:0.3.1] /Users/techdodles/.gradle/caches/transforms-2/files-2.1/d47723bbaa89f858dfa553488f365093/tsbackgroundfetch-0.3.1/AndroidManifest.xml:11:5-81
+29-->[com.transistorsoft:tsbackgroundfetch:0.3.1] /Users/techdodles/.gradle/caches/transforms-2/files-2.1/d47723bbaa89f858dfa553488f365093/tsbackgroundfetch-0.3.1/AndroidManifest.xml:11:22-78
+30    <uses-permission android:name="android.permission.GET_TASKS" /> <!-- Required by older versions of Google Play services to create GCM registration tokens -->
+30-->[com.transistorsoft:tsbackgroundfetch:0.3.1] /Users/techdodles/.gradle/caches/transforms-2/files-2.1/d47723bbaa89f858dfa553488f365093/tsbackgroundfetch-0.3.1/AndroidManifest.xml:12:5-68
+30-->[com.transistorsoft:tsbackgroundfetch:0.3.1] /Users/techdodles/.gradle/caches/transforms-2/files-2.1/d47723bbaa89f858dfa553488f365093/tsbackgroundfetch-0.3.1/AndroidManifest.xml:12:22-65
+31    <uses-permission android:name="com.google.android.c2dm.permission.RECEIVE" />
+31-->[com.google.android.gms:play-services-gcm:17.0.0] /Users/techdodles/.gradle/caches/transforms-2/files-2.1/b4f5dccaeb018f86f07f122801f1086d/play-services-gcm-17.0.0/AndroidManifest.xml:23:5-82
+31-->[com.google.android.gms:play-services-gcm:17.0.0] /Users/techdodles/.gradle/caches/transforms-2/files-2.1/b4f5dccaeb018f86f07f122801f1086d/play-services-gcm-17.0.0/AndroidManifest.xml:23:22-79
+32    <uses-permission android:name="android.permission.WAKE_LOCK" /> <!-- for android -->
+32-->[com.google.firebase:firebase-iid:21.0.1] /Users/techdodles/.gradle/caches/transforms-2/files-2.1/5dc913cc10a69dcb0d5e5e9770496438/firebase-iid-21.0.1/AndroidManifest.xml:24:5-68
+32-->[com.google.firebase:firebase-iid:21.0.1] /Users/techdodles/.gradle/caches/transforms-2/files-2.1/5dc913cc10a69dcb0d5e5e9770496438/firebase-iid-21.0.1/AndroidManifest.xml:24:22-65
+33    <!-- <uses-permission android:name="com.android.launcher.permission.READ_SETTINGS"/> -->
+34    <!-- <uses-permission android:name="com.android.launcher.permission.WRITE_SETTINGS"/> -->
+35    <!-- <uses-permission android:name="com.android.launcher.permission.INSTALL_SHORTCUT" /> -->
+36    <!-- <uses-permission android:name="com.android.launcher.permission.UNINSTALL_SHORTCUT" /> -->
+37    <!-- for Samsung -->
+38    <uses-permission android:name="com.sec.android.provider.badge.permission.READ" />
+38-->[me.leolin:ShortcutBadger:1.1.8] /Users/techdodles/.gradle/caches/transforms-2/files-2.1/ac21f01c6641e2f1f87c8086c8adf8e6/ShortcutBadger-1.1.8/AndroidManifest.xml:19:5-86
+38-->[me.leolin:ShortcutBadger:1.1.8] /Users/techdodles/.gradle/caches/transforms-2/files-2.1/ac21f01c6641e2f1f87c8086c8adf8e6/ShortcutBadger-1.1.8/AndroidManifest.xml:19:22-83
+39    <uses-permission android:name="com.sec.android.provider.badge.permission.WRITE" /> <!-- for htc -->
+39-->[me.leolin:ShortcutBadger:1.1.8] /Users/techdodles/.gradle/caches/transforms-2/files-2.1/ac21f01c6641e2f1f87c8086c8adf8e6/ShortcutBadger-1.1.8/AndroidManifest.xml:20:5-87
+39-->[me.leolin:ShortcutBadger:1.1.8] /Users/techdodles/.gradle/caches/transforms-2/files-2.1/ac21f01c6641e2f1f87c8086c8adf8e6/ShortcutBadger-1.1.8/AndroidManifest.xml:20:22-84
+40    <uses-permission android:name="com.htc.launcher.permission.READ_SETTINGS" />
+40-->[me.leolin:ShortcutBadger:1.1.8] /Users/techdodles/.gradle/caches/transforms-2/files-2.1/ac21f01c6641e2f1f87c8086c8adf8e6/ShortcutBadger-1.1.8/AndroidManifest.xml:23:5-81
+40-->[me.leolin:ShortcutBadger:1.1.8] /Users/techdodles/.gradle/caches/transforms-2/files-2.1/ac21f01c6641e2f1f87c8086c8adf8e6/ShortcutBadger-1.1.8/AndroidManifest.xml:23:22-78
+41    <uses-permission android:name="com.htc.launcher.permission.UPDATE_SHORTCUT" /> <!-- for sony -->
+41-->[me.leolin:ShortcutBadger:1.1.8] /Users/techdodles/.gradle/caches/transforms-2/files-2.1/ac21f01c6641e2f1f87c8086c8adf8e6/ShortcutBadger-1.1.8/AndroidManifest.xml:24:5-83
+41-->[me.leolin:ShortcutBadger:1.1.8] /Users/techdodles/.gradle/caches/transforms-2/files-2.1/ac21f01c6641e2f1f87c8086c8adf8e6/ShortcutBadger-1.1.8/AndroidManifest.xml:24:22-80
+42    <uses-permission android:name="com.sonyericsson.home.permission.BROADCAST_BADGE" />
+42-->[me.leolin:ShortcutBadger:1.1.8] /Users/techdodles/.gradle/caches/transforms-2/files-2.1/ac21f01c6641e2f1f87c8086c8adf8e6/ShortcutBadger-1.1.8/AndroidManifest.xml:27:5-88
+42-->[me.leolin:ShortcutBadger:1.1.8] /Users/techdodles/.gradle/caches/transforms-2/files-2.1/ac21f01c6641e2f1f87c8086c8adf8e6/ShortcutBadger-1.1.8/AndroidManifest.xml:27:22-85
+43    <uses-permission android:name="com.sonymobile.home.permission.PROVIDER_INSERT_BADGE" /> <!-- for apex -->
+43-->[me.leolin:ShortcutBadger:1.1.8] /Users/techdodles/.gradle/caches/transforms-2/files-2.1/ac21f01c6641e2f1f87c8086c8adf8e6/ShortcutBadger-1.1.8/AndroidManifest.xml:28:5-92
+43-->[me.leolin:ShortcutBadger:1.1.8] /Users/techdodles/.gradle/caches/transforms-2/files-2.1/ac21f01c6641e2f1f87c8086c8adf8e6/ShortcutBadger-1.1.8/AndroidManifest.xml:28:22-89
+44    <uses-permission android:name="com.anddoes.launcher.permission.UPDATE_COUNT" /> <!-- for solid -->
+44-->[me.leolin:ShortcutBadger:1.1.8] /Users/techdodles/.gradle/caches/transforms-2/files-2.1/ac21f01c6641e2f1f87c8086c8adf8e6/ShortcutBadger-1.1.8/AndroidManifest.xml:31:5-84
+44-->[me.leolin:ShortcutBadger:1.1.8] /Users/techdodles/.gradle/caches/transforms-2/files-2.1/ac21f01c6641e2f1f87c8086c8adf8e6/ShortcutBadger-1.1.8/AndroidManifest.xml:31:22-81
+45    <uses-permission android:name="com.majeur.launcher.permission.UPDATE_BADGE" /> <!-- for huawei -->
+45-->[me.leolin:ShortcutBadger:1.1.8] /Users/techdodles/.gradle/caches/transforms-2/files-2.1/ac21f01c6641e2f1f87c8086c8adf8e6/ShortcutBadger-1.1.8/AndroidManifest.xml:34:5-83
+45-->[me.leolin:ShortcutBadger:1.1.8] /Users/techdodles/.gradle/caches/transforms-2/files-2.1/ac21f01c6641e2f1f87c8086c8adf8e6/ShortcutBadger-1.1.8/AndroidManifest.xml:34:22-80
+46    <uses-permission android:name="com.huawei.android.launcher.permission.CHANGE_BADGE" />
+46-->[me.leolin:ShortcutBadger:1.1.8] /Users/techdodles/.gradle/caches/transforms-2/files-2.1/ac21f01c6641e2f1f87c8086c8adf8e6/ShortcutBadger-1.1.8/AndroidManifest.xml:37:5-91
+46-->[me.leolin:ShortcutBadger:1.1.8] /Users/techdodles/.gradle/caches/transforms-2/files-2.1/ac21f01c6641e2f1f87c8086c8adf8e6/ShortcutBadger-1.1.8/AndroidManifest.xml:37:22-88
+47    <uses-permission android:name="com.huawei.android.launcher.permission.READ_SETTINGS" />
+47-->[me.leolin:ShortcutBadger:1.1.8] /Users/techdodles/.gradle/caches/transforms-2/files-2.1/ac21f01c6641e2f1f87c8086c8adf8e6/ShortcutBadger-1.1.8/AndroidManifest.xml:38:5-92
+47-->[me.leolin:ShortcutBadger:1.1.8] /Users/techdodles/.gradle/caches/transforms-2/files-2.1/ac21f01c6641e2f1f87c8086c8adf8e6/ShortcutBadger-1.1.8/AndroidManifest.xml:38:22-89
+48    <uses-permission android:name="com.huawei.android.launcher.permission.WRITE_SETTINGS" />
+48-->[me.leolin:ShortcutBadger:1.1.8] /Users/techdodles/.gradle/caches/transforms-2/files-2.1/ac21f01c6641e2f1f87c8086c8adf8e6/ShortcutBadger-1.1.8/AndroidManifest.xml:39:5-93
+48-->[me.leolin:ShortcutBadger:1.1.8] /Users/techdodles/.gradle/caches/transforms-2/files-2.1/ac21f01c6641e2f1f87c8086c8adf8e6/ShortcutBadger-1.1.8/AndroidManifest.xml:39:22-90
+49
+50    <application
+50-->/Users/techdodles/Desktop/Bhavya/Project/kryptokrona-mobile-wallet-master/android/app/src/main/AndroidManifest.xml:9:5-61:19
+51        android:name="com.xkr.MainApplication"
+51-->/Users/techdodles/Desktop/Bhavya/Project/kryptokrona-mobile-wallet-master/android/app/src/main/AndroidManifest.xml:10:7-38
+52        android:allowBackup="false"
+52-->/Users/techdodles/Desktop/Bhavya/Project/kryptokrona-mobile-wallet-master/android/app/src/main/AndroidManifest.xml:14:7-34
+53        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+53-->[androidx.core:core:1.0.1] /Users/techdodles/.gradle/caches/transforms-2/files-2.1/e8e0b2ee21f4e5d9e64c2486f33da267/core-1.0.1/AndroidManifest.xml:22:18-86
+54        android:debuggable="true"
+55        android:icon="@mipmap/ic_launcher"
+55-->/Users/techdodles/Desktop/Bhavya/Project/kryptokrona-mobile-wallet-master/android/app/src/main/AndroidManifest.xml:12:7-41
+56        android:label="@string/app_name"
+56-->/Users/techdodles/Desktop/Bhavya/Project/kryptokrona-mobile-wallet-master/android/app/src/main/AndroidManifest.xml:11:7-39
+57        android:largeHeap="true"
+57-->/Users/techdodles/Desktop/Bhavya/Project/kryptokrona-mobile-wallet-master/android/app/src/main/AndroidManifest.xml:15:7-31
+58        android:roundIcon="@mipmap/ic_launcher_round"
+58-->/Users/techdodles/Desktop/Bhavya/Project/kryptokrona-mobile-wallet-master/android/app/src/main/AndroidManifest.xml:13:7-52
+59        android:theme="@style/AppTheme"
+59-->/Users/techdodles/Desktop/Bhavya/Project/kryptokrona-mobile-wallet-master/android/app/src/main/AndroidManifest.xml:17:7-38
+60        android:usesCleartextTraffic="true" >
+60-->/Users/techdodles/Desktop/Bhavya/Project/kryptokrona-mobile-wallet-master/android/app/src/main/AndroidManifest.xml:16:7-42
+61        <meta-data
+61-->/Users/techdodles/Desktop/Bhavya/Project/kryptokrona-mobile-wallet-master/android/app/src/main/AndroidManifest.xml:19:9-20:65
+62            android:name="com.dieam.reactnativepushnotification.notification_channel_name"
+62-->/Users/techdodles/Desktop/Bhavya/Project/kryptokrona-mobile-wallet-master/android/app/src/main/AndroidManifest.xml:19:21-99
+63            android:value="YOUR NOTIFICATION CHANNEL NAME" />
+63-->/Users/techdodles/Desktop/Bhavya/Project/kryptokrona-mobile-wallet-master/android/app/src/main/AndroidManifest.xml:20:17-63
+64        <meta-data
+64-->/Users/techdodles/Desktop/Bhavya/Project/kryptokrona-mobile-wallet-master/android/app/src/main/AndroidManifest.xml:21:9-22:76
+65            android:name="com.dieam.reactnativepushnotification.notification_channel_description"
+65-->/Users/techdodles/Desktop/Bhavya/Project/kryptokrona-mobile-wallet-master/android/app/src/main/AndroidManifest.xml:21:21-106
+66            android:value="YOUR NOTIFICATION CHANNEL DESCRIPTION" /> <!-- Change the resource name to your App's accent color - or any other color you want -->
+66-->/Users/techdodles/Desktop/Bhavya/Project/kryptokrona-mobile-wallet-master/android/app/src/main/AndroidManifest.xml:22:21-74
+67        <meta-data
+67-->/Users/techdodles/Desktop/Bhavya/Project/kryptokrona-mobile-wallet-master/android/app/src/main/AndroidManifest.xml:24:9-25:62
+68            android:name="com.dieam.reactnativepushnotification.notification_color"
+68-->/Users/techdodles/Desktop/Bhavya/Project/kryptokrona-mobile-wallet-master/android/app/src/main/AndroidManifest.xml:24:21-92
+69            android:resource="@android:color/white" />
+69-->/Users/techdodles/Desktop/Bhavya/Project/kryptokrona-mobile-wallet-master/android/app/src/main/AndroidManifest.xml:25:21-60
+70
+71        <receiver android:name="com.dieam.reactnativepushnotification.modules.RNPushNotificationPublisher" />
+71-->/Users/techdodles/Desktop/Bhavya/Project/kryptokrona-mobile-wallet-master/android/app/src/main/AndroidManifest.xml:27:9-110
+71-->/Users/techdodles/Desktop/Bhavya/Project/kryptokrona-mobile-wallet-master/android/app/src/main/AndroidManifest.xml:27:19-107
+72        <receiver android:name="com.dieam.reactnativepushnotification.modules.RNPushNotificationBootEventReceiver" >
+72-->/Users/techdodles/Desktop/Bhavya/Project/kryptokrona-mobile-wallet-master/android/app/src/main/AndroidManifest.xml:28:9-32:20
+72-->/Users/techdodles/Desktop/Bhavya/Project/kryptokrona-mobile-wallet-master/android/app/src/main/AndroidManifest.xml:28:19-115
+73            <intent-filter>
+73-->/Users/techdodles/Desktop/Bhavya/Project/kryptokrona-mobile-wallet-master/android/app/src/main/AndroidManifest.xml:29:13-31:29
+74                <action android:name="android.intent.action.BOOT_COMPLETED" />
+74-->/Users/techdodles/Desktop/Bhavya/Project/kryptokrona-mobile-wallet-master/android/app/src/main/AndroidManifest.xml:30:17-79
+74-->/Users/techdodles/Desktop/Bhavya/Project/kryptokrona-mobile-wallet-master/android/app/src/main/AndroidManifest.xml:30:25-76
+75            </intent-filter>
+76        </receiver>
+77
+78        <service android:name="com.dieam.reactnativepushnotification.modules.RNPushNotificationRegistrationService" />
+78-->/Users/techdodles/Desktop/Bhavya/Project/kryptokrona-mobile-wallet-master/android/app/src/main/AndroidManifest.xml:33:9-118
+78-->/Users/techdodles/Desktop/Bhavya/Project/kryptokrona-mobile-wallet-master/android/app/src/main/AndroidManifest.xml:33:18-116
+79        <service
+79-->/Users/techdodles/Desktop/Bhavya/Project/kryptokrona-mobile-wallet-master/android/app/src/main/AndroidManifest.xml:35:9-41:19
+80            android:name="com.dieam.reactnativepushnotification.modules.RNPushNotificationListenerService"
+80-->/Users/techdodles/Desktop/Bhavya/Project/kryptokrona-mobile-wallet-master/android/app/src/main/AndroidManifest.xml:36:13-107
+81            android:exported="false" >
+81-->/Users/techdodles/Desktop/Bhavya/Project/kryptokrona-mobile-wallet-master/android/app/src/main/AndroidManifest.xml:37:13-37
+82            <intent-filter>
+82-->/Users/techdodles/Desktop/Bhavya/Project/kryptokrona-mobile-wallet-master/android/app/src/main/AndroidManifest.xml:38:13-40:29
+83                <action android:name="com.google.firebase.MESSAGING_EVENT" />
+83-->/Users/techdodles/Desktop/Bhavya/Project/kryptokrona-mobile-wallet-master/android/app/src/main/AndroidManifest.xml:39:17-78
+83-->/Users/techdodles/Desktop/Bhavya/Project/kryptokrona-mobile-wallet-master/android/app/src/main/AndroidManifest.xml:39:25-75
+84            </intent-filter>
+85        </service>
+86
+87        <activity
+87-->/Users/techdodles/Desktop/Bhavya/Project/kryptokrona-mobile-wallet-master/android/app/src/main/AndroidManifest.xml:43:7-59:18
+88            android:name="com.xkr.MainActivity"
+88-->/Users/techdodles/Desktop/Bhavya/Project/kryptokrona-mobile-wallet-master/android/app/src/main/AndroidManifest.xml:44:9-37
+89            android:configChanges="keyboard|keyboardHidden|orientation|screenSize"
+89-->/Users/techdodles/Desktop/Bhavya/Project/kryptokrona-mobile-wallet-master/android/app/src/main/AndroidManifest.xml:46:9-79
+90            android:label="@string/app_name"
+90-->/Users/techdodles/Desktop/Bhavya/Project/kryptokrona-mobile-wallet-master/android/app/src/main/AndroidManifest.xml:45:9-41
+91            android:screenOrientation="portrait"
+91-->/Users/techdodles/Desktop/Bhavya/Project/kryptokrona-mobile-wallet-master/android/app/src/main/AndroidManifest.xml:47:9-45
+92            android:windowSoftInputMode="adjustPan" >
+92-->/Users/techdodles/Desktop/Bhavya/Project/kryptokrona-mobile-wallet-master/android/app/src/main/AndroidManifest.xml:48:9-48
+93            <intent-filter>
+93-->/Users/techdodles/Desktop/Bhavya/Project/kryptokrona-mobile-wallet-master/android/app/src/main/AndroidManifest.xml:49:9-52:25
+94                <action android:name="android.intent.action.MAIN" />
+94-->/Users/techdodles/Desktop/Bhavya/Project/kryptokrona-mobile-wallet-master/android/app/src/main/AndroidManifest.xml:50:13-65
+94-->/Users/techdodles/Desktop/Bhavya/Project/kryptokrona-mobile-wallet-master/android/app/src/main/AndroidManifest.xml:50:21-62
+95
+96                <category android:name="android.intent.category.LAUNCHER" />
+96-->/Users/techdodles/Desktop/Bhavya/Project/kryptokrona-mobile-wallet-master/android/app/src/main/AndroidManifest.xml:51:13-73
+96-->/Users/techdodles/Desktop/Bhavya/Project/kryptokrona-mobile-wallet-master/android/app/src/main/AndroidManifest.xml:51:23-70
+97            </intent-filter>
+98            <intent-filter android:label="filter_react_native" >
+98-->/Users/techdodles/Desktop/Bhavya/Project/kryptokrona-mobile-wallet-master/android/app/src/main/AndroidManifest.xml:53:9-58:25
+98-->/Users/techdodles/Desktop/Bhavya/Project/kryptokrona-mobile-wallet-master/android/app/src/main/AndroidManifest.xml:53:24-59
+99                <action android:name="android.intent.action.VIEW" />
+99-->/Users/techdodles/Desktop/Bhavya/Project/kryptokrona-mobile-wallet-master/android/app/src/main/AndroidManifest.xml:54:11-63
+99-->/Users/techdodles/Desktop/Bhavya/Project/kryptokrona-mobile-wallet-master/android/app/src/main/AndroidManifest.xml:54:19-60
+100
+101                <category android:name="android.intent.category.DEFAULT" />
+101-->/Users/techdodles/Desktop/Bhavya/Project/kryptokrona-mobile-wallet-master/android/app/src/main/AndroidManifest.xml:55:11-70
+101-->/Users/techdodles/Desktop/Bhavya/Project/kryptokrona-mobile-wallet-master/android/app/src/main/AndroidManifest.xml:55:21-67
+102                <category android:name="android.intent.category.BROWSABLE" />
+102-->/Users/techdodles/Desktop/Bhavya/Project/kryptokrona-mobile-wallet-master/android/app/src/main/AndroidManifest.xml:56:11-72
+102-->/Users/techdodles/Desktop/Bhavya/Project/kryptokrona-mobile-wallet-master/android/app/src/main/AndroidManifest.xml:56:21-69
+103
+104                <data android:scheme="turtlecoin" />
+104-->/Users/techdodles/Desktop/Bhavya/Project/kryptokrona-mobile-wallet-master/android/app/src/main/AndroidManifest.xml:57:11-46
+104-->/Users/techdodles/Desktop/Bhavya/Project/kryptokrona-mobile-wallet-master/android/app/src/main/AndroidManifest.xml:57:17-44
+105            </intent-filter>
+106        </activity>
+107        <activity android:name="com.facebook.react.devsupport.DevSettingsActivity" /> <!-- HeadlessJS For android sdk 21+ uses new JobScheduler API -->
+107-->/Users/techdodles/Desktop/Bhavya/Project/kryptokrona-mobile-wallet-master/android/app/src/main/AndroidManifest.xml:60:7-84
+107-->/Users/techdodles/Desktop/Bhavya/Project/kryptokrona-mobile-wallet-master/android/app/src/main/AndroidManifest.xml:60:17-81
+108        <service
+108-->[:react-native-background-fetch] /Users/techdodles/Desktop/Bhavya/Project/kryptokrona-mobile-wallet-master/node_modules/react-native-background-fetch/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:14:9-17:72
+109            android:name="com.transistorsoft.rnbackgroundfetch.HeadlessJobService"
+109-->[:react-native-background-fetch] /Users/techdodles/Desktop/Bhavya/Project/kryptokrona-mobile-wallet-master/node_modules/react-native-background-fetch/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:15:13-83
+110            android:exported="true"
+110-->[:react-native-background-fetch] /Users/techdodles/Desktop/Bhavya/Project/kryptokrona-mobile-wallet-master/node_modules/react-native-background-fetch/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:16:13-36
+111            android:permission="android.permission.BIND_JOB_SERVICE" /> <!-- HeadlessJS For Android sdk <21 uses old AlarmManager API -->
+111-->[:react-native-background-fetch] /Users/techdodles/Desktop/Bhavya/Project/kryptokrona-mobile-wallet-master/node_modules/react-native-background-fetch/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:17:13-69
+112        <receiver android:name="com.transistorsoft.rnbackgroundfetch.HeadlessBroadcastReceiver" >
+112-->[:react-native-background-fetch] /Users/techdodles/Desktop/Bhavya/Project/kryptokrona-mobile-wallet-master/node_modules/react-native-background-fetch/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:19:9-23:20
+112-->[:react-native-background-fetch] /Users/techdodles/Desktop/Bhavya/Project/kryptokrona-mobile-wallet-master/node_modules/react-native-background-fetch/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:19:19-96
+113            <intent-filter>
+113-->[:react-native-background-fetch] /Users/techdodles/Desktop/Bhavya/Project/kryptokrona-mobile-wallet-master/node_modules/react-native-background-fetch/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:20:13-22:29
+114                <action android:name="com.xkr.event.BACKGROUND_FETCH" />
+114-->[:react-native-background-fetch] /Users/techdodles/Desktop/Bhavya/Project/kryptokrona-mobile-wallet-master/node_modules/react-native-background-fetch/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:21:17-82
+114-->[:react-native-background-fetch] /Users/techdodles/Desktop/Bhavya/Project/kryptokrona-mobile-wallet-master/node_modules/react-native-background-fetch/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:21:25-79
+115            </intent-filter>
+116        </receiver>
+117        <receiver android:name="com.transistorsoft.tsbackgroundfetch.FetchAlarmReceiver" />
+117-->[com.transistorsoft:tsbackgroundfetch:0.3.1] /Users/techdodles/.gradle/caches/transforms-2/files-2.1/d47723bbaa89f858dfa553488f365093/tsbackgroundfetch-0.3.1/AndroidManifest.xml:15:9-92
+117-->[com.transistorsoft:tsbackgroundfetch:0.3.1] /Users/techdodles/.gradle/caches/transforms-2/files-2.1/d47723bbaa89f858dfa553488f365093/tsbackgroundfetch-0.3.1/AndroidManifest.xml:15:19-89
+118
+119        <service
+119-->[com.transistorsoft:tsbackgroundfetch:0.3.1] /Users/techdodles/.gradle/caches/transforms-2/files-2.1/d47723bbaa89f858dfa553488f365093/tsbackgroundfetch-0.3.1/AndroidManifest.xml:17:9-20:72
+120            android:name="com.transistorsoft.tsbackgroundfetch.FetchJobService"
+120-->[com.transistorsoft:tsbackgroundfetch:0.3.1] /Users/techdodles/.gradle/caches/transforms-2/files-2.1/d47723bbaa89f858dfa553488f365093/tsbackgroundfetch-0.3.1/AndroidManifest.xml:18:13-80
+121            android:exported="true"
+121-->[com.transistorsoft:tsbackgroundfetch:0.3.1] /Users/techdodles/.gradle/caches/transforms-2/files-2.1/d47723bbaa89f858dfa553488f365093/tsbackgroundfetch-0.3.1/AndroidManifest.xml:19:13-36
+122            android:permission="android.permission.BIND_JOB_SERVICE" />
+122-->[com.transistorsoft:tsbackgroundfetch:0.3.1] /Users/techdodles/.gradle/caches/transforms-2/files-2.1/d47723bbaa89f858dfa553488f365093/tsbackgroundfetch-0.3.1/AndroidManifest.xml:20:13-69
+123
+124        <receiver android:name="com.transistorsoft.tsbackgroundfetch.BootReceiver" >
+124-->[com.transistorsoft:tsbackgroundfetch:0.3.1] /Users/techdodles/.gradle/caches/transforms-2/files-2.1/d47723bbaa89f858dfa553488f365093/tsbackgroundfetch-0.3.1/AndroidManifest.xml:22:9-27:20
+124-->[com.transistorsoft:tsbackgroundfetch:0.3.1] /Users/techdodles/.gradle/caches/transforms-2/files-2.1/d47723bbaa89f858dfa553488f365093/tsbackgroundfetch-0.3.1/AndroidManifest.xml:22:19-83
+125            <intent-filter>
+125-->[com.transistorsoft:tsbackgroundfetch:0.3.1] /Users/techdodles/.gradle/caches/transforms-2/files-2.1/d47723bbaa89f858dfa553488f365093/tsbackgroundfetch-0.3.1/AndroidManifest.xml:23:13-26:29
+126                <action android:name="android.intent.action.BOOT_COMPLETED" />
+126-->/Users/techdodles/Desktop/Bhavya/Project/kryptokrona-mobile-wallet-master/android/app/src/main/AndroidManifest.xml:30:17-79
+126-->/Users/techdodles/Desktop/Bhavya/Project/kryptokrona-mobile-wallet-master/android/app/src/main/AndroidManifest.xml:30:25-76
+127                <action android:name="android.intent.action.MY_PACKAGE_REPLACED" />
+127-->[com.transistorsoft:tsbackgroundfetch:0.3.1] /Users/techdodles/.gradle/caches/transforms-2/files-2.1/d47723bbaa89f858dfa553488f365093/tsbackgroundfetch-0.3.1/AndroidManifest.xml:25:17-84
+127-->[com.transistorsoft:tsbackgroundfetch:0.3.1] /Users/techdodles/.gradle/caches/transforms-2/files-2.1/d47723bbaa89f858dfa553488f365093/tsbackgroundfetch-0.3.1/AndroidManifest.xml:25:25-81
+128            </intent-filter>
+129        </receiver>
+130        <!--
+131             FirebaseMessagingService performs security checks at runtime,
+132             but set to not exported to explicitly avoid allowing another app to call it.
+133        -->
+134        <service
+134-->[com.google.firebase:firebase-messaging:21.0.1] /Users/techdodles/.gradle/caches/transforms-2/files-2.1/a22afcdea1d42c2753ca5c4a98a234b5/jetified-firebase-messaging-21.0.1/AndroidManifest.xml:28:9-35:19
+135            android:name="com.google.firebase.messaging.FirebaseMessagingService"
+135-->[com.google.firebase:firebase-messaging:21.0.1] /Users/techdodles/.gradle/caches/transforms-2/files-2.1/a22afcdea1d42c2753ca5c4a98a234b5/jetified-firebase-messaging-21.0.1/AndroidManifest.xml:29:13-82
+136            android:directBootAware="true"
+136-->[com.google.firebase:firebase-messaging:21.0.1] /Users/techdodles/.gradle/caches/transforms-2/files-2.1/a22afcdea1d42c2753ca5c4a98a234b5/jetified-firebase-messaging-21.0.1/AndroidManifest.xml:30:13-43
+137            android:exported="false" >
+137-->[com.google.firebase:firebase-messaging:21.0.1] /Users/techdodles/.gradle/caches/transforms-2/files-2.1/a22afcdea1d42c2753ca5c4a98a234b5/jetified-firebase-messaging-21.0.1/AndroidManifest.xml:31:13-37
+138            <intent-filter android:priority="-500" >
+138-->/Users/techdodles/Desktop/Bhavya/Project/kryptokrona-mobile-wallet-master/android/app/src/main/AndroidManifest.xml:38:13-40:29
+139                <action android:name="com.google.firebase.MESSAGING_EVENT" />
+139-->/Users/techdodles/Desktop/Bhavya/Project/kryptokrona-mobile-wallet-master/android/app/src/main/AndroidManifest.xml:39:17-78
+139-->/Users/techdodles/Desktop/Bhavya/Project/kryptokrona-mobile-wallet-master/android/app/src/main/AndroidManifest.xml:39:25-75
+140            </intent-filter>
+141        </service>
+142        <service
+142-->[com.google.firebase:firebase-messaging:21.0.1] /Users/techdodles/.gradle/caches/transforms-2/files-2.1/a22afcdea1d42c2753ca5c4a98a234b5/jetified-firebase-messaging-21.0.1/AndroidManifest.xml:36:9-42:19
+143            android:name="com.google.firebase.components.ComponentDiscoveryService"
+143-->[com.google.firebase:firebase-messaging:21.0.1] /Users/techdodles/.gradle/caches/transforms-2/files-2.1/a22afcdea1d42c2753ca5c4a98a234b5/jetified-firebase-messaging-21.0.1/AndroidManifest.xml:37:13-84
+144            android:directBootAware="true"
+144-->[com.google.firebase:firebase-common:19.5.0] /Users/techdodles/.gradle/caches/transforms-2/files-2.1/851ce5721e5a940031ba5cb25e1572f0/jetified-firebase-common-19.5.0/AndroidManifest.xml:35:13-43
+145            android:exported="false" >
+145-->[com.google.firebase:firebase-messaging:21.0.1] /Users/techdodles/.gradle/caches/transforms-2/files-2.1/a22afcdea1d42c2753ca5c4a98a234b5/jetified-firebase-messaging-21.0.1/AndroidManifest.xml:38:13-37
+146            <meta-data
+146-->[com.google.firebase:firebase-messaging:21.0.1] /Users/techdodles/.gradle/caches/transforms-2/files-2.1/a22afcdea1d42c2753ca5c4a98a234b5/jetified-firebase-messaging-21.0.1/AndroidManifest.xml:39:13-41:85
+147                android:name="com.google.firebase.components:com.google.firebase.messaging.FirebaseMessagingRegistrar"
+147-->[com.google.firebase:firebase-messaging:21.0.1] /Users/techdodles/.gradle/caches/transforms-2/files-2.1/a22afcdea1d42c2753ca5c4a98a234b5/jetified-firebase-messaging-21.0.1/AndroidManifest.xml:40:17-119
+148                android:value="com.google.firebase.components.ComponentRegistrar" />
+148-->[com.google.firebase:firebase-messaging:21.0.1] /Users/techdodles/.gradle/caches/transforms-2/files-2.1/a22afcdea1d42c2753ca5c4a98a234b5/jetified-firebase-messaging-21.0.1/AndroidManifest.xml:41:17-82
+149            <meta-data
+149-->[com.google.firebase:firebase-datatransport:17.0.10] /Users/techdodles/.gradle/caches/transforms-2/files-2.1/0581ed86db08602eda8a39962d6aacda/firebase-datatransport-17.0.10/AndroidManifest.xml:28:13-30:85
+150                android:name="com.google.firebase.components:com.google.firebase.datatransport.TransportRegistrar"
+150-->[com.google.firebase:firebase-datatransport:17.0.10] /Users/techdodles/.gradle/caches/transforms-2/files-2.1/0581ed86db08602eda8a39962d6aacda/firebase-datatransport-17.0.10/AndroidManifest.xml:29:17-115
+151                android:value="com.google.firebase.components.ComponentRegistrar" />
+151-->[com.google.firebase:firebase-datatransport:17.0.10] /Users/techdodles/.gradle/caches/transforms-2/files-2.1/0581ed86db08602eda8a39962d6aacda/firebase-datatransport-17.0.10/AndroidManifest.xml:30:17-82
+152            <meta-data
+152-->[com.google.firebase:firebase-iid:21.0.1] /Users/techdodles/.gradle/caches/transforms-2/files-2.1/5dc913cc10a69dcb0d5e5e9770496438/firebase-iid-21.0.1/AndroidManifest.xml:32:13-34:85
+153                android:name="com.google.firebase.components:com.google.firebase.iid.Registrar"
+153-->[com.google.firebase:firebase-iid:21.0.1] /Users/techdodles/.gradle/caches/transforms-2/files-2.1/5dc913cc10a69dcb0d5e5e9770496438/firebase-iid-21.0.1/AndroidManifest.xml:33:17-96
+154                android:value="com.google.firebase.components.ComponentRegistrar" />
+154-->[com.google.firebase:firebase-iid:21.0.1] /Users/techdodles/.gradle/caches/transforms-2/files-2.1/5dc913cc10a69dcb0d5e5e9770496438/firebase-iid-21.0.1/AndroidManifest.xml:34:17-82
+155            <meta-data
+155-->[com.google.firebase:firebase-installations:16.3.5] /Users/techdodles/.gradle/caches/transforms-2/files-2.1/90df5aa45f474731060058b2200978a2/firebase-installations-16.3.5/AndroidManifest.xml:18:13-20:85
+156                android:name="com.google.firebase.components:com.google.firebase.installations.FirebaseInstallationsRegistrar"
+156-->[com.google.firebase:firebase-installations:16.3.5] /Users/techdodles/.gradle/caches/transforms-2/files-2.1/90df5aa45f474731060058b2200978a2/firebase-installations-16.3.5/AndroidManifest.xml:19:17-127
+157                android:value="com.google.firebase.components.ComponentRegistrar" />
+157-->[com.google.firebase:firebase-installations:16.3.5] /Users/techdodles/.gradle/caches/transforms-2/files-2.1/90df5aa45f474731060058b2200978a2/firebase-installations-16.3.5/AndroidManifest.xml:20:17-82
+158            <!--
+159                This registrar is not defined in the dynamic-module-support sdk itself to allow non-firebase
+160                clients to use it as well, by defining this registrar in their own core/common library.
+161            -->
+162            <meta-data
+162-->[com.google.firebase:firebase-common:19.5.0] /Users/techdodles/.gradle/caches/transforms-2/files-2.1/851ce5721e5a940031ba5cb25e1572f0/jetified-firebase-common-19.5.0/AndroidManifest.xml:43:13-45:85
+163                android:name="com.google.firebase.components:com.google.firebase.dynamicloading.DynamicLoadingRegistrar"
+163-->[com.google.firebase:firebase-common:19.5.0] /Users/techdodles/.gradle/caches/transforms-2/files-2.1/851ce5721e5a940031ba5cb25e1572f0/jetified-firebase-common-19.5.0/AndroidManifest.xml:44:17-121
+164                android:value="com.google.firebase.components.ComponentRegistrar" />
+164-->[com.google.firebase:firebase-common:19.5.0] /Users/techdodles/.gradle/caches/transforms-2/files-2.1/851ce5721e5a940031ba5cb25e1572f0/jetified-firebase-common-19.5.0/AndroidManifest.xml:45:17-82
+165        </service>
+166        <service
+166-->[com.google.android.datatransport:transport-backend-cct:2.3.3] /Users/techdodles/.gradle/caches/transforms-2/files-2.1/d189e339dd11e2bca70be01df75c407c/jetified-transport-backend-cct-2.3.3/AndroidManifest.xml:29:9-35:19
+167            android:name="com.google.android.datatransport.runtime.backends.TransportBackendDiscovery"
+167-->[com.google.android.datatransport:transport-backend-cct:2.3.3] /Users/techdodles/.gradle/caches/transforms-2/files-2.1/d189e339dd11e2bca70be01df75c407c/jetified-transport-backend-cct-2.3.3/AndroidManifest.xml:30:13-103
+168            android:exported="false" >
+168-->[com.google.android.datatransport:transport-backend-cct:2.3.3] /Users/techdodles/.gradle/caches/transforms-2/files-2.1/d189e339dd11e2bca70be01df75c407c/jetified-transport-backend-cct-2.3.3/AndroidManifest.xml:31:13-37
+169            <meta-data
+169-->[com.google.android.datatransport:transport-backend-cct:2.3.3] /Users/techdodles/.gradle/caches/transforms-2/files-2.1/d189e339dd11e2bca70be01df75c407c/jetified-transport-backend-cct-2.3.3/AndroidManifest.xml:32:13-34:39
+170                android:name="backend:com.google.android.datatransport.cct.CctBackendFactory"
+170-->[com.google.android.datatransport:transport-backend-cct:2.3.3] /Users/techdodles/.gradle/caches/transforms-2/files-2.1/d189e339dd11e2bca70be01df75c407c/jetified-transport-backend-cct-2.3.3/AndroidManifest.xml:33:17-94
+171                android:value="cct" />
+171-->[com.google.android.datatransport:transport-backend-cct:2.3.3] /Users/techdodles/.gradle/caches/transforms-2/files-2.1/d189e339dd11e2bca70be01df75c407c/jetified-transport-backend-cct-2.3.3/AndroidManifest.xml:34:17-36
+172        </service>
+173        <service
+173-->[com.google.android.datatransport:transport-runtime:2.2.5] /Users/techdodles/.gradle/caches/transforms-2/files-2.1/20505f7d026046bd723c01c9a50302f1/jetified-transport-runtime-2.2.5/AndroidManifest.xml:26:9-30:19
+174            android:name="com.google.android.datatransport.runtime.scheduling.jobscheduling.JobInfoSchedulerService"
+174-->[com.google.android.datatransport:transport-runtime:2.2.5] /Users/techdodles/.gradle/caches/transforms-2/files-2.1/20505f7d026046bd723c01c9a50302f1/jetified-transport-runtime-2.2.5/AndroidManifest.xml:27:13-117
+175            android:exported="false"
+175-->[com.google.android.datatransport:transport-runtime:2.2.5] /Users/techdodles/.gradle/caches/transforms-2/files-2.1/20505f7d026046bd723c01c9a50302f1/jetified-transport-runtime-2.2.5/AndroidManifest.xml:28:13-37
+176            android:permission="android.permission.BIND_JOB_SERVICE" >
+176-->[com.google.android.datatransport:transport-runtime:2.2.5] /Users/techdodles/.gradle/caches/transforms-2/files-2.1/20505f7d026046bd723c01c9a50302f1/jetified-transport-runtime-2.2.5/AndroidManifest.xml:29:13-69
+177        </service>
+178
+179        <receiver
+179-->[com.google.android.datatransport:transport-runtime:2.2.5] /Users/techdodles/.gradle/caches/transforms-2/files-2.1/20505f7d026046bd723c01c9a50302f1/jetified-transport-runtime-2.2.5/AndroidManifest.xml:32:9-34:40
+180            android:name="com.google.android.datatransport.runtime.scheduling.jobscheduling.AlarmManagerSchedulerBroadcastReceiver"
+180-->[com.google.android.datatransport:transport-runtime:2.2.5] /Users/techdodles/.gradle/caches/transforms-2/files-2.1/20505f7d026046bd723c01c9a50302f1/jetified-transport-runtime-2.2.5/AndroidManifest.xml:33:13-132
+181            android:exported="false" />
+181-->[com.google.android.datatransport:transport-runtime:2.2.5] /Users/techdodles/.gradle/caches/transforms-2/files-2.1/20505f7d026046bd723c01c9a50302f1/jetified-transport-runtime-2.2.5/AndroidManifest.xml:34:13-37
+182        <receiver
+182-->[com.google.firebase:firebase-iid:21.0.1] /Users/techdodles/.gradle/caches/transforms-2/files-2.1/5dc913cc10a69dcb0d5e5e9770496438/firebase-iid-21.0.1/AndroidManifest.xml:37:9-44:20
+183            android:name="com.google.firebase.iid.FirebaseInstanceIdReceiver"
+183-->[com.google.firebase:firebase-iid:21.0.1] /Users/techdodles/.gradle/caches/transforms-2/files-2.1/5dc913cc10a69dcb0d5e5e9770496438/firebase-iid-21.0.1/AndroidManifest.xml:38:13-78
+184            android:exported="true"
+184-->[com.google.firebase:firebase-iid:21.0.1] /Users/techdodles/.gradle/caches/transforms-2/files-2.1/5dc913cc10a69dcb0d5e5e9770496438/firebase-iid-21.0.1/AndroidManifest.xml:39:13-36
+185            android:permission="com.google.android.c2dm.permission.SEND" >
+185-->[com.google.firebase:firebase-iid:21.0.1] /Users/techdodles/.gradle/caches/transforms-2/files-2.1/5dc913cc10a69dcb0d5e5e9770496438/firebase-iid-21.0.1/AndroidManifest.xml:40:13-73
+186            <intent-filter>
+186-->[com.google.firebase:firebase-iid:21.0.1] /Users/techdodles/.gradle/caches/transforms-2/files-2.1/5dc913cc10a69dcb0d5e5e9770496438/firebase-iid-21.0.1/AndroidManifest.xml:41:13-43:29
+187                <action android:name="com.google.android.c2dm.intent.RECEIVE" />
+187-->[com.google.firebase:firebase-iid:21.0.1] /Users/techdodles/.gradle/caches/transforms-2/files-2.1/5dc913cc10a69dcb0d5e5e9770496438/firebase-iid-21.0.1/AndroidManifest.xml:42:17-81
+187-->[com.google.firebase:firebase-iid:21.0.1] /Users/techdodles/.gradle/caches/transforms-2/files-2.1/5dc913cc10a69dcb0d5e5e9770496438/firebase-iid-21.0.1/AndroidManifest.xml:42:25-78
+188            </intent-filter>
+189        </receiver>
+190
+191        <activity
+191-->[com.google.android.gms:play-services-base:17.0.0] /Users/techdodles/.gradle/caches/transforms-2/files-2.1/57ff500ed42a0b02b4eed5c4dc4e7665/play-services-base-17.0.0/AndroidManifest.xml:23:9-26:75
+192            android:name="com.google.android.gms.common.api.GoogleApiActivity"
+192-->[com.google.android.gms:play-services-base:17.0.0] /Users/techdodles/.gradle/caches/transforms-2/files-2.1/57ff500ed42a0b02b4eed5c4dc4e7665/play-services-base-17.0.0/AndroidManifest.xml:24:13-79
+193            android:exported="false"
+193-->[com.google.android.gms:play-services-base:17.0.0] /Users/techdodles/.gradle/caches/transforms-2/files-2.1/57ff500ed42a0b02b4eed5c4dc4e7665/play-services-base-17.0.0/AndroidManifest.xml:25:13-37
+194            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+194-->[com.google.android.gms:play-services-base:17.0.0] /Users/techdodles/.gradle/caches/transforms-2/files-2.1/57ff500ed42a0b02b4eed5c4dc4e7665/play-services-base-17.0.0/AndroidManifest.xml:26:13-72
+195
+196        <provider
+196-->[com.google.firebase:firebase-common:19.5.0] /Users/techdodles/.gradle/caches/transforms-2/files-2.1/851ce5721e5a940031ba5cb25e1572f0/jetified-firebase-common-19.5.0/AndroidManifest.xml:26:9-31:39
+197            android:name="com.google.firebase.provider.FirebaseInitProvider"
+197-->[com.google.firebase:firebase-common:19.5.0] /Users/techdodles/.gradle/caches/transforms-2/files-2.1/851ce5721e5a940031ba5cb25e1572f0/jetified-firebase-common-19.5.0/AndroidManifest.xml:27:13-77
+198            android:authorities="com.xkr.firebaseinitprovider"
+198-->[com.google.firebase:firebase-common:19.5.0] /Users/techdodles/.gradle/caches/transforms-2/files-2.1/851ce5721e5a940031ba5cb25e1572f0/jetified-firebase-common-19.5.0/AndroidManifest.xml:28:13-72
+199            android:directBootAware="true"
+199-->[com.google.firebase:firebase-common:19.5.0] /Users/techdodles/.gradle/caches/transforms-2/files-2.1/851ce5721e5a940031ba5cb25e1572f0/jetified-firebase-common-19.5.0/AndroidManifest.xml:29:13-43
+200            android:exported="false"
+200-->[com.google.firebase:firebase-common:19.5.0] /Users/techdodles/.gradle/caches/transforms-2/files-2.1/851ce5721e5a940031ba5cb25e1572f0/jetified-firebase-common-19.5.0/AndroidManifest.xml:30:13-37
+201            android:initOrder="100" />
+201-->[com.google.firebase:firebase-common:19.5.0] /Users/techdodles/.gradle/caches/transforms-2/files-2.1/851ce5721e5a940031ba5cb25e1572f0/jetified-firebase-common-19.5.0/AndroidManifest.xml:31:13-36
+202
+203        <meta-data
+203-->[com.google.android.gms:play-services-basement:17.0.0] /Users/techdodles/.gradle/caches/transforms-2/files-2.1/1f3901d9556039b228c83a0e7af54570/jetified-play-services-basement-17.0.0/AndroidManifest.xml:23:9-25:69
+204            android:name="com.google.android.gms.version"
+204-->[com.google.android.gms:play-services-basement:17.0.0] /Users/techdodles/.gradle/caches/transforms-2/files-2.1/1f3901d9556039b228c83a0e7af54570/jetified-play-services-basement-17.0.0/AndroidManifest.xml:24:13-58
+205            android:value="@integer/google_play_services_version" />
+205-->[com.google.android.gms:play-services-basement:17.0.0] /Users/techdodles/.gradle/caches/transforms-2/files-2.1/1f3901d9556039b228c83a0e7af54570/jetified-play-services-basement-17.0.0/AndroidManifest.xml:25:13-66
+206    </application>
+207
+208</manifest>

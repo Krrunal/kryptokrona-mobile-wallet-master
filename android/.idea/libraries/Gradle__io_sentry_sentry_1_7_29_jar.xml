@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Gradle: io.sentry:sentry:1.7.29@jar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.sentry/sentry/1.7.29/6cc141e5ffa250e4296c78828b44a198f7a64353/sentry-1.7.29.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.sentry/sentry/1.7.29/dea4672ab0e7344199547565f3451f57096a9931/sentry-1.7.29-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.sentry/sentry/1.7.29/79ad426eacb2e9c530db20eddc0e2760c08653b4/sentry-1.7.29-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

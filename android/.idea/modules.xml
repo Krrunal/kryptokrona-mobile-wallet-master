@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../node_modules/@react-native-community/async-storage/android/@react-native-community_async-storage.iml" filepath="$PROJECT_DIR$/../node_modules/@react-native-community/async-storage/android/@react-native-community_async-storage.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../node_modules/@react-native-community/netinfo/android/@react-native-community_netinfo.iml" filepath="$PROJECT_DIR$/../node_modules/@react-native-community/netinfo/android/@react-native-community_netinfo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../node_modules/@sentry/react-native/android/@sentry_react-native.iml" filepath="$PROJECT_DIR$/../node_modules/@sentry/react-native/android/@sentry_react-native.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TonChan.iml" filepath="$PROJECT_DIR$/TonChan.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../node_modules/react-native-background-fetch/android/react-native-background-fetch.iml" filepath="$PROJECT_DIR$/../node_modules/react-native-background-fetch/android/react-native-background-fetch.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../node_modules/react-native-camera/android/react-native-camera.iml" filepath="$PROJECT_DIR$/../node_modules/react-native-camera/android/react-native-camera.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../node_modules/react-native-exit-app/android/react-native-exit-app.iml" filepath="$PROJECT_DIR$/../node_modules/react-native-exit-app/android/react-native-exit-app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../node_modules/react-native-fingerprint-scanner/android/react-native-fingerprint-scanner.iml" filepath="$PROJECT_DIR$/../node_modules/react-native-fingerprint-scanner/android/react-native-fingerprint-scanner.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../node_modules/react-native-gesture-handler/android/react-native-gesture-handler.iml" filepath="$PROJECT_DIR$/../node_modules/react-native-gesture-handler/android/react-native-gesture-handler.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../node_modules/react-native-keychain/android/react-native-keychain.iml" filepath="$PROJECT_DIR$/../node_modules/react-native-keychain/android/react-native-keychain.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../node_modules/react-native-push-notification/android/react-native-push-notification.iml" filepath="$PROJECT_DIR$/../node_modules/react-native-push-notification/android/react-native-push-notification.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../node_modules/react-native-randombytes/android/react-native-randombytes.iml" filepath="$PROJECT_DIR$/../node_modules/react-native-randombytes/android/react-native-randombytes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../node_modules/react-native-sqlite-storage/src/android/react-native-sqlite-storage.iml" filepath="$PROJECT_DIR$/../node_modules/react-native-sqlite-storage/src/android/react-native-sqlite-storage.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../node_modules/react-native-svg/android/react-native-svg.iml" filepath="$PROJECT_DIR$/../node_modules/react-native-svg/android/react-native-svg.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../node_modules/react-native-tcp/android/react-native-tcp.iml" filepath="$PROJECT_DIR$/../node_modules/react-native-tcp/android/react-native-tcp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../node_modules/react-native-udp/android/react-native-udp.iml" filepath="$PROJECT_DIR$/../node_modules/react-native-udp/android/react-native-udp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../node_modules/react-native-vector-icons/android/react-native-vector-icons.iml" filepath="$PROJECT_DIR$/../node_modules/react-native-vector-icons/android/react-native-vector-icons.iml" />
+    </modules>
+  </component>
+</project>

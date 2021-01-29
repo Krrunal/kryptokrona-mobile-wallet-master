@@ -1,0 +1,816 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/techdodles/Desktop/Bhavya/Project/kryptokrona-mobile-wallet-master/android/app/src/main/AndroidManifest.xml:1:1-63:12
+INJECTED from /Users/techdodles/Desktop/Bhavya/Project/kryptokrona-mobile-wallet-master/android/app/src/main/AndroidManifest.xml:1:1-63:12
+INJECTED from /Users/techdodles/Desktop/Bhavya/Project/kryptokrona-mobile-wallet-master/android/app/src/main/AndroidManifest.xml:1:1-63:12
+INJECTED from /Users/techdodles/Desktop/Bhavya/Project/kryptokrona-mobile-wallet-master/android/app/src/main/AndroidManifest.xml:1:1-63:12
+MERGED from /Users/techdodles/Desktop/Bhavya/Project/kryptokrona-mobile-wallet-master/android/app/src/main/AndroidManifest.xml:1:1-63:12
+MERGED from [androidx.multidex:multidex:2.0.0] /Users/techdodles/.gradle/caches/transforms-2/files-2.1/909c280575265f4fc610f0bb8c7e5d13/multidex-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [:react-native-fingerprint-scanner] /Users/techdodles/Desktop/Bhavya/Project/kryptokrona-mobile-wallet-master/node_modules/react-native-fingerprint-scanner/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-15:12
+MERGED from [:react-native-background-fetch] /Users/techdodles/Desktop/Bhavya/Project/kryptokrona-mobile-wallet-master/node_modules/react-native-background-fetch/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-26:12
+MERGED from [:@react-native-community_async-storage] /Users/techdodles/Desktop/Bhavya/Project/kryptokrona-mobile-wallet-master/node_modules/@react-native-community/async-storage/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-9:12
+MERGED from [:@react-native-community_netinfo] /Users/techdodles/Desktop/Bhavya/Project/kryptokrona-mobile-wallet-master/node_modules/@react-native-community/netinfo/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:@sentry_react-native] /Users/techdodles/Desktop/Bhavya/Project/kryptokrona-mobile-wallet-master/node_modules/@sentry/react-native/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-14:12
+MERGED from [:react-native-camera] /Users/techdodles/Desktop/Bhavya/Project/kryptokrona-mobile-wallet-master/node_modules/react-native-camera/android/build/intermediates/library_manifest/generalDebug/AndroidManifest.xml:2:1-18:12
+MERGED from [:react-native-exit-app] /Users/techdodles/Desktop/Bhavya/Project/kryptokrona-mobile-wallet-master/node_modules/react-native-exit-app/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-keychain] /Users/techdodles/Desktop/Bhavya/Project/kryptokrona-mobile-wallet-master/node_modules/react-native-keychain/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-13:12
+MERGED from [:react-native-push-notification] /Users/techdodles/Desktop/Bhavya/Project/kryptokrona-mobile-wallet-master/node_modules/react-native-push-notification/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-randombytes] /Users/techdodles/Desktop/Bhavya/Project/kryptokrona-mobile-wallet-master/node_modules/react-native-randombytes/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-sqlite-storage] /Users/techdodles/Desktop/Bhavya/Project/kryptokrona-mobile-wallet-master/node_modules/react-native-sqlite-storage/src/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-svg] /Users/techdodles/Desktop/Bhavya/Project/kryptokrona-mobile-wallet-master/node_modules/react-native-svg/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-tcp] /Users/techdodles/Desktop/Bhavya/Project/kryptokrona-mobile-wallet-master/node_modules/react-native-tcp/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-13:12
+MERGED from [:react-native-udp] /Users/techdodles/Desktop/Bhavya/Project/kryptokrona-mobile-wallet-master/node_modules/react-native-udp/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-16:12
+MERGED from [:react-native-vector-icons] /Users/techdodles/Desktop/Bhavya/Project/kryptokrona-mobile-wallet-master/node_modules/react-native-vector-icons/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [com.facebook.react:react-native:0.60.4] /Users/techdodles/.gradle/caches/transforms-2/files-2.1/0b211f842c2d4ee10efe5ee28a2ffeb6/jetified-react-native-0.60.4/AndroidManifest.xml:2:1-13:12
+MERGED from [com.facebook.fresco:fresco:2.0.0] /Users/techdodles/.gradle/caches/transforms-2/files-2.1/e5133dd846a500497a6f50918f4b2991/fresco-2.0.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:animated-gif:2.0.0] /Users/techdodles/.gradle/caches/transforms-2/files-2.1/268452018cb22d6de8e989ebb98deec1/animated-gif-2.0.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-safetynet:17.0.0] /Users/techdodles/.gradle/caches/transforms-2/files-2.1/da46b4ed476d67a04069dc6131871779/play-services-safetynet-17.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [org.webkit:android-jsc:r245459] /Users/techdodles/.gradle/caches/transforms-2/files-2.1/f87643be97012b787274598c8935d9e5/android-jsc-r245459/AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-gesture-handler] /Users/techdodles/Desktop/Bhavya/Project/kryptokrona-mobile-wallet-master/node_modules/react-native-gesture-handler/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [com.wei.android.lib:fingerprintidentify:1.2.6] /Users/techdodles/.gradle/caches/transforms-2/files-2.1/641f25bd9cac049d216c67b9f5f5465c/fingerprintidentify-1.2.6/AndroidManifest.xml:2:1-11:12
+MERGED from [com.transistorsoft:tsbackgroundfetch:0.3.1] /Users/techdodles/.gradle/caches/transforms-2/files-2.1/d47723bbaa89f858dfa553488f365093/tsbackgroundfetch-0.3.1/AndroidManifest.xml:2:1-30:12
+MERGED from [com.facebook.fresco:animated-base:2.0.0] /Users/techdodles/.gradle/caches/transforms-2/files-2.1/fdae48f167fe1309a999ad2e1972c1a8/animated-base-2.0.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:animated-drawable:2.0.0] /Users/techdodles/.gradle/caches/transforms-2/files-2.1/345f7a3b9474c5a252af1dfdd989a36d/animated-drawable-2.0.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:drawee:2.0.0] /Users/techdodles/.gradle/caches/transforms-2/files-2.1/dabbbc7c8ef1d23909269a7aae262373/drawee-2.0.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:nativeimagefilters:2.0.0] /Users/techdodles/.gradle/caches/transforms-2/files-2.1/4ff22b1b29a2c99a9a08a5c20d9c5f3a/nativeimagefilters-2.0.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] /Users/techdodles/.gradle/caches/transforms-2/files-2.1/5b106d962ec25b91e9e1a8ce1f551cb2/imagepipeline-okhttp3-2.0.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline:2.0.0] /Users/techdodles/.gradle/caches/transforms-2/files-2.1/38e61d997fcdcc30f0e49bd01569c246/imagepipeline-2.0.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.0.0] /Users/techdodles/.gradle/caches/transforms-2/files-2.1/afbe07f6a75624c7820d3e60a61e7ba2/nativeimagetranscoder-2.0.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-base:2.0.0] /Users/techdodles/.gradle/caches/transforms-2/files-2.1/728ca24ffebe7cf9f50a44a84c52dfb8/imagepipeline-base-2.0.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:fbcore:2.0.0] /Users/techdodles/.gradle/caches/transforms-2/files-2.1/c58b4e538175f7527be53d3a3d2ddb60/jetified-fbcore-2.0.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/techdodles/.gradle/caches/transforms-2/files-2.1/2b3ad5dd921995efcfb8f950196d6c62/soloader-0.6.0/AndroidManifest.xml:2:1-13:12
+MERGED from [com.google.firebase:firebase-messaging:21.0.1] /Users/techdodles/.gradle/caches/transforms-2/files-2.1/a22afcdea1d42c2753ca5c4a98a234b5/jetified-firebase-messaging-21.0.1/AndroidManifest.xml:17:1-45:12
+MERGED from [com.google.firebase:firebase-datatransport:17.0.10] /Users/techdodles/.gradle/caches/transforms-2/files-2.1/0581ed86db08602eda8a39962d6aacda/firebase-datatransport-17.0.10/AndroidManifest.xml:15:1-34:12
+MERGED from [com.google.android.datatransport:transport-backend-cct:2.3.3] /Users/techdodles/.gradle/caches/transforms-2/files-2.1/d189e339dd11e2bca70be01df75c407c/jetified-transport-backend-cct-2.3.3/AndroidManifest.xml:15:1-38:12
+MERGED from [com.google.android.datatransport:transport-runtime:2.2.5] /Users/techdodles/.gradle/caches/transforms-2/files-2.1/20505f7d026046bd723c01c9a50302f1/jetified-transport-runtime-2.2.5/AndroidManifest.xml:15:1-41:12
+MERGED from [androidx.appcompat:appcompat:1.0.2] /Users/techdodles/.gradle/caches/transforms-2/files-2.1/e5b368ef12025ed294a941dce8ba17b9/appcompat-1.0.2/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-vision:17.0.2] /Users/techdodles/.gradle/caches/transforms-2/files-2.1/882c486a2fa6adbd8538988b068382aa/play-services-vision-17.0.2/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-gcm:17.0.0] /Users/techdodles/.gradle/caches/transforms-2/files-2.1/b4f5dccaeb018f86f07f122801f1086d/play-services-gcm-17.0.0/AndroidManifest.xml:17:1-28:12
+MERGED from [com.google.android.gms:play-services-vision-common:17.0.2] /Users/techdodles/.gradle/caches/transforms-2/files-2.1/cea7e6a4c4e3002a9d23052133613fc5/jetified-play-services-vision-common-17.0.2/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-iid:17.0.0] /Users/techdodles/.gradle/caches/transforms-2/files-2.1/06dd01886efac277ac9851f60bb50e21/play-services-iid-17.0.0/AndroidManifest.xml:17:1-28:12
+MERGED from [com.google.android.gms:play-services-clearcut:16.0.0] /Users/techdodles/.gradle/caches/transforms-2/files-2.1/98fb49c0a59a4f0c7cadb95bba0d6329/jetified-play-services-clearcut-16.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-flags:16.0.1] /Users/techdodles/.gradle/caches/transforms-2/files-2.1/1f34124b865f1d077a04f82b43a7f3bb/play-services-flags-16.0.1/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-phenotype:16.0.0] /Users/techdodles/.gradle/caches/transforms-2/files-2.1/17a5a6aad10c11bd2867a446c5f61165/jetified-play-services-phenotype-16.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.firebase:firebase-iid:21.0.1] /Users/techdodles/.gradle/caches/transforms-2/files-2.1/5dc913cc10a69dcb0d5e5e9770496438/firebase-iid-21.0.1/AndroidManifest.xml:17:1-47:12
+MERGED from [com.google.firebase:firebase-iid-interop:17.0.0] /Users/techdodles/.gradle/caches/transforms-2/files-2.1/58a67b98e2a24cc406aafeab986730f7/firebase-iid-interop-17.0.0/AndroidManifest.xml:2:1-10:12
+MERGED from [com.google.android.gms:play-services-base:17.0.0] /Users/techdodles/.gradle/caches/transforms-2/files-2.1/57ff500ed42a0b02b4eed5c4dc4e7665/play-services-base-17.0.0/AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.android.gms:play-services-cloud-messaging:16.0.0] /Users/techdodles/.gradle/caches/transforms-2/files-2.1/6ee4f583a45c0af219d9c2fadb937282/play-services-cloud-messaging-16.0.0/AndroidManifest.xml:2:1-13:12
+MERGED from [com.google.firebase:firebase-installations:16.3.5] /Users/techdodles/.gradle/caches/transforms-2/files-2.1/90df5aa45f474731060058b2200978a2/firebase-installations-16.3.5/AndroidManifest.xml:2:1-24:12
+MERGED from [com.google.firebase:firebase-common:19.5.0] /Users/techdodles/.gradle/caches/transforms-2/files-2.1/851ce5721e5a940031ba5cb25e1572f0/jetified-firebase-common-19.5.0/AndroidManifest.xml:15:1-49:12
+MERGED from [com.google.firebase:firebase-installations-interop:16.0.1] /Users/techdodles/.gradle/caches/transforms-2/files-2.1/fd3f9f4087b71d27634e8ea5196976aa/firebase-installations-interop-16.0.1/AndroidManifest.xml:15:1-23:12
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /Users/techdodles/.gradle/caches/transforms-2/files-2.1/143500665600d52b763b01b3a71ef6b7/play-services-tasks-17.0.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-stats:17.0.0] /Users/techdodles/.gradle/caches/transforms-2/files-2.1/1e5e69e34d365938c111f06f4c5686ce/play-services-stats-17.0.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.firebase:firebase-measurement-connector:18.0.0] /Users/techdodles/.gradle/caches/transforms-2/files-2.1/a72d049a41652863d783b7a91f6f9fa3/firebase-measurement-connector-18.0.0/AndroidManifest.xml:17:1-25:12
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] /Users/techdodles/.gradle/caches/transforms-2/files-2.1/1f3901d9556039b228c83a0e7af54570/jetified-play-services-basement-17.0.0/AndroidManifest.xml:17:1-28:12
+MERGED from [androidx.exifinterface:exifinterface:1.0.0] /Users/techdodles/.gradle/caches/transforms-2/files-2.1/86c272f1e0f6764b84beb451152e8d3d/exifinterface-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /Users/techdodles/.gradle/caches/transforms-2/files-2.1/654ce827107d0a57a794f23d4c4c0308/legacy-support-v4-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.fragment:fragment:1.0.0] /Users/techdodles/.gradle/caches/transforms-2/files-2.1/ca3bef55d2e08a09621efb4b8475ba51/fragment-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /Users/techdodles/.gradle/caches/transforms-2/files-2.1/7ccb3a2b9bd115d936976bca01772cbc/vectordrawable-animated-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/techdodles/.gradle/caches/transforms-2/files-2.1/3565c300e91ecb4702c38904cc5782c9/legacy-support-core-ui-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/techdodles/.gradle/caches/transforms-2/files-2.1/53cd7e0cef0a36990df6d1df9c9ece23/legacy-support-core-utils-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] /Users/techdodles/.gradle/caches/transforms-2/files-2.1/54f481da7dce2850b8f680a3f875a4f8/vectordrawable-1.0.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.media:media:1.0.0] /Users/techdodles/.gradle/caches/transforms-2/files-2.1/9f6809871b24d26672f1046b64c729a6/media-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/techdodles/.gradle/caches/transforms-2/files-2.1/6fe71d97cf5707e0f4a7181911e052b7/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/techdodles/.gradle/caches/transforms-2/files-2.1/ed6a05cb04bc943c4c99c5b446a2eedf/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/techdodles/.gradle/caches/transforms-2/files-2.1/44e9d7afb0b766ef6cd2e0fc8981ccd8/coordinatorlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/techdodles/.gradle/caches/transforms-2/files-2.1/ab060cb0b57cf038ea6d68e376b3dc1c/drawerlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/techdodles/.gradle/caches/transforms-2/files-2.1/aa9f1d7c85372a49a4fe7ee2b1df4d40/slidingpanelayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] /Users/techdodles/.gradle/caches/transforms-2/files-2.1/14474e65cc0bc48e3b14946cb7c0722b/customview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/techdodles/.gradle/caches/transforms-2/files-2.1/f22a75cf817b9718669673042cff5086/swiperefreshlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/techdodles/.gradle/caches/transforms-2/files-2.1/52c1dfbc6044a1967c8990f636330db0/asynclayoutinflater-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.0.1] /Users/techdodles/.gradle/caches/transforms-2/files-2.1/e8e0b2ee21f4e5d9e64c2486f33da267/core-1.0.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/techdodles/.gradle/caches/transforms-2/files-2.1/325c8c5c622ef3bdf209facc40a2fd88/versionedparcelable-1.0.0/AndroidManifest.xml:17:1-25:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/techdodles/.gradle/caches/transforms-2/files-2.1/4affab6c49b2a39aea262395f24d4da5/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.firebase:firebase-components:16.1.0] /Users/techdodles/.gradle/caches/transforms-2/files-2.1/bcef0db1de5c0759982e321f2139ac4e/jetified-firebase-components-16.1.0/AndroidManifest.xml:15:1-23:12
+MERGED from [com.google.firebase:firebase-encoders-json:17.1.0] /Users/techdodles/.gradle/caches/transforms-2/files-2.1/fff19fbb02c37b390d8250ae7f502340/firebase-encoders-json-17.1.0/AndroidManifest.xml:15:1-23:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /Users/techdodles/.gradle/caches/transforms-2/files-2.1/7988de2620693657c99a4120cacec56a/lifecycle-runtime-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/techdodles/.gradle/caches/transforms-2/files-2.1/b8f45ad43de7efbb028323abee5461d0/documentfile-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/techdodles/.gradle/caches/transforms-2/files-2.1/1a2bf9d8379e994c1d0b05688cdefc47/localbroadcastmanager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /Users/techdodles/.gradle/caches/transforms-2/files-2.1/de72611b6ab952e8873a86087b621cb9/print-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /Users/techdodles/.gradle/caches/transforms-2/files-2.1/707b89141d0adb805b7988def28d2113/lifecycle-viewmodel-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/techdodles/.gradle/caches/transforms-2/files-2.1/1f22b996c3818163e7abf6df9a89974e/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.datatransport:transport-api:2.2.1] /Users/techdodles/.gradle/caches/transforms-2/files-2.1/5c9ccadaa0262d212eebfaefbdf6e62a/jetified-transport-api-2.2.1/AndroidManifest.xml:15:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/techdodles/.gradle/caches/transforms-2/files-2.1/1d63cda437ebb2fcc3291d2ac0187ab5/lifecycle-livedata-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/techdodles/.gradle/caches/transforms-2/files-2.1/94a3a49b043c2290d5d40e1c969f544c/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/techdodles/.gradle/caches/transforms-2/files-2.1/3d41991e932aa027eaadce0b11cf7afb/core-runtime-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.facebook.conceal:conceal:1.1.3] /Users/techdodles/.gradle/caches/transforms-2/files-2.1/785bf9fa01bbe833cc53324d60167f90/conceal-1.1.3/AndroidManifest.xml:7:1-16:12
+MERGED from [me.leolin:ShortcutBadger:1.1.8] /Users/techdodles/.gradle/caches/transforms-2/files-2.1/ac21f01c6641e2f1f87c8086c8adf8e6/ShortcutBadger-1.1.8/AndroidManifest.xml:2:1-41:12
+INJECTED from /Users/techdodles/Desktop/Bhavya/Project/kryptokrona-mobile-wallet-master/android/app/src/debug/AndroidManifest.xml:2:1-8:12
+INJECTED from /Users/techdodles/Desktop/Bhavya/Project/kryptokrona-mobile-wallet-master/android/app/src/debug/AndroidManifest.xml:2:1-8:12
+INJECTED from /Users/techdodles/Desktop/Bhavya/Project/kryptokrona-mobile-wallet-master/android/app/src/debug/AndroidManifest.xml:2:1-8:12
+	package
+		ADDED from /Users/techdodles/Desktop/Bhavya/Project/kryptokrona-mobile-wallet-master/android/app/src/main/AndroidManifest.xml:2:3-20
+		INJECTED from /Users/techdodles/Desktop/Bhavya/Project/kryptokrona-mobile-wallet-master/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/techdodles/Desktop/Bhavya/Project/kryptokrona-mobile-wallet-master/android/app/src/main/AndroidManifest.xml:2:3-20
+		INJECTED from /Users/techdodles/Desktop/Bhavya/Project/kryptokrona-mobile-wallet-master/android/app/src/debug/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/techdodles/Desktop/Bhavya/Project/kryptokrona-mobile-wallet-master/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/techdodles/Desktop/Bhavya/Project/kryptokrona-mobile-wallet-master/android/app/src/main/AndroidManifest.xml:1:1-63:12
+		INJECTED from /Users/techdodles/Desktop/Bhavya/Project/kryptokrona-mobile-wallet-master/android/app/src/debug/AndroidManifest.xml
+	xmlns:tools
+		ADDED from /Users/techdodles/Desktop/Bhavya/Project/kryptokrona-mobile-wallet-master/android/app/src/debug/AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from /Users/techdodles/Desktop/Bhavya/Project/kryptokrona-mobile-wallet-master/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/techdodles/Desktop/Bhavya/Project/kryptokrona-mobile-wallet-master/android/app/src/main/AndroidManifest.xml:1:1-63:12
+		INJECTED from /Users/techdodles/Desktop/Bhavya/Project/kryptokrona-mobile-wallet-master/android/app/src/debug/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/techdodles/Desktop/Bhavya/Project/kryptokrona-mobile-wallet-master/android/app/src/main/AndroidManifest.xml:1:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /Users/techdodles/Desktop/Bhavya/Project/kryptokrona-mobile-wallet-master/android/app/src/main/AndroidManifest.xml:4:5-67
+MERGED from [:@sentry_react-native] /Users/techdodles/Desktop/Bhavya/Project/kryptokrona-mobile-wallet-master/node_modules/@sentry/react-native/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:11:5-67
+MERGED from [:@sentry_react-native] /Users/techdodles/Desktop/Bhavya/Project/kryptokrona-mobile-wallet-master/node_modules/@sentry/react-native/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:11:5-67
+MERGED from [:react-native-tcp] /Users/techdodles/Desktop/Bhavya/Project/kryptokrona-mobile-wallet-master/node_modules/react-native-tcp/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:11:5-67
+MERGED from [:react-native-tcp] /Users/techdodles/Desktop/Bhavya/Project/kryptokrona-mobile-wallet-master/node_modules/react-native-tcp/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:11:5-67
+MERGED from [:react-native-udp] /Users/techdodles/Desktop/Bhavya/Project/kryptokrona-mobile-wallet-master/node_modules/react-native-udp/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:11:5-67
+MERGED from [:react-native-udp] /Users/techdodles/Desktop/Bhavya/Project/kryptokrona-mobile-wallet-master/node_modules/react-native-udp/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:11:5-67
+MERGED from [com.google.android.datatransport:transport-backend-cct:2.3.3] /Users/techdodles/.gradle/caches/transforms-2/files-2.1/d189e339dd11e2bca70be01df75c407c/jetified-transport-backend-cct-2.3.3/AndroidManifest.xml:26:5-67
+MERGED from [com.google.android.datatransport:transport-backend-cct:2.3.3] /Users/techdodles/.gradle/caches/transforms-2/files-2.1/d189e339dd11e2bca70be01df75c407c/jetified-transport-backend-cct-2.3.3/AndroidManifest.xml:26:5-67
+MERGED from [com.google.android.gms:play-services-gcm:17.0.0] /Users/techdodles/.gradle/caches/transforms-2/files-2.1/b4f5dccaeb018f86f07f122801f1086d/play-services-gcm-17.0.0/AndroidManifest.xml:24:5-67
+MERGED from [com.google.android.gms:play-services-gcm:17.0.0] /Users/techdodles/.gradle/caches/transforms-2/files-2.1/b4f5dccaeb018f86f07f122801f1086d/play-services-gcm-17.0.0/AndroidManifest.xml:24:5-67
+MERGED from [com.google.android.gms:play-services-iid:17.0.0] /Users/techdodles/.gradle/caches/transforms-2/files-2.1/06dd01886efac277ac9851f60bb50e21/play-services-iid-17.0.0/AndroidManifest.xml:24:5-67
+MERGED from [com.google.android.gms:play-services-iid:17.0.0] /Users/techdodles/.gradle/caches/transforms-2/files-2.1/06dd01886efac277ac9851f60bb50e21/play-services-iid-17.0.0/AndroidManifest.xml:24:5-67
+MERGED from [com.google.firebase:firebase-iid:21.0.1] /Users/techdodles/.gradle/caches/transforms-2/files-2.1/5dc913cc10a69dcb0d5e5e9770496438/firebase-iid-21.0.1/AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-iid:21.0.1] /Users/techdodles/.gradle/caches/transforms-2/files-2.1/5dc913cc10a69dcb0d5e5e9770496438/firebase-iid-21.0.1/AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-cloud-messaging:16.0.0] /Users/techdodles/.gradle/caches/transforms-2/files-2.1/6ee4f583a45c0af219d9c2fadb937282/play-services-cloud-messaging-16.0.0/AndroidManifest.xml:8:5-67
+MERGED from [com.google.android.gms:play-services-cloud-messaging:16.0.0] /Users/techdodles/.gradle/caches/transforms-2/files-2.1/6ee4f583a45c0af219d9c2fadb937282/play-services-cloud-messaging-16.0.0/AndroidManifest.xml:8:5-67
+MERGED from [com.google.firebase:firebase-installations:16.3.5] /Users/techdodles/.gradle/caches/transforms-2/files-2.1/90df5aa45f474731060058b2200978a2/firebase-installations-16.3.5/AndroidManifest.xml:11:5-67
+MERGED from [com.google.firebase:firebase-installations:16.3.5] /Users/techdodles/.gradle/caches/transforms-2/files-2.1/90df5aa45f474731060058b2200978a2/firebase-installations-16.3.5/AndroidManifest.xml:11:5-67
+	android:name
+		ADDED from /Users/techdodles/Desktop/Bhavya/Project/kryptokrona-mobile-wallet-master/android/app/src/main/AndroidManifest.xml:4:22-64
+uses-permission#android.permission.CAMERA
+ADDED from /Users/techdodles/Desktop/Bhavya/Project/kryptokrona-mobile-wallet-master/android/app/src/main/AndroidManifest.xml:5:5-65
+MERGED from [:react-native-camera] /Users/techdodles/Desktop/Bhavya/Project/kryptokrona-mobile-wallet-master/node_modules/react-native-camera/android/build/intermediates/library_manifest/generalDebug/AndroidManifest.xml:9:5-65
+MERGED from [:react-native-camera] /Users/techdodles/Desktop/Bhavya/Project/kryptokrona-mobile-wallet-master/node_modules/react-native-camera/android/build/intermediates/library_manifest/generalDebug/AndroidManifest.xml:9:5-65
+	android:name
+		ADDED from /Users/techdodles/Desktop/Bhavya/Project/kryptokrona-mobile-wallet-master/android/app/src/main/AndroidManifest.xml:5:22-62
+uses-permission#android.permission.VIBRATE
+ADDED from /Users/techdodles/Desktop/Bhavya/Project/kryptokrona-mobile-wallet-master/android/app/src/main/AndroidManifest.xml:6:5-65
+	android:name
+		ADDED from /Users/techdodles/Desktop/Bhavya/Project/kryptokrona-mobile-wallet-master/android/app/src/main/AndroidManifest.xml:6:22-63
+uses-permission#android.permission.USE_FINGERPRINT
+ADDED from /Users/techdodles/Desktop/Bhavya/Project/kryptokrona-mobile-wallet-master/android/app/src/main/AndroidManifest.xml:7:5-74
+MERGED from [:react-native-fingerprint-scanner] /Users/techdodles/Desktop/Bhavya/Project/kryptokrona-mobile-wallet-master/node_modules/react-native-fingerprint-scanner/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:11:5-74
+MERGED from [:react-native-fingerprint-scanner] /Users/techdodles/Desktop/Bhavya/Project/kryptokrona-mobile-wallet-master/node_modules/react-native-fingerprint-scanner/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:11:5-74
+MERGED from [:react-native-keychain] /Users/techdodles/Desktop/Bhavya/Project/kryptokrona-mobile-wallet-master/node_modules/react-native-keychain/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:11:5-74
+MERGED from [:react-native-keychain] /Users/techdodles/Desktop/Bhavya/Project/kryptokrona-mobile-wallet-master/node_modules/react-native-keychain/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:11:5-74
+	android:name
+		ADDED from /Users/techdodles/Desktop/Bhavya/Project/kryptokrona-mobile-wallet-master/android/app/src/main/AndroidManifest.xml:7:22-71
+application
+ADDED from /Users/techdodles/Desktop/Bhavya/Project/kryptokrona-mobile-wallet-master/android/app/src/main/AndroidManifest.xml:9:5-61:19
+MERGED from /Users/techdodles/Desktop/Bhavya/Project/kryptokrona-mobile-wallet-master/android/app/src/main/AndroidManifest.xml:9:5-61:19
+MERGED from /Users/techdodles/Desktop/Bhavya/Project/kryptokrona-mobile-wallet-master/android/app/src/main/AndroidManifest.xml:9:5-61:19
+MERGED from [:react-native-background-fetch] /Users/techdodles/Desktop/Bhavya/Project/kryptokrona-mobile-wallet-master/node_modules/react-native-background-fetch/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:11:5-24:19
+MERGED from [:react-native-background-fetch] /Users/techdodles/Desktop/Bhavya/Project/kryptokrona-mobile-wallet-master/node_modules/react-native-background-fetch/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:11:5-24:19
+MERGED from [com.facebook.react:react-native:0.60.4] /Users/techdodles/.gradle/caches/transforms-2/files-2.1/0b211f842c2d4ee10efe5ee28a2ffeb6/jetified-react-native-0.60.4/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.react:react-native:0.60.4] /Users/techdodles/.gradle/caches/transforms-2/files-2.1/0b211f842c2d4ee10efe5ee28a2ffeb6/jetified-react-native-0.60.4/AndroidManifest.xml:11:5-20
+MERGED from [com.google.android.gms:play-services-safetynet:17.0.0] /Users/techdodles/.gradle/caches/transforms-2/files-2.1/da46b4ed476d67a04069dc6131871779/play-services-safetynet-17.0.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-safetynet:17.0.0] /Users/techdodles/.gradle/caches/transforms-2/files-2.1/da46b4ed476d67a04069dc6131871779/play-services-safetynet-17.0.0/AndroidManifest.xml:22:5-20
+MERGED from [com.transistorsoft:tsbackgroundfetch:0.3.1] /Users/techdodles/.gradle/caches/transforms-2/files-2.1/d47723bbaa89f858dfa553488f365093/tsbackgroundfetch-0.3.1/AndroidManifest.xml:14:5-28:19
+MERGED from [com.transistorsoft:tsbackgroundfetch:0.3.1] /Users/techdodles/.gradle/caches/transforms-2/files-2.1/d47723bbaa89f858dfa553488f365093/tsbackgroundfetch-0.3.1/AndroidManifest.xml:14:5-28:19
+MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/techdodles/.gradle/caches/transforms-2/files-2.1/2b3ad5dd921995efcfb8f950196d6c62/soloader-0.6.0/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/techdodles/.gradle/caches/transforms-2/files-2.1/2b3ad5dd921995efcfb8f950196d6c62/soloader-0.6.0/AndroidManifest.xml:11:5-20
+MERGED from [com.google.firebase:firebase-messaging:21.0.1] /Users/techdodles/.gradle/caches/transforms-2/files-2.1/a22afcdea1d42c2753ca5c4a98a234b5/jetified-firebase-messaging-21.0.1/AndroidManifest.xml:22:5-43:19
+MERGED from [com.google.firebase:firebase-messaging:21.0.1] /Users/techdodles/.gradle/caches/transforms-2/files-2.1/a22afcdea1d42c2753ca5c4a98a234b5/jetified-firebase-messaging-21.0.1/AndroidManifest.xml:22:5-43:19
+MERGED from [com.google.firebase:firebase-datatransport:17.0.10] /Users/techdodles/.gradle/caches/transforms-2/files-2.1/0581ed86db08602eda8a39962d6aacda/firebase-datatransport-17.0.10/AndroidManifest.xml:24:5-32:19
+MERGED from [com.google.firebase:firebase-datatransport:17.0.10] /Users/techdodles/.gradle/caches/transforms-2/files-2.1/0581ed86db08602eda8a39962d6aacda/firebase-datatransport-17.0.10/AndroidManifest.xml:24:5-32:19
+MERGED from [com.google.android.datatransport:transport-backend-cct:2.3.3] /Users/techdodles/.gradle/caches/transforms-2/files-2.1/d189e339dd11e2bca70be01df75c407c/jetified-transport-backend-cct-2.3.3/AndroidManifest.xml:28:5-36:19
+MERGED from [com.google.android.datatransport:transport-backend-cct:2.3.3] /Users/techdodles/.gradle/caches/transforms-2/files-2.1/d189e339dd11e2bca70be01df75c407c/jetified-transport-backend-cct-2.3.3/AndroidManifest.xml:28:5-36:19
+MERGED from [com.google.android.datatransport:transport-runtime:2.2.5] /Users/techdodles/.gradle/caches/transforms-2/files-2.1/20505f7d026046bd723c01c9a50302f1/jetified-transport-runtime-2.2.5/AndroidManifest.xml:25:5-39:19
+MERGED from [com.google.android.datatransport:transport-runtime:2.2.5] /Users/techdodles/.gradle/caches/transforms-2/files-2.1/20505f7d026046bd723c01c9a50302f1/jetified-transport-runtime-2.2.5/AndroidManifest.xml:25:5-39:19
+MERGED from [com.google.android.gms:play-services-vision:17.0.2] /Users/techdodles/.gradle/caches/transforms-2/files-2.1/882c486a2fa6adbd8538988b068382aa/play-services-vision-17.0.2/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-vision:17.0.2] /Users/techdodles/.gradle/caches/transforms-2/files-2.1/882c486a2fa6adbd8538988b068382aa/play-services-vision-17.0.2/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-gcm:17.0.0] /Users/techdodles/.gradle/caches/transforms-2/files-2.1/b4f5dccaeb018f86f07f122801f1086d/play-services-gcm-17.0.0/AndroidManifest.xml:26:5-20
+MERGED from [com.google.android.gms:play-services-gcm:17.0.0] /Users/techdodles/.gradle/caches/transforms-2/files-2.1/b4f5dccaeb018f86f07f122801f1086d/play-services-gcm-17.0.0/AndroidManifest.xml:26:5-20
+MERGED from [com.google.android.gms:play-services-vision-common:17.0.2] /Users/techdodles/.gradle/caches/transforms-2/files-2.1/cea7e6a4c4e3002a9d23052133613fc5/jetified-play-services-vision-common-17.0.2/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-vision-common:17.0.2] /Users/techdodles/.gradle/caches/transforms-2/files-2.1/cea7e6a4c4e3002a9d23052133613fc5/jetified-play-services-vision-common-17.0.2/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-iid:17.0.0] /Users/techdodles/.gradle/caches/transforms-2/files-2.1/06dd01886efac277ac9851f60bb50e21/play-services-iid-17.0.0/AndroidManifest.xml:26:5-20
+MERGED from [com.google.android.gms:play-services-iid:17.0.0] /Users/techdodles/.gradle/caches/transforms-2/files-2.1/06dd01886efac277ac9851f60bb50e21/play-services-iid-17.0.0/AndroidManifest.xml:26:5-20
+MERGED from [com.google.android.gms:play-services-clearcut:16.0.0] /Users/techdodles/.gradle/caches/transforms-2/files-2.1/98fb49c0a59a4f0c7cadb95bba0d6329/jetified-play-services-clearcut-16.0.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-clearcut:16.0.0] /Users/techdodles/.gradle/caches/transforms-2/files-2.1/98fb49c0a59a4f0c7cadb95bba0d6329/jetified-play-services-clearcut-16.0.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-phenotype:16.0.0] /Users/techdodles/.gradle/caches/transforms-2/files-2.1/17a5a6aad10c11bd2867a446c5f61165/jetified-play-services-phenotype-16.0.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-phenotype:16.0.0] /Users/techdodles/.gradle/caches/transforms-2/files-2.1/17a5a6aad10c11bd2867a446c5f61165/jetified-play-services-phenotype-16.0.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-iid:21.0.1] /Users/techdodles/.gradle/caches/transforms-2/files-2.1/5dc913cc10a69dcb0d5e5e9770496438/firebase-iid-21.0.1/AndroidManifest.xml:28:5-45:19
+MERGED from [com.google.firebase:firebase-iid:21.0.1] /Users/techdodles/.gradle/caches/transforms-2/files-2.1/5dc913cc10a69dcb0d5e5e9770496438/firebase-iid-21.0.1/AndroidManifest.xml:28:5-45:19
+MERGED from [com.google.firebase:firebase-iid-interop:17.0.0] /Users/techdodles/.gradle/caches/transforms-2/files-2.1/58a67b98e2a24cc406aafeab986730f7/firebase-iid-interop-17.0.0/AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-iid-interop:17.0.0] /Users/techdodles/.gradle/caches/transforms-2/files-2.1/58a67b98e2a24cc406aafeab986730f7/firebase-iid-interop-17.0.0/AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.android.gms:play-services-base:17.0.0] /Users/techdodles/.gradle/caches/transforms-2/files-2.1/57ff500ed42a0b02b4eed5c4dc4e7665/play-services-base-17.0.0/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:17.0.0] /Users/techdodles/.gradle/caches/transforms-2/files-2.1/57ff500ed42a0b02b4eed5c4dc4e7665/play-services-base-17.0.0/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.firebase:firebase-installations:16.3.5] /Users/techdodles/.gradle/caches/transforms-2/files-2.1/90df5aa45f474731060058b2200978a2/firebase-installations-16.3.5/AndroidManifest.xml:14:5-22:19
+MERGED from [com.google.firebase:firebase-installations:16.3.5] /Users/techdodles/.gradle/caches/transforms-2/files-2.1/90df5aa45f474731060058b2200978a2/firebase-installations-16.3.5/AndroidManifest.xml:14:5-22:19
+MERGED from [com.google.firebase:firebase-common:19.5.0] /Users/techdodles/.gradle/caches/transforms-2/files-2.1/851ce5721e5a940031ba5cb25e1572f0/jetified-firebase-common-19.5.0/AndroidManifest.xml:25:5-47:19
+MERGED from [com.google.firebase:firebase-common:19.5.0] /Users/techdodles/.gradle/caches/transforms-2/files-2.1/851ce5721e5a940031ba5cb25e1572f0/jetified-firebase-common-19.5.0/AndroidManifest.xml:25:5-47:19
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /Users/techdodles/.gradle/caches/transforms-2/files-2.1/143500665600d52b763b01b3a71ef6b7/play-services-tasks-17.0.0/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /Users/techdodles/.gradle/caches/transforms-2/files-2.1/143500665600d52b763b01b3a71ef6b7/play-services-tasks-17.0.0/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-stats:17.0.0] /Users/techdodles/.gradle/caches/transforms-2/files-2.1/1e5e69e34d365938c111f06f4c5686ce/play-services-stats-17.0.0/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-stats:17.0.0] /Users/techdodles/.gradle/caches/transforms-2/files-2.1/1e5e69e34d365938c111f06f4c5686ce/play-services-stats-17.0.0/AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-measurement-connector:18.0.0] /Users/techdodles/.gradle/caches/transforms-2/files-2.1/a72d049a41652863d783b7a91f6f9fa3/firebase-measurement-connector-18.0.0/AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.firebase:firebase-measurement-connector:18.0.0] /Users/techdodles/.gradle/caches/transforms-2/files-2.1/a72d049a41652863d783b7a91f6f9fa3/firebase-measurement-connector-18.0.0/AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] /Users/techdodles/.gradle/caches/transforms-2/files-2.1/1f3901d9556039b228c83a0e7af54570/jetified-play-services-basement-17.0.0/AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] /Users/techdodles/.gradle/caches/transforms-2/files-2.1/1f3901d9556039b228c83a0e7af54570/jetified-play-services-basement-17.0.0/AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.core:core:1.0.1] /Users/techdodles/.gradle/caches/transforms-2/files-2.1/e8e0b2ee21f4e5d9e64c2486f33da267/core-1.0.1/AndroidManifest.xml:22:5-89
+MERGED from [androidx.core:core:1.0.1] /Users/techdodles/.gradle/caches/transforms-2/files-2.1/e8e0b2ee21f4e5d9e64c2486f33da267/core-1.0.1/AndroidManifest.xml:22:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/techdodles/.gradle/caches/transforms-2/files-2.1/325c8c5c622ef3bdf209facc40a2fd88/versionedparcelable-1.0.0/AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/techdodles/.gradle/caches/transforms-2/files-2.1/325c8c5c622ef3bdf209facc40a2fd88/versionedparcelable-1.0.0/AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.0.1] /Users/techdodles/.gradle/caches/transforms-2/files-2.1/e8e0b2ee21f4e5d9e64c2486f33da267/core-1.0.1/AndroidManifest.xml:22:18-86
+	android:label
+		ADDED from /Users/techdodles/Desktop/Bhavya/Project/kryptokrona-mobile-wallet-master/android/app/src/main/AndroidManifest.xml:11:7-39
+		ADDED from /Users/techdodles/Desktop/Bhavya/Project/kryptokrona-mobile-wallet-master/android/app/src/main/AndroidManifest.xml:11:7-39
+	tools:ignore
+		ADDED from /Users/techdodles/Desktop/Bhavya/Project/kryptokrona-mobile-wallet-master/android/app/src/debug/AndroidManifest.xml:7:75-114
+	android:roundIcon
+		ADDED from /Users/techdodles/Desktop/Bhavya/Project/kryptokrona-mobile-wallet-master/android/app/src/main/AndroidManifest.xml:13:7-52
+		ADDED from /Users/techdodles/Desktop/Bhavya/Project/kryptokrona-mobile-wallet-master/android/app/src/main/AndroidManifest.xml:13:7-52
+	tools:targetApi
+		ADDED from /Users/techdodles/Desktop/Bhavya/Project/kryptokrona-mobile-wallet-master/android/app/src/debug/AndroidManifest.xml:7:54-74
+	android:largeHeap
+		ADDED from /Users/techdodles/Desktop/Bhavya/Project/kryptokrona-mobile-wallet-master/android/app/src/main/AndroidManifest.xml:15:7-31
+		ADDED from /Users/techdodles/Desktop/Bhavya/Project/kryptokrona-mobile-wallet-master/android/app/src/main/AndroidManifest.xml:15:7-31
+	android:icon
+		ADDED from /Users/techdodles/Desktop/Bhavya/Project/kryptokrona-mobile-wallet-master/android/app/src/main/AndroidManifest.xml:12:7-41
+		ADDED from /Users/techdodles/Desktop/Bhavya/Project/kryptokrona-mobile-wallet-master/android/app/src/main/AndroidManifest.xml:12:7-41
+	android:allowBackup
+		ADDED from /Users/techdodles/Desktop/Bhavya/Project/kryptokrona-mobile-wallet-master/android/app/src/main/AndroidManifest.xml:14:7-34
+		ADDED from /Users/techdodles/Desktop/Bhavya/Project/kryptokrona-mobile-wallet-master/android/app/src/main/AndroidManifest.xml:14:7-34
+	android:theme
+		ADDED from /Users/techdodles/Desktop/Bhavya/Project/kryptokrona-mobile-wallet-master/android/app/src/main/AndroidManifest.xml:17:7-38
+		ADDED from /Users/techdodles/Desktop/Bhavya/Project/kryptokrona-mobile-wallet-master/android/app/src/main/AndroidManifest.xml:17:7-38
+	android:usesCleartextTraffic
+		ADDED from /Users/techdodles/Desktop/Bhavya/Project/kryptokrona-mobile-wallet-master/android/app/src/main/AndroidManifest.xml:16:7-42
+	android:name
+		ADDED from /Users/techdodles/Desktop/Bhavya/Project/kryptokrona-mobile-wallet-master/android/app/src/main/AndroidManifest.xml:10:7-38
+		ADDED from /Users/techdodles/Desktop/Bhavya/Project/kryptokrona-mobile-wallet-master/android/app/src/main/AndroidManifest.xml:10:7-38
+meta-data#com.dieam.reactnativepushnotification.notification_channel_name
+ADDED from /Users/techdodles/Desktop/Bhavya/Project/kryptokrona-mobile-wallet-master/android/app/src/main/AndroidManifest.xml:19:9-20:65
+	android:value
+		ADDED from /Users/techdodles/Desktop/Bhavya/Project/kryptokrona-mobile-wallet-master/android/app/src/main/AndroidManifest.xml:20:17-63
+	android:name
+		ADDED from /Users/techdodles/Desktop/Bhavya/Project/kryptokrona-mobile-wallet-master/android/app/src/main/AndroidManifest.xml:19:21-99
+meta-data#com.dieam.reactnativepushnotification.notification_channel_description
+ADDED from /Users/techdodles/Desktop/Bhavya/Project/kryptokrona-mobile-wallet-master/android/app/src/main/AndroidManifest.xml:21:9-22:76
+	android:value
+		ADDED from /Users/techdodles/Desktop/Bhavya/Project/kryptokrona-mobile-wallet-master/android/app/src/main/AndroidManifest.xml:22:21-74
+	android:name
+		ADDED from /Users/techdodles/Desktop/Bhavya/Project/kryptokrona-mobile-wallet-master/android/app/src/main/AndroidManifest.xml:21:21-106
+meta-data#com.dieam.reactnativepushnotification.notification_color
+ADDED from /Users/techdodles/Desktop/Bhavya/Project/kryptokrona-mobile-wallet-master/android/app/src/main/AndroidManifest.xml:24:9-25:62
+	android:resource
+		ADDED from /Users/techdodles/Desktop/Bhavya/Project/kryptokrona-mobile-wallet-master/android/app/src/main/AndroidManifest.xml:25:21-60
+	android:name
+		ADDED from /Users/techdodles/Desktop/Bhavya/Project/kryptokrona-mobile-wallet-master/android/app/src/main/AndroidManifest.xml:24:21-92
+receiver#com.dieam.reactnativepushnotification.modules.RNPushNotificationPublisher
+ADDED from /Users/techdodles/Desktop/Bhavya/Project/kryptokrona-mobile-wallet-master/android/app/src/main/AndroidManifest.xml:27:9-110
+	android:name
+		ADDED from /Users/techdodles/Desktop/Bhavya/Project/kryptokrona-mobile-wallet-master/android/app/src/main/AndroidManifest.xml:27:19-107
+receiver#com.dieam.reactnativepushnotification.modules.RNPushNotificationBootEventReceiver
+ADDED from /Users/techdodles/Desktop/Bhavya/Project/kryptokrona-mobile-wallet-master/android/app/src/main/AndroidManifest.xml:28:9-32:20
+	android:name
+		ADDED from /Users/techdodles/Desktop/Bhavya/Project/kryptokrona-mobile-wallet-master/android/app/src/main/AndroidManifest.xml:28:19-115
+intent-filter#action:name:android.intent.action.BOOT_COMPLETED
+ADDED from /Users/techdodles/Desktop/Bhavya/Project/kryptokrona-mobile-wallet-master/android/app/src/main/AndroidManifest.xml:29:13-31:29
+action#android.intent.action.BOOT_COMPLETED
+ADDED from /Users/techdodles/Desktop/Bhavya/Project/kryptokrona-mobile-wallet-master/android/app/src/main/AndroidManifest.xml:30:17-79
+	android:name
+		ADDED from /Users/techdodles/Desktop/Bhavya/Project/kryptokrona-mobile-wallet-master/android/app/src/main/AndroidManifest.xml:30:25-76
+service#com.dieam.reactnativepushnotification.modules.RNPushNotificationRegistrationService
+ADDED from /Users/techdodles/Desktop/Bhavya/Project/kryptokrona-mobile-wallet-master/android/app/src/main/AndroidManifest.xml:33:9-118
+	android:name
+		ADDED from /Users/techdodles/Desktop/Bhavya/Project/kryptokrona-mobile-wallet-master/android/app/src/main/AndroidManifest.xml:33:18-116
+service#com.dieam.reactnativepushnotification.modules.RNPushNotificationListenerService
+ADDED from /Users/techdodles/Desktop/Bhavya/Project/kryptokrona-mobile-wallet-master/android/app/src/main/AndroidManifest.xml:35:9-41:19
+	android:exported
+		ADDED from /Users/techdodles/Desktop/Bhavya/Project/kryptokrona-mobile-wallet-master/android/app/src/main/AndroidManifest.xml:37:13-37
+	android:name
+		ADDED from /Users/techdodles/Desktop/Bhavya/Project/kryptokrona-mobile-wallet-master/android/app/src/main/AndroidManifest.xml:36:13-107
+intent-filter#action:name:com.google.firebase.MESSAGING_EVENT
+ADDED from /Users/techdodles/Desktop/Bhavya/Project/kryptokrona-mobile-wallet-master/android/app/src/main/AndroidManifest.xml:38:13-40:29
+action#com.google.firebase.MESSAGING_EVENT
+ADDED from /Users/techdodles/Desktop/Bhavya/Project/kryptokrona-mobile-wallet-master/android/app/src/main/AndroidManifest.xml:39:17-78
+	android:name
+		ADDED from /Users/techdodles/Desktop/Bhavya/Project/kryptokrona-mobile-wallet-master/android/app/src/main/AndroidManifest.xml:39:25-75
+activity#com.xkr.MainActivity
+ADDED from /Users/techdodles/Desktop/Bhavya/Project/kryptokrona-mobile-wallet-master/android/app/src/main/AndroidManifest.xml:43:7-59:18
+	android:screenOrientation
+		ADDED from /Users/techdodles/Desktop/Bhavya/Project/kryptokrona-mobile-wallet-master/android/app/src/main/AndroidManifest.xml:47:9-45
+	android:label
+		ADDED from /Users/techdodles/Desktop/Bhavya/Project/kryptokrona-mobile-wallet-master/android/app/src/main/AndroidManifest.xml:45:9-41
+	android:windowSoftInputMode
+		ADDED from /Users/techdodles/Desktop/Bhavya/Project/kryptokrona-mobile-wallet-master/android/app/src/main/AndroidManifest.xml:48:9-48
+	android:configChanges
+		ADDED from /Users/techdodles/Desktop/Bhavya/Project/kryptokrona-mobile-wallet-master/android/app/src/main/AndroidManifest.xml:46:9-79
+	android:name
+		ADDED from /Users/techdodles/Desktop/Bhavya/Project/kryptokrona-mobile-wallet-master/android/app/src/main/AndroidManifest.xml:44:9-37
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/techdodles/Desktop/Bhavya/Project/kryptokrona-mobile-wallet-master/android/app/src/main/AndroidManifest.xml:49:9-52:25
+action#android.intent.action.MAIN
+ADDED from /Users/techdodles/Desktop/Bhavya/Project/kryptokrona-mobile-wallet-master/android/app/src/main/AndroidManifest.xml:50:13-65
+	android:name
+		ADDED from /Users/techdodles/Desktop/Bhavya/Project/kryptokrona-mobile-wallet-master/android/app/src/main/AndroidManifest.xml:50:21-62
+category#android.intent.category.LAUNCHER
+ADDED from /Users/techdodles/Desktop/Bhavya/Project/kryptokrona-mobile-wallet-master/android/app/src/main/AndroidManifest.xml:51:13-73
+	android:name
+		ADDED from /Users/techdodles/Desktop/Bhavya/Project/kryptokrona-mobile-wallet-master/android/app/src/main/AndroidManifest.xml:51:23-70
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:scheme:turtlecoin
+ADDED from /Users/techdodles/Desktop/Bhavya/Project/kryptokrona-mobile-wallet-master/android/app/src/main/AndroidManifest.xml:53:9-58:25
+	android:label
+		ADDED from /Users/techdodles/Desktop/Bhavya/Project/kryptokrona-mobile-wallet-master/android/app/src/main/AndroidManifest.xml:53:24-59
+action#android.intent.action.VIEW
+ADDED from /Users/techdodles/Desktop/Bhavya/Project/kryptokrona-mobile-wallet-master/android/app/src/main/AndroidManifest.xml:54:11-63
+	android:name
+		ADDED from /Users/techdodles/Desktop/Bhavya/Project/kryptokrona-mobile-wallet-master/android/app/src/main/AndroidManifest.xml:54:19-60
+category#android.intent.category.DEFAULT
+ADDED from /Users/techdodles/Desktop/Bhavya/Project/kryptokrona-mobile-wallet-master/android/app/src/main/AndroidManifest.xml:55:11-70
+	android:name
+		ADDED from /Users/techdodles/Desktop/Bhavya/Project/kryptokrona-mobile-wallet-master/android/app/src/main/AndroidManifest.xml:55:21-67
+category#android.intent.category.BROWSABLE
+ADDED from /Users/techdodles/Desktop/Bhavya/Project/kryptokrona-mobile-wallet-master/android/app/src/main/AndroidManifest.xml:56:11-72
+	android:name
+		ADDED from /Users/techdodles/Desktop/Bhavya/Project/kryptokrona-mobile-wallet-master/android/app/src/main/AndroidManifest.xml:56:21-69
+data
+ADDED from /Users/techdodles/Desktop/Bhavya/Project/kryptokrona-mobile-wallet-master/android/app/src/main/AndroidManifest.xml:57:11-46
+	android:scheme
+		ADDED from /Users/techdodles/Desktop/Bhavya/Project/kryptokrona-mobile-wallet-master/android/app/src/main/AndroidManifest.xml:57:17-44
+activity#com.facebook.react.devsupport.DevSettingsActivity
+ADDED from /Users/techdodles/Desktop/Bhavya/Project/kryptokrona-mobile-wallet-master/android/app/src/main/AndroidManifest.xml:60:7-84
+	android:name
+		ADDED from /Users/techdodles/Desktop/Bhavya/Project/kryptokrona-mobile-wallet-master/android/app/src/main/AndroidManifest.xml:60:17-81
+uses-sdk
+INJECTED from /Users/techdodles/Desktop/Bhavya/Project/kryptokrona-mobile-wallet-master/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/techdodles/Desktop/Bhavya/Project/kryptokrona-mobile-wallet-master/android/app/src/main/AndroidManifest.xml
+INJECTED from /Users/techdodles/Desktop/Bhavya/Project/kryptokrona-mobile-wallet-master/android/app/src/main/AndroidManifest.xml
+MERGED from [androidx.multidex:multidex:2.0.0] /Users/techdodles/.gradle/caches/transforms-2/files-2.1/909c280575265f4fc610f0bb8c7e5d13/multidex-2.0.0/AndroidManifest.xml:20:5-43
+MERGED from [androidx.multidex:multidex:2.0.0] /Users/techdodles/.gradle/caches/transforms-2/files-2.1/909c280575265f4fc610f0bb8c7e5d13/multidex-2.0.0/AndroidManifest.xml:20:5-43
+MERGED from [:react-native-fingerprint-scanner] /Users/techdodles/Desktop/Bhavya/Project/kryptokrona-mobile-wallet-master/node_modules/react-native-fingerprint-scanner/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-fingerprint-scanner] /Users/techdodles/Desktop/Bhavya/Project/kryptokrona-mobile-wallet-master/node_modules/react-native-fingerprint-scanner/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-background-fetch] /Users/techdodles/Desktop/Bhavya/Project/kryptokrona-mobile-wallet-master/node_modules/react-native-background-fetch/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-background-fetch] /Users/techdodles/Desktop/Bhavya/Project/kryptokrona-mobile-wallet-master/node_modules/react-native-background-fetch/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:@react-native-community_async-storage] /Users/techdodles/Desktop/Bhavya/Project/kryptokrona-mobile-wallet-master/node_modules/@react-native-community/async-storage/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:@react-native-community_async-storage] /Users/techdodles/Desktop/Bhavya/Project/kryptokrona-mobile-wallet-master/node_modules/@react-native-community/async-storage/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:@react-native-community_netinfo] /Users/techdodles/Desktop/Bhavya/Project/kryptokrona-mobile-wallet-master/node_modules/@react-native-community/netinfo/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:@react-native-community_netinfo] /Users/techdodles/Desktop/Bhavya/Project/kryptokrona-mobile-wallet-master/node_modules/@react-native-community/netinfo/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:@sentry_react-native] /Users/techdodles/Desktop/Bhavya/Project/kryptokrona-mobile-wallet-master/node_modules/@sentry/react-native/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:@sentry_react-native] /Users/techdodles/Desktop/Bhavya/Project/kryptokrona-mobile-wallet-master/node_modules/@sentry/react-native/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-camera] /Users/techdodles/Desktop/Bhavya/Project/kryptokrona-mobile-wallet-master/node_modules/react-native-camera/android/build/intermediates/library_manifest/generalDebug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-camera] /Users/techdodles/Desktop/Bhavya/Project/kryptokrona-mobile-wallet-master/node_modules/react-native-camera/android/build/intermediates/library_manifest/generalDebug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-exit-app] /Users/techdodles/Desktop/Bhavya/Project/kryptokrona-mobile-wallet-master/node_modules/react-native-exit-app/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-exit-app] /Users/techdodles/Desktop/Bhavya/Project/kryptokrona-mobile-wallet-master/node_modules/react-native-exit-app/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-keychain] /Users/techdodles/Desktop/Bhavya/Project/kryptokrona-mobile-wallet-master/node_modules/react-native-keychain/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-keychain] /Users/techdodles/Desktop/Bhavya/Project/kryptokrona-mobile-wallet-master/node_modules/react-native-keychain/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-push-notification] /Users/techdodles/Desktop/Bhavya/Project/kryptokrona-mobile-wallet-master/node_modules/react-native-push-notification/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-push-notification] /Users/techdodles/Desktop/Bhavya/Project/kryptokrona-mobile-wallet-master/node_modules/react-native-push-notification/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-randombytes] /Users/techdodles/Desktop/Bhavya/Project/kryptokrona-mobile-wallet-master/node_modules/react-native-randombytes/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-randombytes] /Users/techdodles/Desktop/Bhavya/Project/kryptokrona-mobile-wallet-master/node_modules/react-native-randombytes/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-sqlite-storage] /Users/techdodles/Desktop/Bhavya/Project/kryptokrona-mobile-wallet-master/node_modules/react-native-sqlite-storage/src/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-sqlite-storage] /Users/techdodles/Desktop/Bhavya/Project/kryptokrona-mobile-wallet-master/node_modules/react-native-sqlite-storage/src/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-svg] /Users/techdodles/Desktop/Bhavya/Project/kryptokrona-mobile-wallet-master/node_modules/react-native-svg/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-svg] /Users/techdodles/Desktop/Bhavya/Project/kryptokrona-mobile-wallet-master/node_modules/react-native-svg/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-tcp] /Users/techdodles/Desktop/Bhavya/Project/kryptokrona-mobile-wallet-master/node_modules/react-native-tcp/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-tcp] /Users/techdodles/Desktop/Bhavya/Project/kryptokrona-mobile-wallet-master/node_modules/react-native-tcp/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-udp] /Users/techdodles/Desktop/Bhavya/Project/kryptokrona-mobile-wallet-master/node_modules/react-native-udp/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-udp] /Users/techdodles/Desktop/Bhavya/Project/kryptokrona-mobile-wallet-master/node_modules/react-native-udp/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-vector-icons] /Users/techdodles/Desktop/Bhavya/Project/kryptokrona-mobile-wallet-master/node_modules/react-native-vector-icons/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-vector-icons] /Users/techdodles/Desktop/Bhavya/Project/kryptokrona-mobile-wallet-master/node_modules/react-native-vector-icons/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.60.4] /Users/techdodles/.gradle/caches/transforms-2/files-2.1/0b211f842c2d4ee10efe5ee28a2ffeb6/jetified-react-native-0.60.4/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.60.4] /Users/techdodles/.gradle/caches/transforms-2/files-2.1/0b211f842c2d4ee10efe5ee28a2ffeb6/jetified-react-native-0.60.4/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.fresco:fresco:2.0.0] /Users/techdodles/.gradle/caches/transforms-2/files-2.1/e5133dd846a500497a6f50918f4b2991/fresco-2.0.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fresco:2.0.0] /Users/techdodles/.gradle/caches/transforms-2/files-2.1/e5133dd846a500497a6f50918f4b2991/fresco-2.0.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:animated-gif:2.0.0] /Users/techdodles/.gradle/caches/transforms-2/files-2.1/268452018cb22d6de8e989ebb98deec1/animated-gif-2.0.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:animated-gif:2.0.0] /Users/techdodles/.gradle/caches/transforms-2/files-2.1/268452018cb22d6de8e989ebb98deec1/animated-gif-2.0.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.gms:play-services-safetynet:17.0.0] /Users/techdodles/.gradle/caches/transforms-2/files-2.1/da46b4ed476d67a04069dc6131871779/play-services-safetynet-17.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-safetynet:17.0.0] /Users/techdodles/.gradle/caches/transforms-2/files-2.1/da46b4ed476d67a04069dc6131871779/play-services-safetynet-17.0.0/AndroidManifest.xml:20:5-44
+MERGED from [org.webkit:android-jsc:r245459] /Users/techdodles/.gradle/caches/transforms-2/files-2.1/f87643be97012b787274598c8935d9e5/android-jsc-r245459/AndroidManifest.xml:7:5-9:41
+MERGED from [org.webkit:android-jsc:r245459] /Users/techdodles/.gradle/caches/transforms-2/files-2.1/f87643be97012b787274598c8935d9e5/android-jsc-r245459/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-gesture-handler] /Users/techdodles/Desktop/Bhavya/Project/kryptokrona-mobile-wallet-master/node_modules/react-native-gesture-handler/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-gesture-handler] /Users/techdodles/Desktop/Bhavya/Project/kryptokrona-mobile-wallet-master/node_modules/react-native-gesture-handler/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [com.wei.android.lib:fingerprintidentify:1.2.6] /Users/techdodles/.gradle/caches/transforms-2/files-2.1/641f25bd9cac049d216c67b9f5f5465c/fingerprintidentify-1.2.6/AndroidManifest.xml:7:5-9:41
+MERGED from [com.wei.android.lib:fingerprintidentify:1.2.6] /Users/techdodles/.gradle/caches/transforms-2/files-2.1/641f25bd9cac049d216c67b9f5f5465c/fingerprintidentify-1.2.6/AndroidManifest.xml:7:5-9:41
+MERGED from [com.transistorsoft:tsbackgroundfetch:0.3.1] /Users/techdodles/.gradle/caches/transforms-2/files-2.1/d47723bbaa89f858dfa553488f365093/tsbackgroundfetch-0.3.1/AndroidManifest.xml:7:5-9:41
+MERGED from [com.transistorsoft:tsbackgroundfetch:0.3.1] /Users/techdodles/.gradle/caches/transforms-2/files-2.1/d47723bbaa89f858dfa553488f365093/tsbackgroundfetch-0.3.1/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.fresco:animated-base:2.0.0] /Users/techdodles/.gradle/caches/transforms-2/files-2.1/fdae48f167fe1309a999ad2e1972c1a8/animated-base-2.0.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:animated-base:2.0.0] /Users/techdodles/.gradle/caches/transforms-2/files-2.1/fdae48f167fe1309a999ad2e1972c1a8/animated-base-2.0.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:animated-drawable:2.0.0] /Users/techdodles/.gradle/caches/transforms-2/files-2.1/345f7a3b9474c5a252af1dfdd989a36d/animated-drawable-2.0.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:animated-drawable:2.0.0] /Users/techdodles/.gradle/caches/transforms-2/files-2.1/345f7a3b9474c5a252af1dfdd989a36d/animated-drawable-2.0.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:2.0.0] /Users/techdodles/.gradle/caches/transforms-2/files-2.1/dabbbc7c8ef1d23909269a7aae262373/drawee-2.0.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:2.0.0] /Users/techdodles/.gradle/caches/transforms-2/files-2.1/dabbbc7c8ef1d23909269a7aae262373/drawee-2.0.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagefilters:2.0.0] /Users/techdodles/.gradle/caches/transforms-2/files-2.1/4ff22b1b29a2c99a9a08a5c20d9c5f3a/nativeimagefilters-2.0.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagefilters:2.0.0] /Users/techdodles/.gradle/caches/transforms-2/files-2.1/4ff22b1b29a2c99a9a08a5c20d9c5f3a/nativeimagefilters-2.0.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] /Users/techdodles/.gradle/caches/transforms-2/files-2.1/5b106d962ec25b91e9e1a8ce1f551cb2/imagepipeline-okhttp3-2.0.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] /Users/techdodles/.gradle/caches/transforms-2/files-2.1/5b106d962ec25b91e9e1a8ce1f551cb2/imagepipeline-okhttp3-2.0.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:2.0.0] /Users/techdodles/.gradle/caches/transforms-2/files-2.1/38e61d997fcdcc30f0e49bd01569c246/imagepipeline-2.0.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:2.0.0] /Users/techdodles/.gradle/caches/transforms-2/files-2.1/38e61d997fcdcc30f0e49bd01569c246/imagepipeline-2.0.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.0.0] /Users/techdodles/.gradle/caches/transforms-2/files-2.1/afbe07f6a75624c7820d3e60a61e7ba2/nativeimagetranscoder-2.0.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.0.0] /Users/techdodles/.gradle/caches/transforms-2/files-2.1/afbe07f6a75624c7820d3e60a61e7ba2/nativeimagetranscoder-2.0.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:2.0.0] /Users/techdodles/.gradle/caches/transforms-2/files-2.1/728ca24ffebe7cf9f50a44a84c52dfb8/imagepipeline-base-2.0.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:2.0.0] /Users/techdodles/.gradle/caches/transforms-2/files-2.1/728ca24ffebe7cf9f50a44a84c52dfb8/imagepipeline-base-2.0.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:2.0.0] /Users/techdodles/.gradle/caches/transforms-2/files-2.1/c58b4e538175f7527be53d3a3d2ddb60/jetified-fbcore-2.0.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:2.0.0] /Users/techdodles/.gradle/caches/transforms-2/files-2.1/c58b4e538175f7527be53d3a3d2ddb60/jetified-fbcore-2.0.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/techdodles/.gradle/caches/transforms-2/files-2.1/2b3ad5dd921995efcfb8f950196d6c62/soloader-0.6.0/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/techdodles/.gradle/caches/transforms-2/files-2.1/2b3ad5dd921995efcfb8f950196d6c62/soloader-0.6.0/AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.firebase:firebase-messaging:21.0.1] /Users/techdodles/.gradle/caches/transforms-2/files-2.1/a22afcdea1d42c2753ca5c4a98a234b5/jetified-firebase-messaging-21.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-messaging:21.0.1] /Users/techdodles/.gradle/caches/transforms-2/files-2.1/a22afcdea1d42c2753ca5c4a98a234b5/jetified-firebase-messaging-21.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-datatransport:17.0.10] /Users/techdodles/.gradle/caches/transforms-2/files-2.1/0581ed86db08602eda8a39962d6aacda/firebase-datatransport-17.0.10/AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-datatransport:17.0.10] /Users/techdodles/.gradle/caches/transforms-2/files-2.1/0581ed86db08602eda8a39962d6aacda/firebase-datatransport-17.0.10/AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.android.datatransport:transport-backend-cct:2.3.3] /Users/techdodles/.gradle/caches/transforms-2/files-2.1/d189e339dd11e2bca70be01df75c407c/jetified-transport-backend-cct-2.3.3/AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.android.datatransport:transport-backend-cct:2.3.3] /Users/techdodles/.gradle/caches/transforms-2/files-2.1/d189e339dd11e2bca70be01df75c407c/jetified-transport-backend-cct-2.3.3/AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.android.datatransport:transport-runtime:2.2.5] /Users/techdodles/.gradle/caches/transforms-2/files-2.1/20505f7d026046bd723c01c9a50302f1/jetified-transport-runtime-2.2.5/AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.android.datatransport:transport-runtime:2.2.5] /Users/techdodles/.gradle/caches/transforms-2/files-2.1/20505f7d026046bd723c01c9a50302f1/jetified-transport-runtime-2.2.5/AndroidManifest.xml:18:5-20:41
+MERGED from [androidx.appcompat:appcompat:1.0.2] /Users/techdodles/.gradle/caches/transforms-2/files-2.1/e5b368ef12025ed294a941dce8ba17b9/appcompat-1.0.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.0.2] /Users/techdodles/.gradle/caches/transforms-2/files-2.1/e5b368ef12025ed294a941dce8ba17b9/appcompat-1.0.2/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-vision:17.0.2] /Users/techdodles/.gradle/caches/transforms-2/files-2.1/882c486a2fa6adbd8538988b068382aa/play-services-vision-17.0.2/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-vision:17.0.2] /Users/techdodles/.gradle/caches/transforms-2/files-2.1/882c486a2fa6adbd8538988b068382aa/play-services-vision-17.0.2/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-gcm:17.0.0] /Users/techdodles/.gradle/caches/transforms-2/files-2.1/b4f5dccaeb018f86f07f122801f1086d/play-services-gcm-17.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-gcm:17.0.0] /Users/techdodles/.gradle/caches/transforms-2/files-2.1/b4f5dccaeb018f86f07f122801f1086d/play-services-gcm-17.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-vision-common:17.0.2] /Users/techdodles/.gradle/caches/transforms-2/files-2.1/cea7e6a4c4e3002a9d23052133613fc5/jetified-play-services-vision-common-17.0.2/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-vision-common:17.0.2] /Users/techdodles/.gradle/caches/transforms-2/files-2.1/cea7e6a4c4e3002a9d23052133613fc5/jetified-play-services-vision-common-17.0.2/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-iid:17.0.0] /Users/techdodles/.gradle/caches/transforms-2/files-2.1/06dd01886efac277ac9851f60bb50e21/play-services-iid-17.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-iid:17.0.0] /Users/techdodles/.gradle/caches/transforms-2/files-2.1/06dd01886efac277ac9851f60bb50e21/play-services-iid-17.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-clearcut:16.0.0] /Users/techdodles/.gradle/caches/transforms-2/files-2.1/98fb49c0a59a4f0c7cadb95bba0d6329/jetified-play-services-clearcut-16.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-clearcut:16.0.0] /Users/techdodles/.gradle/caches/transforms-2/files-2.1/98fb49c0a59a4f0c7cadb95bba0d6329/jetified-play-services-clearcut-16.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-flags:16.0.1] /Users/techdodles/.gradle/caches/transforms-2/files-2.1/1f34124b865f1d077a04f82b43a7f3bb/play-services-flags-16.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-flags:16.0.1] /Users/techdodles/.gradle/caches/transforms-2/files-2.1/1f34124b865f1d077a04f82b43a7f3bb/play-services-flags-16.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-phenotype:16.0.0] /Users/techdodles/.gradle/caches/transforms-2/files-2.1/17a5a6aad10c11bd2867a446c5f61165/jetified-play-services-phenotype-16.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-phenotype:16.0.0] /Users/techdodles/.gradle/caches/transforms-2/files-2.1/17a5a6aad10c11bd2867a446c5f61165/jetified-play-services-phenotype-16.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-iid:21.0.1] /Users/techdodles/.gradle/caches/transforms-2/files-2.1/5dc913cc10a69dcb0d5e5e9770496438/firebase-iid-21.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-iid:21.0.1] /Users/techdodles/.gradle/caches/transforms-2/files-2.1/5dc913cc10a69dcb0d5e5e9770496438/firebase-iid-21.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-iid-interop:17.0.0] /Users/techdodles/.gradle/caches/transforms-2/files-2.1/58a67b98e2a24cc406aafeab986730f7/firebase-iid-interop-17.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-iid-interop:17.0.0] /Users/techdodles/.gradle/caches/transforms-2/files-2.1/58a67b98e2a24cc406aafeab986730f7/firebase-iid-interop-17.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-base:17.0.0] /Users/techdodles/.gradle/caches/transforms-2/files-2.1/57ff500ed42a0b02b4eed5c4dc4e7665/play-services-base-17.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:17.0.0] /Users/techdodles/.gradle/caches/transforms-2/files-2.1/57ff500ed42a0b02b4eed5c4dc4e7665/play-services-base-17.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-cloud-messaging:16.0.0] /Users/techdodles/.gradle/caches/transforms-2/files-2.1/6ee4f583a45c0af219d9c2fadb937282/play-services-cloud-messaging-16.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-cloud-messaging:16.0.0] /Users/techdodles/.gradle/caches/transforms-2/files-2.1/6ee4f583a45c0af219d9c2fadb937282/play-services-cloud-messaging-16.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-installations:16.3.5] /Users/techdodles/.gradle/caches/transforms-2/files-2.1/90df5aa45f474731060058b2200978a2/firebase-installations-16.3.5/AndroidManifest.xml:6:5-8:41
+MERGED from [com.google.firebase:firebase-installations:16.3.5] /Users/techdodles/.gradle/caches/transforms-2/files-2.1/90df5aa45f474731060058b2200978a2/firebase-installations-16.3.5/AndroidManifest.xml:6:5-8:41
+MERGED from [com.google.firebase:firebase-common:19.5.0] /Users/techdodles/.gradle/caches/transforms-2/files-2.1/851ce5721e5a940031ba5cb25e1572f0/jetified-firebase-common-19.5.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.firebase:firebase-common:19.5.0] /Users/techdodles/.gradle/caches/transforms-2/files-2.1/851ce5721e5a940031ba5cb25e1572f0/jetified-firebase-common-19.5.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.firebase:firebase-installations-interop:16.0.1] /Users/techdodles/.gradle/caches/transforms-2/files-2.1/fd3f9f4087b71d27634e8ea5196976aa/firebase-installations-interop-16.0.1/AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-installations-interop:16.0.1] /Users/techdodles/.gradle/caches/transforms-2/files-2.1/fd3f9f4087b71d27634e8ea5196976aa/firebase-installations-interop-16.0.1/AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /Users/techdodles/.gradle/caches/transforms-2/files-2.1/143500665600d52b763b01b3a71ef6b7/play-services-tasks-17.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /Users/techdodles/.gradle/caches/transforms-2/files-2.1/143500665600d52b763b01b3a71ef6b7/play-services-tasks-17.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-stats:17.0.0] /Users/techdodles/.gradle/caches/transforms-2/files-2.1/1e5e69e34d365938c111f06f4c5686ce/play-services-stats-17.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-stats:17.0.0] /Users/techdodles/.gradle/caches/transforms-2/files-2.1/1e5e69e34d365938c111f06f4c5686ce/play-services-stats-17.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-measurement-connector:18.0.0] /Users/techdodles/.gradle/caches/transforms-2/files-2.1/a72d049a41652863d783b7a91f6f9fa3/firebase-measurement-connector-18.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-measurement-connector:18.0.0] /Users/techdodles/.gradle/caches/transforms-2/files-2.1/a72d049a41652863d783b7a91f6f9fa3/firebase-measurement-connector-18.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] /Users/techdodles/.gradle/caches/transforms-2/files-2.1/1f3901d9556039b228c83a0e7af54570/jetified-play-services-basement-17.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] /Users/techdodles/.gradle/caches/transforms-2/files-2.1/1f3901d9556039b228c83a0e7af54570/jetified-play-services-basement-17.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.exifinterface:exifinterface:1.0.0] /Users/techdodles/.gradle/caches/transforms-2/files-2.1/86c272f1e0f6764b84beb451152e8d3d/exifinterface-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.exifinterface:exifinterface:1.0.0] /Users/techdodles/.gradle/caches/transforms-2/files-2.1/86c272f1e0f6764b84beb451152e8d3d/exifinterface-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /Users/techdodles/.gradle/caches/transforms-2/files-2.1/654ce827107d0a57a794f23d4c4c0308/legacy-support-v4-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /Users/techdodles/.gradle/caches/transforms-2/files-2.1/654ce827107d0a57a794f23d4c4c0308/legacy-support-v4-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] /Users/techdodles/.gradle/caches/transforms-2/files-2.1/ca3bef55d2e08a09621efb4b8475ba51/fragment-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] /Users/techdodles/.gradle/caches/transforms-2/files-2.1/ca3bef55d2e08a09621efb4b8475ba51/fragment-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /Users/techdodles/.gradle/caches/transforms-2/files-2.1/7ccb3a2b9bd115d936976bca01772cbc/vectordrawable-animated-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /Users/techdodles/.gradle/caches/transforms-2/files-2.1/7ccb3a2b9bd115d936976bca01772cbc/vectordrawable-animated-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/techdodles/.gradle/caches/transforms-2/files-2.1/3565c300e91ecb4702c38904cc5782c9/legacy-support-core-ui-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/techdodles/.gradle/caches/transforms-2/files-2.1/3565c300e91ecb4702c38904cc5782c9/legacy-support-core-ui-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/techdodles/.gradle/caches/transforms-2/files-2.1/53cd7e0cef0a36990df6d1df9c9ece23/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/techdodles/.gradle/caches/transforms-2/files-2.1/53cd7e0cef0a36990df6d1df9c9ece23/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] /Users/techdodles/.gradle/caches/transforms-2/files-2.1/54f481da7dce2850b8f680a3f875a4f8/vectordrawable-1.0.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] /Users/techdodles/.gradle/caches/transforms-2/files-2.1/54f481da7dce2850b8f680a3f875a4f8/vectordrawable-1.0.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] /Users/techdodles/.gradle/caches/transforms-2/files-2.1/9f6809871b24d26672f1046b64c729a6/media-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] /Users/techdodles/.gradle/caches/transforms-2/files-2.1/9f6809871b24d26672f1046b64c729a6/media-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/techdodles/.gradle/caches/transforms-2/files-2.1/6fe71d97cf5707e0f4a7181911e052b7/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/techdodles/.gradle/caches/transforms-2/files-2.1/6fe71d97cf5707e0f4a7181911e052b7/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/techdodles/.gradle/caches/transforms-2/files-2.1/ed6a05cb04bc943c4c99c5b446a2eedf/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/techdodles/.gradle/caches/transforms-2/files-2.1/ed6a05cb04bc943c4c99c5b446a2eedf/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/techdodles/.gradle/caches/transforms-2/files-2.1/44e9d7afb0b766ef6cd2e0fc8981ccd8/coordinatorlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/techdodles/.gradle/caches/transforms-2/files-2.1/44e9d7afb0b766ef6cd2e0fc8981ccd8/coordinatorlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/techdodles/.gradle/caches/transforms-2/files-2.1/ab060cb0b57cf038ea6d68e376b3dc1c/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/techdodles/.gradle/caches/transforms-2/files-2.1/ab060cb0b57cf038ea6d68e376b3dc1c/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/techdodles/.gradle/caches/transforms-2/files-2.1/aa9f1d7c85372a49a4fe7ee2b1df4d40/slidingpanelayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/techdodles/.gradle/caches/transforms-2/files-2.1/aa9f1d7c85372a49a4fe7ee2b1df4d40/slidingpanelayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/techdodles/.gradle/caches/transforms-2/files-2.1/14474e65cc0bc48e3b14946cb7c0722b/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/techdodles/.gradle/caches/transforms-2/files-2.1/14474e65cc0bc48e3b14946cb7c0722b/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/techdodles/.gradle/caches/transforms-2/files-2.1/f22a75cf817b9718669673042cff5086/swiperefreshlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/techdodles/.gradle/caches/transforms-2/files-2.1/f22a75cf817b9718669673042cff5086/swiperefreshlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/techdodles/.gradle/caches/transforms-2/files-2.1/52c1dfbc6044a1967c8990f636330db0/asynclayoutinflater-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/techdodles/.gradle/caches/transforms-2/files-2.1/52c1dfbc6044a1967c8990f636330db0/asynclayoutinflater-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.1] /Users/techdodles/.gradle/caches/transforms-2/files-2.1/e8e0b2ee21f4e5d9e64c2486f33da267/core-1.0.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.1] /Users/techdodles/.gradle/caches/transforms-2/files-2.1/e8e0b2ee21f4e5d9e64c2486f33da267/core-1.0.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/techdodles/.gradle/caches/transforms-2/files-2.1/325c8c5c622ef3bdf209facc40a2fd88/versionedparcelable-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/techdodles/.gradle/caches/transforms-2/files-2.1/325c8c5c622ef3bdf209facc40a2fd88/versionedparcelable-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/techdodles/.gradle/caches/transforms-2/files-2.1/4affab6c49b2a39aea262395f24d4da5/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/techdodles/.gradle/caches/transforms-2/files-2.1/4affab6c49b2a39aea262395f24d4da5/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-components:16.1.0] /Users/techdodles/.gradle/caches/transforms-2/files-2.1/bcef0db1de5c0759982e321f2139ac4e/jetified-firebase-components-16.1.0/AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-components:16.1.0] /Users/techdodles/.gradle/caches/transforms-2/files-2.1/bcef0db1de5c0759982e321f2139ac4e/jetified-firebase-components-16.1.0/AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-encoders-json:17.1.0] /Users/techdodles/.gradle/caches/transforms-2/files-2.1/fff19fbb02c37b390d8250ae7f502340/firebase-encoders-json-17.1.0/AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-encoders-json:17.1.0] /Users/techdodles/.gradle/caches/transforms-2/files-2.1/fff19fbb02c37b390d8250ae7f502340/firebase-encoders-json-17.1.0/AndroidManifest.xml:19:5-21:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /Users/techdodles/.gradle/caches/transforms-2/files-2.1/7988de2620693657c99a4120cacec56a/lifecycle-runtime-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /Users/techdodles/.gradle/caches/transforms-2/files-2.1/7988de2620693657c99a4120cacec56a/lifecycle-runtime-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/techdodles/.gradle/caches/transforms-2/files-2.1/b8f45ad43de7efbb028323abee5461d0/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/techdodles/.gradle/caches/transforms-2/files-2.1/b8f45ad43de7efbb028323abee5461d0/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/techdodles/.gradle/caches/transforms-2/files-2.1/1a2bf9d8379e994c1d0b05688cdefc47/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/techdodles/.gradle/caches/transforms-2/files-2.1/1a2bf9d8379e994c1d0b05688cdefc47/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/techdodles/.gradle/caches/transforms-2/files-2.1/de72611b6ab952e8873a86087b621cb9/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/techdodles/.gradle/caches/transforms-2/files-2.1/de72611b6ab952e8873a86087b621cb9/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /Users/techdodles/.gradle/caches/transforms-2/files-2.1/707b89141d0adb805b7988def28d2113/lifecycle-viewmodel-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /Users/techdodles/.gradle/caches/transforms-2/files-2.1/707b89141d0adb805b7988def28d2113/lifecycle-viewmodel-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/techdodles/.gradle/caches/transforms-2/files-2.1/1f22b996c3818163e7abf6df9a89974e/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/techdodles/.gradle/caches/transforms-2/files-2.1/1f22b996c3818163e7abf6df9a89974e/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.datatransport:transport-api:2.2.1] /Users/techdodles/.gradle/caches/transforms-2/files-2.1/5c9ccadaa0262d212eebfaefbdf6e62a/jetified-transport-api-2.2.1/AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.android.datatransport:transport-api:2.2.1] /Users/techdodles/.gradle/caches/transforms-2/files-2.1/5c9ccadaa0262d212eebfaefbdf6e62a/jetified-transport-api-2.2.1/AndroidManifest.xml:18:5-20:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/techdodles/.gradle/caches/transforms-2/files-2.1/1d63cda437ebb2fcc3291d2ac0187ab5/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/techdodles/.gradle/caches/transforms-2/files-2.1/1d63cda437ebb2fcc3291d2ac0187ab5/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/techdodles/.gradle/caches/transforms-2/files-2.1/94a3a49b043c2290d5d40e1c969f544c/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/techdodles/.gradle/caches/transforms-2/files-2.1/94a3a49b043c2290d5d40e1c969f544c/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/techdodles/.gradle/caches/transforms-2/files-2.1/3d41991e932aa027eaadce0b11cf7afb/core-runtime-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/techdodles/.gradle/caches/transforms-2/files-2.1/3d41991e932aa027eaadce0b11cf7afb/core-runtime-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.facebook.conceal:conceal:1.1.3] /Users/techdodles/.gradle/caches/transforms-2/files-2.1/785bf9fa01bbe833cc53324d60167f90/conceal-1.1.3/AndroidManifest.xml:12:5-14:41
+MERGED from [com.facebook.conceal:conceal:1.1.3] /Users/techdodles/.gradle/caches/transforms-2/files-2.1/785bf9fa01bbe833cc53324d60167f90/conceal-1.1.3/AndroidManifest.xml:12:5-14:41
+MERGED from [me.leolin:ShortcutBadger:1.1.8] /Users/techdodles/.gradle/caches/transforms-2/files-2.1/ac21f01c6641e2f1f87c8086c8adf8e6/ShortcutBadger-1.1.8/AndroidManifest.xml:7:5-9:41
+MERGED from [me.leolin:ShortcutBadger:1.1.8] /Users/techdodles/.gradle/caches/transforms-2/files-2.1/ac21f01c6641e2f1f87c8086c8adf8e6/ShortcutBadger-1.1.8/AndroidManifest.xml:7:5-9:41
+INJECTED from /Users/techdodles/Desktop/Bhavya/Project/kryptokrona-mobile-wallet-master/android/app/src/debug/AndroidManifest.xml
+INJECTED from /Users/techdodles/Desktop/Bhavya/Project/kryptokrona-mobile-wallet-master/android/app/src/debug/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/techdodles/Desktop/Bhavya/Project/kryptokrona-mobile-wallet-master/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/techdodles/Desktop/Bhavya/Project/kryptokrona-mobile-wallet-master/android/app/src/debug/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/techdodles/Desktop/Bhavya/Project/kryptokrona-mobile-wallet-master/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/techdodles/Desktop/Bhavya/Project/kryptokrona-mobile-wallet-master/android/app/src/debug/AndroidManifest.xml
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from /Users/techdodles/Desktop/Bhavya/Project/kryptokrona-mobile-wallet-master/android/app/src/debug/AndroidManifest.xml:5:5-77
+	android:name
+		ADDED from /Users/techdodles/Desktop/Bhavya/Project/kryptokrona-mobile-wallet-master/android/app/src/debug/AndroidManifest.xml:5:22-75
+uses-permission#com.fingerprints.service.ACCESS_FINGERPRINT_MANAGER
+ADDED from [:react-native-fingerprint-scanner] /Users/techdodles/Desktop/Bhavya/Project/kryptokrona-mobile-wallet-master/node_modules/react-native-fingerprint-scanner/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:12:5-91
+	android:name
+		ADDED from [:react-native-fingerprint-scanner] /Users/techdodles/Desktop/Bhavya/Project/kryptokrona-mobile-wallet-master/node_modules/react-native-fingerprint-scanner/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:12:22-88
+uses-permission#com.samsung.android.providers.context.permission.WRITE_USE_APP_FEATURE_SURVEY
+ADDED from [:react-native-fingerprint-scanner] /Users/techdodles/Desktop/Bhavya/Project/kryptokrona-mobile-wallet-master/node_modules/react-native-fingerprint-scanner/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:13:5-117
+	android:name
+		ADDED from [:react-native-fingerprint-scanner] /Users/techdodles/Desktop/Bhavya/Project/kryptokrona-mobile-wallet-master/node_modules/react-native-fingerprint-scanner/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:13:22-114
+service#com.transistorsoft.rnbackgroundfetch.HeadlessJobService
+ADDED from [:react-native-background-fetch] /Users/techdodles/Desktop/Bhavya/Project/kryptokrona-mobile-wallet-master/node_modules/react-native-background-fetch/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:14:9-17:72
+	android:exported
+		ADDED from [:react-native-background-fetch] /Users/techdodles/Desktop/Bhavya/Project/kryptokrona-mobile-wallet-master/node_modules/react-native-background-fetch/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:16:13-36
+	android:permission
+		ADDED from [:react-native-background-fetch] /Users/techdodles/Desktop/Bhavya/Project/kryptokrona-mobile-wallet-master/node_modules/react-native-background-fetch/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:17:13-69
+	android:name
+		ADDED from [:react-native-background-fetch] /Users/techdodles/Desktop/Bhavya/Project/kryptokrona-mobile-wallet-master/node_modules/react-native-background-fetch/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:15:13-83
+receiver#com.transistorsoft.rnbackgroundfetch.HeadlessBroadcastReceiver
+ADDED from [:react-native-background-fetch] /Users/techdodles/Desktop/Bhavya/Project/kryptokrona-mobile-wallet-master/node_modules/react-native-background-fetch/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:19:9-23:20
+	android:name
+		ADDED from [:react-native-background-fetch] /Users/techdodles/Desktop/Bhavya/Project/kryptokrona-mobile-wallet-master/node_modules/react-native-background-fetch/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:19:19-96
+intent-filter#action:name:${applicationId}.event.BACKGROUND_FETCH
+ADDED from [:react-native-background-fetch] /Users/techdodles/Desktop/Bhavya/Project/kryptokrona-mobile-wallet-master/node_modules/react-native-background-fetch/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:20:13-22:29
+intent-filter#action:name:com.xkr.event.BACKGROUND_FETCH
+ADDED from [:react-native-background-fetch] /Users/techdodles/Desktop/Bhavya/Project/kryptokrona-mobile-wallet-master/node_modules/react-native-background-fetch/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:20:13-22:29
+action#${applicationId}.event.BACKGROUND_FETCH
+ADDED from [:react-native-background-fetch] /Users/techdodles/Desktop/Bhavya/Project/kryptokrona-mobile-wallet-master/node_modules/react-native-background-fetch/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:21:17-82
+	android:name
+		ADDED from [:react-native-background-fetch] /Users/techdodles/Desktop/Bhavya/Project/kryptokrona-mobile-wallet-master/node_modules/react-native-background-fetch/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:21:25-79
+action#com.xkr.event.BACKGROUND_FETCH
+ADDED from [:react-native-background-fetch] /Users/techdodles/Desktop/Bhavya/Project/kryptokrona-mobile-wallet-master/node_modules/react-native-background-fetch/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:21:17-82
+	android:name
+		ADDED from [:react-native-background-fetch] /Users/techdodles/Desktop/Bhavya/Project/kryptokrona-mobile-wallet-master/node_modules/react-native-background-fetch/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:21:25-79
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [:@react-native-community_netinfo] /Users/techdodles/Desktop/Bhavya/Project/kryptokrona-mobile-wallet-master/node_modules/@react-native-community/netinfo/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:9:5-79
+MERGED from [:@sentry_react-native] /Users/techdodles/Desktop/Bhavya/Project/kryptokrona-mobile-wallet-master/node_modules/@sentry/react-native/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:12:5-79
+MERGED from [:@sentry_react-native] /Users/techdodles/Desktop/Bhavya/Project/kryptokrona-mobile-wallet-master/node_modules/@sentry/react-native/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:12:5-79
+MERGED from [:react-native-udp] /Users/techdodles/Desktop/Bhavya/Project/kryptokrona-mobile-wallet-master/node_modules/react-native-udp/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:12:5-79
+MERGED from [:react-native-udp] /Users/techdodles/Desktop/Bhavya/Project/kryptokrona-mobile-wallet-master/node_modules/react-native-udp/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:12:5-79
+MERGED from [com.google.android.datatransport:transport-backend-cct:2.3.3] /Users/techdodles/.gradle/caches/transforms-2/files-2.1/d189e339dd11e2bca70be01df75c407c/jetified-transport-backend-cct-2.3.3/AndroidManifest.xml:25:5-79
+MERGED from [com.google.android.datatransport:transport-backend-cct:2.3.3] /Users/techdodles/.gradle/caches/transforms-2/files-2.1/d189e339dd11e2bca70be01df75c407c/jetified-transport-backend-cct-2.3.3/AndroidManifest.xml:25:5-79
+MERGED from [com.google.android.datatransport:transport-runtime:2.2.5] /Users/techdodles/.gradle/caches/transforms-2/files-2.1/20505f7d026046bd723c01c9a50302f1/jetified-transport-runtime-2.2.5/AndroidManifest.xml:22:5-79
+MERGED from [com.google.android.datatransport:transport-runtime:2.2.5] /Users/techdodles/.gradle/caches/transforms-2/files-2.1/20505f7d026046bd723c01c9a50302f1/jetified-transport-runtime-2.2.5/AndroidManifest.xml:22:5-79
+MERGED from [com.google.firebase:firebase-iid:21.0.1] /Users/techdodles/.gradle/caches/transforms-2/files-2.1/5dc913cc10a69dcb0d5e5e9770496438/firebase-iid-21.0.1/AndroidManifest.xml:22:5-79
+MERGED from [com.google.firebase:firebase-iid:21.0.1] /Users/techdodles/.gradle/caches/transforms-2/files-2.1/5dc913cc10a69dcb0d5e5e9770496438/firebase-iid-21.0.1/AndroidManifest.xml:22:5-79
+MERGED from [com.google.android.gms:play-services-cloud-messaging:16.0.0] /Users/techdodles/.gradle/caches/transforms-2/files-2.1/6ee4f583a45c0af219d9c2fadb937282/play-services-cloud-messaging-16.0.0/AndroidManifest.xml:7:5-79
+MERGED from [com.google.android.gms:play-services-cloud-messaging:16.0.0] /Users/techdodles/.gradle/caches/transforms-2/files-2.1/6ee4f583a45c0af219d9c2fadb937282/play-services-cloud-messaging-16.0.0/AndroidManifest.xml:7:5-79
+MERGED from [com.google.firebase:firebase-installations:16.3.5] /Users/techdodles/.gradle/caches/transforms-2/files-2.1/90df5aa45f474731060058b2200978a2/firebase-installations-16.3.5/AndroidManifest.xml:10:5-79
+MERGED from [com.google.firebase:firebase-installations:16.3.5] /Users/techdodles/.gradle/caches/transforms-2/files-2.1/90df5aa45f474731060058b2200978a2/firebase-installations-16.3.5/AndroidManifest.xml:10:5-79
+	android:name
+		ADDED from [:@react-native-community_netinfo] /Users/techdodles/Desktop/Bhavya/Project/kryptokrona-mobile-wallet-master/node_modules/@react-native-community/netinfo/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:9:22-76
+uses-feature#android.hardware.camera
+ADDED from [:react-native-camera] /Users/techdodles/Desktop/Bhavya/Project/kryptokrona-mobile-wallet-master/node_modules/react-native-camera/android/build/intermediates/library_manifest/generalDebug/AndroidManifest.xml:11:5-13:36
+	android:required
+		ADDED from [:react-native-camera] /Users/techdodles/Desktop/Bhavya/Project/kryptokrona-mobile-wallet-master/node_modules/react-native-camera/android/build/intermediates/library_manifest/generalDebug/AndroidManifest.xml:13:9-33
+	android:name
+		ADDED from [:react-native-camera] /Users/techdodles/Desktop/Bhavya/Project/kryptokrona-mobile-wallet-master/node_modules/react-native-camera/android/build/intermediates/library_manifest/generalDebug/AndroidManifest.xml:12:9-47
+uses-feature#android.hardware.camera.autofocus
+ADDED from [:react-native-camera] /Users/techdodles/Desktop/Bhavya/Project/kryptokrona-mobile-wallet-master/node_modules/react-native-camera/android/build/intermediates/library_manifest/generalDebug/AndroidManifest.xml:14:5-16:36
+	android:required
+		ADDED from [:react-native-camera] /Users/techdodles/Desktop/Bhavya/Project/kryptokrona-mobile-wallet-master/node_modules/react-native-camera/android/build/intermediates/library_manifest/generalDebug/AndroidManifest.xml:16:9-33
+	android:name
+		ADDED from [:react-native-camera] /Users/techdodles/Desktop/Bhavya/Project/kryptokrona-mobile-wallet-master/node_modules/react-native-camera/android/build/intermediates/library_manifest/generalDebug/AndroidManifest.xml:15:9-57
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from [:react-native-udp] /Users/techdodles/Desktop/Bhavya/Project/kryptokrona-mobile-wallet-master/node_modules/react-native-udp/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:13:5-76
+	android:name
+		ADDED from [:react-native-udp] /Users/techdodles/Desktop/Bhavya/Project/kryptokrona-mobile-wallet-master/node_modules/react-native-udp/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:13:22-73
+uses-permission#android.permission.CHANGE_WIFI_MULTICAST_STATE
+ADDED from [:react-native-udp] /Users/techdodles/Desktop/Bhavya/Project/kryptokrona-mobile-wallet-master/node_modules/react-native-udp/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:14:5-86
+	android:name
+		ADDED from [:react-native-udp] /Users/techdodles/Desktop/Bhavya/Project/kryptokrona-mobile-wallet-master/node_modules/react-native-udp/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:14:22-83
+uses-permission#android.permission.RECEIVE_BOOT_COMPLETED
+ADDED from [com.transistorsoft:tsbackgroundfetch:0.3.1] /Users/techdodles/.gradle/caches/transforms-2/files-2.1/d47723bbaa89f858dfa553488f365093/tsbackgroundfetch-0.3.1/AndroidManifest.xml:11:5-81
+	android:name
+		ADDED from [com.transistorsoft:tsbackgroundfetch:0.3.1] /Users/techdodles/.gradle/caches/transforms-2/files-2.1/d47723bbaa89f858dfa553488f365093/tsbackgroundfetch-0.3.1/AndroidManifest.xml:11:22-78
+uses-permission#android.permission.GET_TASKS
+ADDED from [com.transistorsoft:tsbackgroundfetch:0.3.1] /Users/techdodles/.gradle/caches/transforms-2/files-2.1/d47723bbaa89f858dfa553488f365093/tsbackgroundfetch-0.3.1/AndroidManifest.xml:12:5-68
+	android:name
+		ADDED from [com.transistorsoft:tsbackgroundfetch:0.3.1] /Users/techdodles/.gradle/caches/transforms-2/files-2.1/d47723bbaa89f858dfa553488f365093/tsbackgroundfetch-0.3.1/AndroidManifest.xml:12:22-65
+receiver#com.transistorsoft.tsbackgroundfetch.FetchAlarmReceiver
+ADDED from [com.transistorsoft:tsbackgroundfetch:0.3.1] /Users/techdodles/.gradle/caches/transforms-2/files-2.1/d47723bbaa89f858dfa553488f365093/tsbackgroundfetch-0.3.1/AndroidManifest.xml:15:9-92
+	android:name
+		ADDED from [com.transistorsoft:tsbackgroundfetch:0.3.1] /Users/techdodles/.gradle/caches/transforms-2/files-2.1/d47723bbaa89f858dfa553488f365093/tsbackgroundfetch-0.3.1/AndroidManifest.xml:15:19-89
+service#com.transistorsoft.tsbackgroundfetch.FetchJobService
+ADDED from [com.transistorsoft:tsbackgroundfetch:0.3.1] /Users/techdodles/.gradle/caches/transforms-2/files-2.1/d47723bbaa89f858dfa553488f365093/tsbackgroundfetch-0.3.1/AndroidManifest.xml:17:9-20:72
+	android:exported
+		ADDED from [com.transistorsoft:tsbackgroundfetch:0.3.1] /Users/techdodles/.gradle/caches/transforms-2/files-2.1/d47723bbaa89f858dfa553488f365093/tsbackgroundfetch-0.3.1/AndroidManifest.xml:19:13-36
+	android:permission
+		ADDED from [com.transistorsoft:tsbackgroundfetch:0.3.1] /Users/techdodles/.gradle/caches/transforms-2/files-2.1/d47723bbaa89f858dfa553488f365093/tsbackgroundfetch-0.3.1/AndroidManifest.xml:20:13-69
+	android:name
+		ADDED from [com.transistorsoft:tsbackgroundfetch:0.3.1] /Users/techdodles/.gradle/caches/transforms-2/files-2.1/d47723bbaa89f858dfa553488f365093/tsbackgroundfetch-0.3.1/AndroidManifest.xml:18:13-80
+receiver#com.transistorsoft.tsbackgroundfetch.BootReceiver
+ADDED from [com.transistorsoft:tsbackgroundfetch:0.3.1] /Users/techdodles/.gradle/caches/transforms-2/files-2.1/d47723bbaa89f858dfa553488f365093/tsbackgroundfetch-0.3.1/AndroidManifest.xml:22:9-27:20
+	android:name
+		ADDED from [com.transistorsoft:tsbackgroundfetch:0.3.1] /Users/techdodles/.gradle/caches/transforms-2/files-2.1/d47723bbaa89f858dfa553488f365093/tsbackgroundfetch-0.3.1/AndroidManifest.xml:22:19-83
+intent-filter#action:name:android.intent.action.BOOT_COMPLETED+action:name:android.intent.action.MY_PACKAGE_REPLACED
+ADDED from [com.transistorsoft:tsbackgroundfetch:0.3.1] /Users/techdodles/.gradle/caches/transforms-2/files-2.1/d47723bbaa89f858dfa553488f365093/tsbackgroundfetch-0.3.1/AndroidManifest.xml:23:13-26:29
+action#android.intent.action.MY_PACKAGE_REPLACED
+ADDED from [com.transistorsoft:tsbackgroundfetch:0.3.1] /Users/techdodles/.gradle/caches/transforms-2/files-2.1/d47723bbaa89f858dfa553488f365093/tsbackgroundfetch-0.3.1/AndroidManifest.xml:25:17-84
+	android:name
+		ADDED from [com.transistorsoft:tsbackgroundfetch:0.3.1] /Users/techdodles/.gradle/caches/transforms-2/files-2.1/d47723bbaa89f858dfa553488f365093/tsbackgroundfetch-0.3.1/AndroidManifest.xml:25:25-81
+service#com.google.firebase.messaging.FirebaseMessagingService
+ADDED from [com.google.firebase:firebase-messaging:21.0.1] /Users/techdodles/.gradle/caches/transforms-2/files-2.1/a22afcdea1d42c2753ca5c4a98a234b5/jetified-firebase-messaging-21.0.1/AndroidManifest.xml:28:9-35:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-messaging:21.0.1] /Users/techdodles/.gradle/caches/transforms-2/files-2.1/a22afcdea1d42c2753ca5c4a98a234b5/jetified-firebase-messaging-21.0.1/AndroidManifest.xml:31:13-37
+	android:directBootAware
+		ADDED from [com.google.firebase:firebase-messaging:21.0.1] /Users/techdodles/.gradle/caches/transforms-2/files-2.1/a22afcdea1d42c2753ca5c4a98a234b5/jetified-firebase-messaging-21.0.1/AndroidManifest.xml:30:13-43
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:21.0.1] /Users/techdodles/.gradle/caches/transforms-2/files-2.1/a22afcdea1d42c2753ca5c4a98a234b5/jetified-firebase-messaging-21.0.1/AndroidManifest.xml:29:13-82
+service#com.google.firebase.components.ComponentDiscoveryService
+ADDED from [com.google.firebase:firebase-messaging:21.0.1] /Users/techdodles/.gradle/caches/transforms-2/files-2.1/a22afcdea1d42c2753ca5c4a98a234b5/jetified-firebase-messaging-21.0.1/AndroidManifest.xml:36:9-42:19
+MERGED from [com.google.firebase:firebase-datatransport:17.0.10] /Users/techdodles/.gradle/caches/transforms-2/files-2.1/0581ed86db08602eda8a39962d6aacda/firebase-datatransport-17.0.10/AndroidManifest.xml:25:9-31:19
+MERGED from [com.google.firebase:firebase-datatransport:17.0.10] /Users/techdodles/.gradle/caches/transforms-2/files-2.1/0581ed86db08602eda8a39962d6aacda/firebase-datatransport-17.0.10/AndroidManifest.xml:25:9-31:19
+MERGED from [com.google.firebase:firebase-iid:21.0.1] /Users/techdodles/.gradle/caches/transforms-2/files-2.1/5dc913cc10a69dcb0d5e5e9770496438/firebase-iid-21.0.1/AndroidManifest.xml:29:9-35:19
+MERGED from [com.google.firebase:firebase-iid:21.0.1] /Users/techdodles/.gradle/caches/transforms-2/files-2.1/5dc913cc10a69dcb0d5e5e9770496438/firebase-iid-21.0.1/AndroidManifest.xml:29:9-35:19
+MERGED from [com.google.firebase:firebase-installations:16.3.5] /Users/techdodles/.gradle/caches/transforms-2/files-2.1/90df5aa45f474731060058b2200978a2/firebase-installations-16.3.5/AndroidManifest.xml:15:9-21:19
+MERGED from [com.google.firebase:firebase-installations:16.3.5] /Users/techdodles/.gradle/caches/transforms-2/files-2.1/90df5aa45f474731060058b2200978a2/firebase-installations-16.3.5/AndroidManifest.xml:15:9-21:19
+MERGED from [com.google.firebase:firebase-common:19.5.0] /Users/techdodles/.gradle/caches/transforms-2/files-2.1/851ce5721e5a940031ba5cb25e1572f0/jetified-firebase-common-19.5.0/AndroidManifest.xml:33:9-46:19
+MERGED from [com.google.firebase:firebase-common:19.5.0] /Users/techdodles/.gradle/caches/transforms-2/files-2.1/851ce5721e5a940031ba5cb25e1572f0/jetified-firebase-common-19.5.0/AndroidManifest.xml:33:9-46:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-messaging:21.0.1] /Users/techdodles/.gradle/caches/transforms-2/files-2.1/a22afcdea1d42c2753ca5c4a98a234b5/jetified-firebase-messaging-21.0.1/AndroidManifest.xml:38:13-37
+	tools:targetApi
+		ADDED from [com.google.firebase:firebase-common:19.5.0] /Users/techdodles/.gradle/caches/transforms-2/files-2.1/851ce5721e5a940031ba5cb25e1572f0/jetified-firebase-common-19.5.0/AndroidManifest.xml:37:13-32
+	android:directBootAware
+		ADDED from [com.google.firebase:firebase-common:19.5.0] /Users/techdodles/.gradle/caches/transforms-2/files-2.1/851ce5721e5a940031ba5cb25e1572f0/jetified-firebase-common-19.5.0/AndroidManifest.xml:35:13-43
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:21.0.1] /Users/techdodles/.gradle/caches/transforms-2/files-2.1/a22afcdea1d42c2753ca5c4a98a234b5/jetified-firebase-messaging-21.0.1/AndroidManifest.xml:37:13-84
+meta-data#com.google.firebase.components:com.google.firebase.messaging.FirebaseMessagingRegistrar
+ADDED from [com.google.firebase:firebase-messaging:21.0.1] /Users/techdodles/.gradle/caches/transforms-2/files-2.1/a22afcdea1d42c2753ca5c4a98a234b5/jetified-firebase-messaging-21.0.1/AndroidManifest.xml:39:13-41:85
+	android:value
+		ADDED from [com.google.firebase:firebase-messaging:21.0.1] /Users/techdodles/.gradle/caches/transforms-2/files-2.1/a22afcdea1d42c2753ca5c4a98a234b5/jetified-firebase-messaging-21.0.1/AndroidManifest.xml:41:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:21.0.1] /Users/techdodles/.gradle/caches/transforms-2/files-2.1/a22afcdea1d42c2753ca5c4a98a234b5/jetified-firebase-messaging-21.0.1/AndroidManifest.xml:40:17-119
+meta-data#com.google.firebase.components:com.google.firebase.datatransport.TransportRegistrar
+ADDED from [com.google.firebase:firebase-datatransport:17.0.10] /Users/techdodles/.gradle/caches/transforms-2/files-2.1/0581ed86db08602eda8a39962d6aacda/firebase-datatransport-17.0.10/AndroidManifest.xml:28:13-30:85
+	android:value
+		ADDED from [com.google.firebase:firebase-datatransport:17.0.10] /Users/techdodles/.gradle/caches/transforms-2/files-2.1/0581ed86db08602eda8a39962d6aacda/firebase-datatransport-17.0.10/AndroidManifest.xml:30:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-datatransport:17.0.10] /Users/techdodles/.gradle/caches/transforms-2/files-2.1/0581ed86db08602eda8a39962d6aacda/firebase-datatransport-17.0.10/AndroidManifest.xml:29:17-115
+service#com.google.android.datatransport.runtime.backends.TransportBackendDiscovery
+ADDED from [com.google.android.datatransport:transport-backend-cct:2.3.3] /Users/techdodles/.gradle/caches/transforms-2/files-2.1/d189e339dd11e2bca70be01df75c407c/jetified-transport-backend-cct-2.3.3/AndroidManifest.xml:29:9-35:19
+MERGED from [com.google.android.datatransport:transport-runtime:2.2.5] /Users/techdodles/.gradle/caches/transforms-2/files-2.1/20505f7d026046bd723c01c9a50302f1/jetified-transport-runtime-2.2.5/AndroidManifest.xml:36:9-38:40
+MERGED from [com.google.android.datatransport:transport-runtime:2.2.5] /Users/techdodles/.gradle/caches/transforms-2/files-2.1/20505f7d026046bd723c01c9a50302f1/jetified-transport-runtime-2.2.5/AndroidManifest.xml:36:9-38:40
+	android:exported
+		ADDED from [com.google.android.datatransport:transport-backend-cct:2.3.3] /Users/techdodles/.gradle/caches/transforms-2/files-2.1/d189e339dd11e2bca70be01df75c407c/jetified-transport-backend-cct-2.3.3/AndroidManifest.xml:31:13-37
+	android:name
+		ADDED from [com.google.android.datatransport:transport-backend-cct:2.3.3] /Users/techdodles/.gradle/caches/transforms-2/files-2.1/d189e339dd11e2bca70be01df75c407c/jetified-transport-backend-cct-2.3.3/AndroidManifest.xml:30:13-103
+meta-data#backend:com.google.android.datatransport.cct.CctBackendFactory
+ADDED from [com.google.android.datatransport:transport-backend-cct:2.3.3] /Users/techdodles/.gradle/caches/transforms-2/files-2.1/d189e339dd11e2bca70be01df75c407c/jetified-transport-backend-cct-2.3.3/AndroidManifest.xml:32:13-34:39
+	android:value
+		ADDED from [com.google.android.datatransport:transport-backend-cct:2.3.3] /Users/techdodles/.gradle/caches/transforms-2/files-2.1/d189e339dd11e2bca70be01df75c407c/jetified-transport-backend-cct-2.3.3/AndroidManifest.xml:34:17-36
+	android:name
+		ADDED from [com.google.android.datatransport:transport-backend-cct:2.3.3] /Users/techdodles/.gradle/caches/transforms-2/files-2.1/d189e339dd11e2bca70be01df75c407c/jetified-transport-backend-cct-2.3.3/AndroidManifest.xml:33:17-94
+service#com.google.android.datatransport.runtime.scheduling.jobscheduling.JobInfoSchedulerService
+ADDED from [com.google.android.datatransport:transport-runtime:2.2.5] /Users/techdodles/.gradle/caches/transforms-2/files-2.1/20505f7d026046bd723c01c9a50302f1/jetified-transport-runtime-2.2.5/AndroidManifest.xml:26:9-30:19
+	android:exported
+		ADDED from [com.google.android.datatransport:transport-runtime:2.2.5] /Users/techdodles/.gradle/caches/transforms-2/files-2.1/20505f7d026046bd723c01c9a50302f1/jetified-transport-runtime-2.2.5/AndroidManifest.xml:28:13-37
+	android:permission
+		ADDED from [com.google.android.datatransport:transport-runtime:2.2.5] /Users/techdodles/.gradle/caches/transforms-2/files-2.1/20505f7d026046bd723c01c9a50302f1/jetified-transport-runtime-2.2.5/AndroidManifest.xml:29:13-69
+	android:name
+		ADDED from [com.google.android.datatransport:transport-runtime:2.2.5] /Users/techdodles/.gradle/caches/transforms-2/files-2.1/20505f7d026046bd723c01c9a50302f1/jetified-transport-runtime-2.2.5/AndroidManifest.xml:27:13-117
+receiver#com.google.android.datatransport.runtime.scheduling.jobscheduling.AlarmManagerSchedulerBroadcastReceiver
+ADDED from [com.google.android.datatransport:transport-runtime:2.2.5] /Users/techdodles/.gradle/caches/transforms-2/files-2.1/20505f7d026046bd723c01c9a50302f1/jetified-transport-runtime-2.2.5/AndroidManifest.xml:32:9-34:40
+	android:exported
+		ADDED from [com.google.android.datatransport:transport-runtime:2.2.5] /Users/techdodles/.gradle/caches/transforms-2/files-2.1/20505f7d026046bd723c01c9a50302f1/jetified-transport-runtime-2.2.5/AndroidManifest.xml:34:13-37
+	android:name
+		ADDED from [com.google.android.datatransport:transport-runtime:2.2.5] /Users/techdodles/.gradle/caches/transforms-2/files-2.1/20505f7d026046bd723c01c9a50302f1/jetified-transport-runtime-2.2.5/AndroidManifest.xml:33:13-132
+uses-permission#com.google.android.c2dm.permission.RECEIVE
+ADDED from [com.google.android.gms:play-services-gcm:17.0.0] /Users/techdodles/.gradle/caches/transforms-2/files-2.1/b4f5dccaeb018f86f07f122801f1086d/play-services-gcm-17.0.0/AndroidManifest.xml:23:5-82
+MERGED from [com.google.android.gms:play-services-iid:17.0.0] /Users/techdodles/.gradle/caches/transforms-2/files-2.1/06dd01886efac277ac9851f60bb50e21/play-services-iid-17.0.0/AndroidManifest.xml:23:5-82
+MERGED from [com.google.android.gms:play-services-iid:17.0.0] /Users/techdodles/.gradle/caches/transforms-2/files-2.1/06dd01886efac277ac9851f60bb50e21/play-services-iid-17.0.0/AndroidManifest.xml:23:5-82
+MERGED from [com.google.firebase:firebase-iid:21.0.1] /Users/techdodles/.gradle/caches/transforms-2/files-2.1/5dc913cc10a69dcb0d5e5e9770496438/firebase-iid-21.0.1/AndroidManifest.xml:26:5-82
+MERGED from [com.google.firebase:firebase-iid:21.0.1] /Users/techdodles/.gradle/caches/transforms-2/files-2.1/5dc913cc10a69dcb0d5e5e9770496438/firebase-iid-21.0.1/AndroidManifest.xml:26:5-82
+MERGED from [com.google.android.gms:play-services-cloud-messaging:16.0.0] /Users/techdodles/.gradle/caches/transforms-2/files-2.1/6ee4f583a45c0af219d9c2fadb937282/play-services-cloud-messaging-16.0.0/AndroidManifest.xml:11:5-82
+MERGED from [com.google.android.gms:play-services-cloud-messaging:16.0.0] /Users/techdodles/.gradle/caches/transforms-2/files-2.1/6ee4f583a45c0af219d9c2fadb937282/play-services-cloud-messaging-16.0.0/AndroidManifest.xml:11:5-82
+	android:name
+		ADDED from [com.google.android.gms:play-services-gcm:17.0.0] /Users/techdodles/.gradle/caches/transforms-2/files-2.1/b4f5dccaeb018f86f07f122801f1086d/play-services-gcm-17.0.0/AndroidManifest.xml:23:22-79
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [com.google.firebase:firebase-iid:21.0.1] /Users/techdodles/.gradle/caches/transforms-2/files-2.1/5dc913cc10a69dcb0d5e5e9770496438/firebase-iid-21.0.1/AndroidManifest.xml:24:5-68
+MERGED from [com.google.android.gms:play-services-cloud-messaging:16.0.0] /Users/techdodles/.gradle/caches/transforms-2/files-2.1/6ee4f583a45c0af219d9c2fadb937282/play-services-cloud-messaging-16.0.0/AndroidManifest.xml:9:5-68
+MERGED from [com.google.android.gms:play-services-cloud-messaging:16.0.0] /Users/techdodles/.gradle/caches/transforms-2/files-2.1/6ee4f583a45c0af219d9c2fadb937282/play-services-cloud-messaging-16.0.0/AndroidManifest.xml:9:5-68
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:21.0.1] /Users/techdodles/.gradle/caches/transforms-2/files-2.1/5dc913cc10a69dcb0d5e5e9770496438/firebase-iid-21.0.1/AndroidManifest.xml:24:22-65
+meta-data#com.google.firebase.components:com.google.firebase.iid.Registrar
+ADDED from [com.google.firebase:firebase-iid:21.0.1] /Users/techdodles/.gradle/caches/transforms-2/files-2.1/5dc913cc10a69dcb0d5e5e9770496438/firebase-iid-21.0.1/AndroidManifest.xml:32:13-34:85
+	android:value
+		ADDED from [com.google.firebase:firebase-iid:21.0.1] /Users/techdodles/.gradle/caches/transforms-2/files-2.1/5dc913cc10a69dcb0d5e5e9770496438/firebase-iid-21.0.1/AndroidManifest.xml:34:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:21.0.1] /Users/techdodles/.gradle/caches/transforms-2/files-2.1/5dc913cc10a69dcb0d5e5e9770496438/firebase-iid-21.0.1/AndroidManifest.xml:33:17-96
+receiver#com.google.firebase.iid.FirebaseInstanceIdReceiver
+ADDED from [com.google.firebase:firebase-iid:21.0.1] /Users/techdodles/.gradle/caches/transforms-2/files-2.1/5dc913cc10a69dcb0d5e5e9770496438/firebase-iid-21.0.1/AndroidManifest.xml:37:9-44:20
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:21.0.1] /Users/techdodles/.gradle/caches/transforms-2/files-2.1/5dc913cc10a69dcb0d5e5e9770496438/firebase-iid-21.0.1/AndroidManifest.xml:39:13-36
+	android:permission
+		ADDED from [com.google.firebase:firebase-iid:21.0.1] /Users/techdodles/.gradle/caches/transforms-2/files-2.1/5dc913cc10a69dcb0d5e5e9770496438/firebase-iid-21.0.1/AndroidManifest.xml:40:13-73
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:21.0.1] /Users/techdodles/.gradle/caches/transforms-2/files-2.1/5dc913cc10a69dcb0d5e5e9770496438/firebase-iid-21.0.1/AndroidManifest.xml:38:13-78
+intent-filter#action:name:com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:21.0.1] /Users/techdodles/.gradle/caches/transforms-2/files-2.1/5dc913cc10a69dcb0d5e5e9770496438/firebase-iid-21.0.1/AndroidManifest.xml:41:13-43:29
+action#com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:21.0.1] /Users/techdodles/.gradle/caches/transforms-2/files-2.1/5dc913cc10a69dcb0d5e5e9770496438/firebase-iid-21.0.1/AndroidManifest.xml:42:17-81
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:21.0.1] /Users/techdodles/.gradle/caches/transforms-2/files-2.1/5dc913cc10a69dcb0d5e5e9770496438/firebase-iid-21.0.1/AndroidManifest.xml:42:25-78
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:17.0.0] /Users/techdodles/.gradle/caches/transforms-2/files-2.1/57ff500ed42a0b02b4eed5c4dc4e7665/play-services-base-17.0.0/AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:17.0.0] /Users/techdodles/.gradle/caches/transforms-2/files-2.1/57ff500ed42a0b02b4eed5c4dc4e7665/play-services-base-17.0.0/AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:17.0.0] /Users/techdodles/.gradle/caches/transforms-2/files-2.1/57ff500ed42a0b02b4eed5c4dc4e7665/play-services-base-17.0.0/AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:17.0.0] /Users/techdodles/.gradle/caches/transforms-2/files-2.1/57ff500ed42a0b02b4eed5c4dc4e7665/play-services-base-17.0.0/AndroidManifest.xml:24:13-79
+meta-data#com.google.firebase.components:com.google.firebase.installations.FirebaseInstallationsRegistrar
+ADDED from [com.google.firebase:firebase-installations:16.3.5] /Users/techdodles/.gradle/caches/transforms-2/files-2.1/90df5aa45f474731060058b2200978a2/firebase-installations-16.3.5/AndroidManifest.xml:18:13-20:85
+	android:value
+		ADDED from [com.google.firebase:firebase-installations:16.3.5] /Users/techdodles/.gradle/caches/transforms-2/files-2.1/90df5aa45f474731060058b2200978a2/firebase-installations-16.3.5/AndroidManifest.xml:20:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-installations:16.3.5] /Users/techdodles/.gradle/caches/transforms-2/files-2.1/90df5aa45f474731060058b2200978a2/firebase-installations-16.3.5/AndroidManifest.xml:19:17-127
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:19.5.0] /Users/techdodles/.gradle/caches/transforms-2/files-2.1/851ce5721e5a940031ba5cb25e1572f0/jetified-firebase-common-19.5.0/AndroidManifest.xml:26:9-31:39
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:19.5.0] /Users/techdodles/.gradle/caches/transforms-2/files-2.1/851ce5721e5a940031ba5cb25e1572f0/jetified-firebase-common-19.5.0/AndroidManifest.xml:28:13-72
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:19.5.0] /Users/techdodles/.gradle/caches/transforms-2/files-2.1/851ce5721e5a940031ba5cb25e1572f0/jetified-firebase-common-19.5.0/AndroidManifest.xml:30:13-37
+	android:directBootAware
+		ADDED from [com.google.firebase:firebase-common:19.5.0] /Users/techdodles/.gradle/caches/transforms-2/files-2.1/851ce5721e5a940031ba5cb25e1572f0/jetified-firebase-common-19.5.0/AndroidManifest.xml:29:13-43
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:19.5.0] /Users/techdodles/.gradle/caches/transforms-2/files-2.1/851ce5721e5a940031ba5cb25e1572f0/jetified-firebase-common-19.5.0/AndroidManifest.xml:31:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-common:19.5.0] /Users/techdodles/.gradle/caches/transforms-2/files-2.1/851ce5721e5a940031ba5cb25e1572f0/jetified-firebase-common-19.5.0/AndroidManifest.xml:27:13-77
+meta-data#com.google.firebase.components:com.google.firebase.dynamicloading.DynamicLoadingRegistrar
+ADDED from [com.google.firebase:firebase-common:19.5.0] /Users/techdodles/.gradle/caches/transforms-2/files-2.1/851ce5721e5a940031ba5cb25e1572f0/jetified-firebase-common-19.5.0/AndroidManifest.xml:43:13-45:85
+	android:value
+		ADDED from [com.google.firebase:firebase-common:19.5.0] /Users/techdodles/.gradle/caches/transforms-2/files-2.1/851ce5721e5a940031ba5cb25e1572f0/jetified-firebase-common-19.5.0/AndroidManifest.xml:45:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-common:19.5.0] /Users/techdodles/.gradle/caches/transforms-2/files-2.1/851ce5721e5a940031ba5cb25e1572f0/jetified-firebase-common-19.5.0/AndroidManifest.xml:44:17-121
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:17.0.0] /Users/techdodles/.gradle/caches/transforms-2/files-2.1/1f3901d9556039b228c83a0e7af54570/jetified-play-services-basement-17.0.0/AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:17.0.0] /Users/techdodles/.gradle/caches/transforms-2/files-2.1/1f3901d9556039b228c83a0e7af54570/jetified-play-services-basement-17.0.0/AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:17.0.0] /Users/techdodles/.gradle/caches/transforms-2/files-2.1/1f3901d9556039b228c83a0e7af54570/jetified-play-services-basement-17.0.0/AndroidManifest.xml:24:13-58
+uses-permission#com.sec.android.provider.badge.permission.READ
+ADDED from [me.leolin:ShortcutBadger:1.1.8] /Users/techdodles/.gradle/caches/transforms-2/files-2.1/ac21f01c6641e2f1f87c8086c8adf8e6/ShortcutBadger-1.1.8/AndroidManifest.xml:19:5-86
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.8] /Users/techdodles/.gradle/caches/transforms-2/files-2.1/ac21f01c6641e2f1f87c8086c8adf8e6/ShortcutBadger-1.1.8/AndroidManifest.xml:19:22-83
+uses-permission#com.sec.android.provider.badge.permission.WRITE
+ADDED from [me.leolin:ShortcutBadger:1.1.8] /Users/techdodles/.gradle/caches/transforms-2/files-2.1/ac21f01c6641e2f1f87c8086c8adf8e6/ShortcutBadger-1.1.8/AndroidManifest.xml:20:5-87
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.8] /Users/techdodles/.gradle/caches/transforms-2/files-2.1/ac21f01c6641e2f1f87c8086c8adf8e6/ShortcutBadger-1.1.8/AndroidManifest.xml:20:22-84
+uses-permission#com.htc.launcher.permission.READ_SETTINGS
+ADDED from [me.leolin:ShortcutBadger:1.1.8] /Users/techdodles/.gradle/caches/transforms-2/files-2.1/ac21f01c6641e2f1f87c8086c8adf8e6/ShortcutBadger-1.1.8/AndroidManifest.xml:23:5-81
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.8] /Users/techdodles/.gradle/caches/transforms-2/files-2.1/ac21f01c6641e2f1f87c8086c8adf8e6/ShortcutBadger-1.1.8/AndroidManifest.xml:23:22-78
+uses-permission#com.htc.launcher.permission.UPDATE_SHORTCUT
+ADDED from [me.leolin:ShortcutBadger:1.1.8] /Users/techdodles/.gradle/caches/transforms-2/files-2.1/ac21f01c6641e2f1f87c8086c8adf8e6/ShortcutBadger-1.1.8/AndroidManifest.xml:24:5-83
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.8] /Users/techdodles/.gradle/caches/transforms-2/files-2.1/ac21f01c6641e2f1f87c8086c8adf8e6/ShortcutBadger-1.1.8/AndroidManifest.xml:24:22-80
+uses-permission#com.sonyericsson.home.permission.BROADCAST_BADGE
+ADDED from [me.leolin:ShortcutBadger:1.1.8] /Users/techdodles/.gradle/caches/transforms-2/files-2.1/ac21f01c6641e2f1f87c8086c8adf8e6/ShortcutBadger-1.1.8/AndroidManifest.xml:27:5-88
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.8] /Users/techdodles/.gradle/caches/transforms-2/files-2.1/ac21f01c6641e2f1f87c8086c8adf8e6/ShortcutBadger-1.1.8/AndroidManifest.xml:27:22-85
+uses-permission#com.sonymobile.home.permission.PROVIDER_INSERT_BADGE
+ADDED from [me.leolin:ShortcutBadger:1.1.8] /Users/techdodles/.gradle/caches/transforms-2/files-2.1/ac21f01c6641e2f1f87c8086c8adf8e6/ShortcutBadger-1.1.8/AndroidManifest.xml:28:5-92
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.8] /Users/techdodles/.gradle/caches/transforms-2/files-2.1/ac21f01c6641e2f1f87c8086c8adf8e6/ShortcutBadger-1.1.8/AndroidManifest.xml:28:22-89
+uses-permission#com.anddoes.launcher.permission.UPDATE_COUNT
+ADDED from [me.leolin:ShortcutBadger:1.1.8] /Users/techdodles/.gradle/caches/transforms-2/files-2.1/ac21f01c6641e2f1f87c8086c8adf8e6/ShortcutBadger-1.1.8/AndroidManifest.xml:31:5-84
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.8] /Users/techdodles/.gradle/caches/transforms-2/files-2.1/ac21f01c6641e2f1f87c8086c8adf8e6/ShortcutBadger-1.1.8/AndroidManifest.xml:31:22-81
+uses-permission#com.majeur.launcher.permission.UPDATE_BADGE
+ADDED from [me.leolin:ShortcutBadger:1.1.8] /Users/techdodles/.gradle/caches/transforms-2/files-2.1/ac21f01c6641e2f1f87c8086c8adf8e6/ShortcutBadger-1.1.8/AndroidManifest.xml:34:5-83
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.8] /Users/techdodles/.gradle/caches/transforms-2/files-2.1/ac21f01c6641e2f1f87c8086c8adf8e6/ShortcutBadger-1.1.8/AndroidManifest.xml:34:22-80
+uses-permission#com.huawei.android.launcher.permission.CHANGE_BADGE
+ADDED from [me.leolin:ShortcutBadger:1.1.8] /Users/techdodles/.gradle/caches/transforms-2/files-2.1/ac21f01c6641e2f1f87c8086c8adf8e6/ShortcutBadger-1.1.8/AndroidManifest.xml:37:5-91
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.8] /Users/techdodles/.gradle/caches/transforms-2/files-2.1/ac21f01c6641e2f1f87c8086c8adf8e6/ShortcutBadger-1.1.8/AndroidManifest.xml:37:22-88
+uses-permission#com.huawei.android.launcher.permission.READ_SETTINGS
+ADDED from [me.leolin:ShortcutBadger:1.1.8] /Users/techdodles/.gradle/caches/transforms-2/files-2.1/ac21f01c6641e2f1f87c8086c8adf8e6/ShortcutBadger-1.1.8/AndroidManifest.xml:38:5-92
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.8] /Users/techdodles/.gradle/caches/transforms-2/files-2.1/ac21f01c6641e2f1f87c8086c8adf8e6/ShortcutBadger-1.1.8/AndroidManifest.xml:38:22-89
+uses-permission#com.huawei.android.launcher.permission.WRITE_SETTINGS
+ADDED from [me.leolin:ShortcutBadger:1.1.8] /Users/techdodles/.gradle/caches/transforms-2/files-2.1/ac21f01c6641e2f1f87c8086c8adf8e6/ShortcutBadger-1.1.8/AndroidManifest.xml:39:5-93
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.8] /Users/techdodles/.gradle/caches/transforms-2/files-2.1/ac21f01c6641e2f1f87c8086c8adf8e6/ShortcutBadger-1.1.8/AndroidManifest.xml:39:22-90

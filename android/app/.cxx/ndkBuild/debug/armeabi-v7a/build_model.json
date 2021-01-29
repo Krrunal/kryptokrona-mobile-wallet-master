@@ -1,0 +1,60 @@
+{
+  "variant": {
+    "module": {
+      "rootBuildGradleFolder": "/Users/techdodles/Desktop/Bhavya/Project/kryptokrona-mobile-wallet-master/android",
+      "sdkFolder": "/Users/techdodles/Library/Android/sdk",
+      "isNativeCompilerSettingsCacheEnabled": false,
+      "isBuildOnlyTargetAbiEnabled": true,
+      "splitsAbiFilterSet": [],
+      "intermediatesFolder": "/Users/techdodles/Desktop/Bhavya/Project/kryptokrona-mobile-wallet-master/android/app/build/intermediates",
+      "gradleModulePathName": ":app",
+      "moduleRootFolder": "/Users/techdodles/Desktop/Bhavya/Project/kryptokrona-mobile-wallet-master/android/app",
+      "makeFile": "/Users/techdodles/Desktop/Bhavya/Project/kryptokrona-mobile-wallet-master/android/app/src/main/jni/Android.mk",
+      "buildSystem": "NDK_BUILD",
+      "compilerSettingsCacheFolder": "/Users/techdodles/Desktop/Bhavya/Project/kryptokrona-mobile-wallet-master/android/.cxx",
+      "cxxFolder": "/Users/techdodles/Desktop/Bhavya/Project/kryptokrona-mobile-wallet-master/android/app/.cxx",
+      "ndkFolder": "/Users/techdodles/Library/Android/sdk/ndk-bundle",
+      "ndkVersion": "22.0.7026061",
+      "ndkSupportedAbiList": [
+        "ARMEABI_V7A",
+        "ARM64_V8A",
+        "X86",
+        "X86_64"
+      ],
+      "ndkDefaultAbiList": [
+        "ARMEABI_V7A",
+        "ARM64_V8A",
+        "X86",
+        "X86_64"
+      ],
+      "cmakeToolchainFile": "."
+    },
+    "buildSystemArgumentList": [],
+    "cFlagList": [],
+    "cppFlagsList": [],
+    "variantName": "debug",
+    "soFolder": "/Users/techdodles/Desktop/Bhavya/Project/kryptokrona-mobile-wallet-master/android/app/build/intermediates/ndkBuild/debug/lib",
+    "objFolder": "/Users/techdodles/Desktop/Bhavya/Project/kryptokrona-mobile-wallet-master/android/app/build/intermediates/ndkBuild/debug/obj/local",
+    "jsonFolder": "/Users/techdodles/Desktop/Bhavya/Project/kryptokrona-mobile-wallet-master/android/app/.cxx/ndkBuild/debug",
+    "gradleBuildOutputFolder": "/Users/techdodles/Desktop/Bhavya/Project/kryptokrona-mobile-wallet-master/android/app/.cxx/cxx/debug",
+    "isDebuggableEnabled": true,
+    "validAbiList": [
+      "ARMEABI_V7A",
+      "ARM64_V8A",
+      "X86",
+      "X86_64"
+    ],
+    "buildTargetSet": []
+  },
+  "abi": "ARMEABI_V7A",
+  "abiPlatformVersion": 16,
+  "cxxBuildFolder": "/Users/techdodles/Desktop/Bhavya/Project/kryptokrona-mobile-wallet-master/android/app/.cxx/ndkBuild/debug/armeabi-v7a",
+  "jsonFile": "/Users/techdodles/Desktop/Bhavya/Project/kryptokrona-mobile-wallet-master/android/app/.cxx/ndkBuild/debug/armeabi-v7a/android_gradle_build.json",
+  "gradleBuildOutputFolder": "/Users/techdodles/Desktop/Bhavya/Project/kryptokrona-mobile-wallet-master/android/app/.cxx/cxx/debug/armeabi-v7a",
+  "objFolder": "/Users/techdodles/Desktop/Bhavya/Project/kryptokrona-mobile-wallet-master/android/app/build/intermediates/ndkBuild/debug/obj/local/armeabi-v7a",
+  "buildCommandFile": "/Users/techdodles/Desktop/Bhavya/Project/kryptokrona-mobile-wallet-master/android/app/.cxx/ndkBuild/debug/armeabi-v7a/build_command.txt",
+  "buildOutputFile": "/Users/techdodles/Desktop/Bhavya/Project/kryptokrona-mobile-wallet-master/android/app/.cxx/ndkBuild/debug/armeabi-v7a/build_output.txt",
+  "modelOutputFile": "/Users/techdodles/Desktop/Bhavya/Project/kryptokrona-mobile-wallet-master/android/app/.cxx/ndkBuild/debug/armeabi-v7a/build_model.json",
+  "jsonGenerationLoggingRecordFile": "/Users/techdodles/Desktop/Bhavya/Project/kryptokrona-mobile-wallet-master/android/app/.cxx/ndkBuild/debug/armeabi-v7a/json_generation_record.json",
+  "compileCommandsJsonFile": "/Users/techdodles/Desktop/Bhavya/Project/kryptokrona-mobile-wallet-master/android/app/.cxx/ndkBuild/debug/armeabi-v7a/compile_commands.json"
+}
