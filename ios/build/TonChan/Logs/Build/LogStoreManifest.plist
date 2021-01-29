@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>10</integer>
+	<key>logs</key>
+	<dict>
+		<key>01295954-DCCD-4D57-BAD6-31E3E24B7A0D</key>
+		<dict>
+			<key>className</key>
+			<string>IDECommandLineBuildLog</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>01295954-DCCD-4D57-BAD6-31E3E24B7A0D.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>TonChan project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>TonChan</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Building workspace TonChan with scheme TonChan and configuration Debug</string>
+			<key>timeStartedRecording</key>
+			<real>633539445.79485404</real>
+			<key>timeStoppedRecording</key>
+			<real>633539477.147053</real>
+			<key>title</key>
+			<string>Building workspace TonChan with scheme TonChan and configuration Debug</string>
+			<key>uniqueIdentifier</key>
+			<string>01295954-DCCD-4D57-BAD6-31E3E24B7A0D</string>
+		</dict>
+		<key>4AA2ED89-7CC2-4446-A6D9-02A39254B7B5</key>
+		<dict>
+			<key>className</key>
+			<string>IDECommandLineBuildLog</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>4AA2ED89-7CC2-4446-A6D9-02A39254B7B5.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>TonChan project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>TonChan</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Building workspace TonChan with scheme TonChan and configuration Debug</string>
+			<key>timeStartedRecording</key>
+			<real>633539159.62382996</real>
+			<key>timeStoppedRecording</key>
+			<real>633539186.65550494</real>
+			<key>title</key>
+			<string>Building workspace TonChan with scheme TonChan and configuration Debug</string>
+			<key>uniqueIdentifier</key>
+			<string>4AA2ED89-7CC2-4446-A6D9-02A39254B7B5</string>
+		</dict>
+	</dict>
+</dict>
+</plist>
